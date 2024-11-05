@@ -1,0 +1,61 @@
+Course Code,Course Title,CRN,Section Type,Time,Days,Instructor,Method
+ME 205,Introduction to Thermodynamics,35098,LCD,01:00 PM - 01:50 PM,MWF,"Yurkiv, V",Online Asynchronous
+ME 205,Introduction to Thermodynamics,12405,LCD,03:00 PM - 03:50 PM,MWF,"Manafzadeh, S",On Campus
+ME 210,Engineering Dynamics,43498,LCD,11:00 AM - 11:50 AM,MWF,"Scott, M",On Campus
+ME 210,Engineering Dynamics,12407,LCD,12:00 PM - 12:50 PM,MWF,"Lilley, C",On Campus
+ME 211,Fluid Mechanics I,12429,LCD - AS1,10:00 AM - 10:50 AM,MWF,"Mirbod, P",On Campus
+ME 211,Fluid Mechanics I,35391,LCD - AS2,03:00 PM - 03:50 PM,MWF,"Xu, J",On Campus
+ME 250,Introduction to Engineering Design and Graphics,12457,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Szwalek, J",On Campus
+ME 250,Introduction to Engineering Design and Graphics,35096,LEC - BL,11:00 AM - 11:50 AM,MWF,"Abiade, J",On Campus
+ME 250,Introduction to Engineering Design and Graphics,36752,LEC - CL,02:00 PM - 02:50 PM,MWF,"Siow, Y",On Campus
+ME 250,Introduction to Engineering Design and Graphics,38912,LEC - DL,04:00 PM - 04:50 PM,MWF,"Siow, Y",On Campus
+ME 250,Introduction to Engineering Design and Graphics,43500,LEC - EL,09:30 AM - 10:45 AM,TR,"Szwalek, J",On Campus
+ME 261,Materials for Manufacturing,12472,LCD,02:00 PM - 02:50 PM,MWF,"McNallan, M",On Campus
+ME 308,Mechanical Vibrations,29574,LCD,01:00 PM - 01:50 PM,MWF,"Siow, Y",On Campus
+ME 312,Dynamic Systems and Control,22457,LCD,02:00 PM - 02:50 PM,MWF,"Kim, M",On Campus
+ME 312,Dynamic Systems and Control,43501,LCD,10:00 AM - 10:50 AM,MWF,"Reckinger, S",On Campus
+ME 320,Mechanisms and Dynamics of Machinery,12477,LCD,03:30 PM - 04:45 PM,TR,"Brown, M",Online Synchronous
+ME 321,Heat Transfer,12488,LCD - AS1,03:00 PM - 03:50 PM,MWF,"Jung, E",On Campus
+ME 321,Heat Transfer,39449,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Anand, S",On Campus
+ME 325,Intermediate Thermodynamics,35400,LCD,09:00 AM - 09:50 AM,MWF,"Lynch, P",On Campus
+ME 325,Intermediate Thermodynamics,12491,LCD,02:00 PM - 02:50 PM,MWF,"Megaridis, C",On Campus
+ME 341,Experimental Methods in Mechanical Engineering,12500,LEC - AL1,11:00 AM - 11:50 AM,MW,"Szwalek, J",On Campus
+ME 347,Introduction to Computer-Aided Design,40150,LEC - AL,09:00 AM - 09:50 AM,MW,"Hatami Marbini, H; Scott, S",On Campus
+ME 370,Mechanical Engineering Design,35401,LCD,12:00 PM - 12:50 PM,MWF,"Bhounsule, P",On Campus
+ME 370,Mechanical Engineering Design,33053,LCD,05:00 PM - 06:15 PM,TR,"Finan, J",On Campus
+ME 380,Manufacturing Process Principles,12554,LCD,ARRANGED,,"Subramanian, A",Online Asynchronous
+ME 396,Senior Design I,40060,LCD - AS3,04:00 PM - 04:50 PM,MW,"Alonso, M; Komperda, J",On Campus
+ME 396,Senior Design I,40900,LCD - AS,12:30 PM - 01:20 PM,TR,"Alonso, M; Brown, M",On Campus
+ME 396,Senior Design I,12555,LCD - AS1,09:30 AM - 10:20 AM,TR,"Alonso, M; Brown, M",On Campus
+ME 396,Senior Design I,37914,LCD - AS2,11:00 AM - 11:50 AM,MW,"Alonso, M; Komperda, J",On Campus
+ME 401,Applied Stress Analysis I,32255,LCD,02:00 PM - 03:15 PM,TR,"Shahbazian-Yassar, R",On Campus
+ME 401,Applied Stress Analysis I,32254,LCD,02:00 PM - 03:15 PM,TR,"Shahbazian-Yassar, R",On Campus
+ME 411,Mechatronics I,32259,LEC - AL1,04:00 PM - 04:50 PM,MW,"Cetin, S",On Campus
+ME 411,Mechatronics I,32260,LEC - AL2,04:00 PM - 04:50 PM,MW,"Cetin, S",On Campus
+ME 412,Dynamic Systems Analysis I,39453,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",On Campus
+ME 412,Dynamic Systems Analysis I,39454,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",On Campus
+ME 419,Compressible Flow Theory,31434,LCD,12:00 PM - 12:50 PM,MWF,"Brezinsky, K",On Campus
+ME 419,Compressible Flow Theory,31443,LCD,12:00 PM - 12:50 PM,MWF,"Brezinsky, K",On Campus
+ME 421,Intermediate Heat Transfer,12506,LEC,11:00 AM - 11:50 AM,MWF,"Manafzadeh, S",On Campus
+ME 421,Intermediate Heat Transfer,20381,LEC,11:00 AM - 11:50 AM,MWF,"Manafzadeh, S",On Campus
+ME 424,Energy Management Solutions for Industry: Theory and Practice,32699,LEC,06:00 PM - 08:30 PM,M,"Ryan, W",On Campus
+ME 424,Energy Management Solutions for Industry: Theory and Practice,32700,LEC,06:00 PM - 08:30 PM,M,"Ryan, W",On Campus
+ME 428,Numerical Methods in Mechanical Engineering,42949,LCD,01:00 PM - 01:50 PM,MWF,"Aggarwal, S",On Campus
+ME 428,Numerical Methods in Mechanical Engineering,42950,LCD,01:00 PM - 01:50 PM,MWF,"Aggarwal, S",On Campus
+ME 428,Numerical Methods in Mechanical Engineering,12513,LCD,03:00 PM - 03:50 PM,MWF,"Salehi-Khojin, A",On Campus
+ME 428,Numerical Methods in Mechanical Engineering,20382,LCD,03:00 PM - 03:50 PM,MWF,"Salehi-Khojin, A",On Campus
+ME 429,Internal Combustion Engines,29093,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",On Campus
+ME 429,Internal Combustion Engines,29092,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",On Campus
+ME 444,Interdisciplinary Product Development I,39039,LCD,02:00 PM - 04:50 PM,M,"Scott, M",On Campus
+ME 444,Interdisciplinary Product Development I,39040,LCD,02:00 PM - 04:50 PM,M,"Scott, M",On Campus
+ME 494,Special Topics in Mechanical Engineering,12524,LCD,09:30 AM - 10:45 AM,TR,"Scott, S; Yarin, A",On Campus
+ME 494,Special Topics in Mechanical Engineering,20426,LCD,09:30 AM - 10:45 AM,TR,"Scott, S; Yarin, A",On Campus
+ME 496,Undergraduate Senior Design Thesis I,41954,LCD,11:00 AM - 11:50 AM,MW,"Komperda, J",On Campus
+ME 499,Professional Development Seminar,27805,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",On Campus
+ME 504,Computer Aided Analysis of Multibody Systems I,33078,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",On Campus
+ME 542,Advanced Computational Methods for Product and Process Design,45845,LCD,03:30 PM - 04:45 PM,TR,"Huang, J",On Campus
+ME 562,Biomedical Implants in Orthopedics and Dentistry,42663,LCD,03:00 PM - 05:30 PM,M,"Mathew, M",Mixed in-person & online instr
+ME 594,Current Topics in Mechanical Engineering,40660,LCD,09:30 AM - 10:45 AM,MW,"Kim, M",On Campus
+ME 594,Current Topics in Mechanical Engineering,38559,LCD,01:00 PM - 02:15 PM,MW,"Jung, E",On Campus
+ME 594,Current Topics in Mechanical Engineering,27650,LCD,02:00 PM - 03:15 PM,TR,"Klatt, D",On Campus
+ME 594,Current Topics in Mechanical Engineering,31438,LCD,04:00 PM - 06:30 PM,M,"Mashayek, F",On Campus

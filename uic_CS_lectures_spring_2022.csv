@@ -1,0 +1,122 @@
+Course Code,Course Title,CRN,Section Type,Time,Days,Instructor,Method
+CS 100,Discovering Computer Science,17397,LCD - AS1,09:00 AM - 09:50 AM,MWF,"Kidane, E",On Campus
+CS 107,Introduction to Computing and Programming,17412,LEC - AL1,09:30 AM - 10:45 AM,TR,,On Campus
+CS 109,Programming for Engineers with MatLab,19466,LCD - AS1,10:00 AM - 10:50 AM,MW,"Koehler, A",On Campus
+CS 109,Programming for Engineers with MatLab,44904,LCD - AS2,12:00 PM - 12:50 PM,MW,,On Campus
+CS 109,Programming for Engineers with MatLab,44905,LCD - AS3,01:00 PM - 01:50 PM,MW,"Reckinger, S",On Campus
+CS 111,Program Design I,34013,LCD - AS1,12:00 PM - 12:50 PM,MWF,"Koehler, A",On Campus
+CS 111,Program Design I,40575,LCD - AS2,01:00 PM - 01:50 PM,MWF,"Koehler, A",On Campus
+CS 141,Program Design II,34447,LCD - AS1,09:00 AM - 09:50 AM,MWF,,On Campus
+CS 141,Program Design II,40571,LCD - AS2,12:00 PM - 12:50 PM,MWF,,On Campus
+CS 141,Program Design II,41547,LCD - AS3,03:00 PM - 03:50 PM,MWF,,On Campus
+CS 151,Mathematical Foundations of Computing,34014,LEC - AL1,12:00 PM - 12:50 PM,MWF,,On Campus
+CS 151,Mathematical Foundations of Computing,40572,LEC - AL2,01:00 PM - 01:50 PM,MWF,,On Campus
+CS 151,Mathematical Foundations of Computing,41548,LEC - AL3,02:00 PM - 02:50 PM,MWF,,On Campus
+CS 194,Special Topics in Computer Science,44834,LCD,ARRANGED,,"Troy, P",On Campus
+CS 211,Programming Practicum,44907,LCD - AS3,01:00 PM - 01:50 PM,F,,On Campus
+CS 211,Programming Practicum,44906,LCD - AS2,12:00 PM - 12:50 PM,F,,On Campus
+CS 211,Programming Practicum,34456,LCD - AS1,10:00 AM - 10:50 AM,F,,On Campus
+CS 251,Data Structures,34460,LCD - AS1,09:00 AM - 09:50 AM,MWF,,On Campus
+CS 251,Data Structures,40573,LCD - AS2,10:00 AM - 10:50 AM,MWF,,On Campus
+CS 251,Data Structures,41549,LCD - AS3,01:00 PM - 01:50 PM,MWF,,On Campus
+CS 261,Machine Organization,34463,LCD - AS1,09:30 AM - 10:45 AM,TR,,On Campus
+CS 261,Machine Organization,41550,LCD - AS2,12:30 PM - 01:45 PM,TR,,On Campus
+CS 261,Machine Organization,41551,LCD - AS3,02:00 PM - 03:15 PM,TR,,On Campus
+CS 294,Special Topics in Computer Science,44837,LCD,ARRANGED,,"Hummel, J",Online Asynchronous
+CS 294,Special Topics in Computer Science,44617,LCD,04:00 PM - 04:50 PM,M,"Eriksson, J",Online Synchronous
+CS 294,Special Topics in Computer Science,43541,LCD,06:00 PM - 08:00 PM,W,"McCarty, E",On Campus
+CS 301,Languages and Automata,17422,LEC - AL1,12:30 PM - 01:45 PM,TR,,On Campus
+CS 301,Languages and Automata,40574,LEC - AL2,02:00 PM - 03:15 PM,TR,,On Campus
+CS 301,Languages and Automata,44908,LEC - AL3,03:30 PM - 04:45 PM,TR,,On Campus
+CS 301,Languages and Automata,44909,LEC - AL4,05:00 PM - 06:15 PM,TR,,On Campus
+CS 341,Programming Language Design and Implementation,41552,LCD,11:00 AM - 11:50 AM,MWF,"Hummel, J",On Campus
+CS 341,Programming Language Design and Implementation,34723,LCD,10:00 AM - 10:50 AM,MWF,"Hummel, J",On Campus
+CS 342,Software Design,35976,LCD,11:00 AM - 12:15 PM,TR,"Hallenbeck, M",On Campus
+CS 342,Software Design,41553,LCD,12:30 PM - 01:45 PM,TR,"Hallenbeck, M",On Campus
+CS 361,Systems Programming,36306,LCD - AS1,12:30 PM - 01:45 PM,TR,,On Campus
+CS 361,Systems Programming,41554,LCD - AS2,03:30 PM - 04:45 PM,TR,,On Campus
+CS 362,Computer Design,36309,LCD - AS1,11:00 AM - 12:15 PM,TR,,On Campus
+CS 362,Computer Design,41555,LCD - AS2,12:30 PM - 01:45 PM,TR,,On Campus
+CS 377,Communication and Ethical Issues in Computing,38111,LCD - BS2,11:00 AM - 11:50 AM,TR,"Clayville, K",Online Asynchronous
+CS 377,Communication and Ethical Issues in Computing,36312,LCD - BS1,10:00 AM - 10:50 AM,TR,"Clayville, K",Online Asynchronous
+CS 377,Communication and Ethical Issues in Computing,41965,LCD - AS4,05:00 PM - 05:50 PM,TR,"Burton, E",On Campus
+CS 377,Communication and Ethical Issues in Computing,41964,LCD - AS3,03:30 PM - 04:20 PM,TR,"Burton, E",On Campus
+CS 377,Communication and Ethical Issues in Computing,40663,LCD - AS2,02:00 PM - 02:50 PM,TR,"Burton, E",On Campus
+CS 377,Communication and Ethical Issues in Computing,39374,LCD - AS1,01:00 PM - 01:50 PM,TR,"Burton, E",On Campus
+CS 394,Special Topics in Computer Science,44912,LCD,09:30 AM - 10:45 AM,TR,"Hallenbeck, M",On Campus
+CS 401,Computer Algorithms I,20667,LCD,05:00 PM - 06:15 PM,TR,,On Campus
+CS 401,Computer Algorithms I,17455,LCD,05:00 PM - 06:15 PM,TR,,On Campus
+CS 401,Computer Algorithms I,41267,LCD,02:00 PM - 02:50 PM,MWF,,On Campus
+CS 401,Computer Algorithms I,41266,LCD,02:00 PM - 02:50 PM,MWF,,On Campus
+CS 401,Computer Algorithms I,43453,LCD,11:00 AM - 12:15 PM,TR,,On Campus
+CS 401,Computer Algorithms I,17454,LCD,11:00 AM - 11:50 AM,MWF,"Turan, G",Online Synchronous
+CS 401,Computer Algorithms I,43452,LCD,11:00 AM - 12:15 PM,TR,,On Campus
+CS 401,Computer Algorithms I,20665,LCD,11:00 AM - 11:50 AM,MWF,"Turan, G",Online Synchronous
+CS 407,Economics and Computation,44387,LEC,12:30 PM - 01:45 PM,TR,"Kash, I",On Campus
+CS 407,Economics and Computation,44388,LEC,12:30 PM - 01:45 PM,TR,"Kash, I",On Campus
+CS 411,Artificial Intelligence I,38549,LCD,09:00 AM - 09:50 AM,MWF,"Gmytrasiewicz, P",On Campus
+CS 411,Artificial Intelligence I,38550,LCD,09:00 AM - 09:50 AM,MWF,"Gmytrasiewicz, P",On Campus
+CS 411,Artificial Intelligence I,44910,LCD,09:30 AM - 10:45 AM,TR,"Ziebart, B",On Campus
+CS 411,Artificial Intelligence I,44911,LCD,09:30 AM - 10:45 AM,TR,"Ziebart, B",On Campus
+CS 418,Introduction to Data Science,41111,LEC,05:00 PM - 06:15 PM,TR,,On Campus
+CS 418,Introduction to Data Science,41110,LEC,05:00 PM - 06:15 PM,TR,,On Campus
+CS 418,Introduction to Data Science,43231,LEC,12:30 PM - 01:45 PM,TR,,On Campus
+CS 418,Introduction to Data Science,43230,LEC,12:30 PM - 01:45 PM,TR,,On Campus
+CS 422,User Interface Design and Programming,19650,LCD,09:30 AM - 10:45 AM,TR,,On Campus
+CS 422,User Interface Design and Programming,20669,LCD,09:30 AM - 10:45 AM,TR,,On Campus
+CS 424,Visualization and Visual Analytics,40669,LCD,03:30 PM - 04:45 PM,TR,"Johnson, A",On Campus
+CS 424,Visualization and Visual Analytics,40670,LCD,03:30 PM - 04:45 PM,TR,"Johnson, A",Online Asynchronous
+CS 425,Computer Graphics I,44389,LCD - AS1,11:00 AM - 12:15 PM,T,"Miranda, F",On Campus
+CS 425,Computer Graphics I,44391,LCD - AS2,11:00 AM - 12:15 PM,T,"Miranda, F",On Campus
+CS 440,Software Engineering I,29904,LCD,10:00 AM - 10:50 AM,MWF,"Bell, J",On Campus
+CS 440,Software Engineering I,29905,LCD,10:00 AM - 10:50 AM,MWF,"Bell, J",On Campus
+CS 440,Software Engineering I,43478,LCD,01:00 PM - 01:50 PM,MWF,"Bell, J",On Campus
+CS 440,Software Engineering I,43479,LCD,01:00 PM - 01:50 PM,MWF,"Bell, J",On Campus
+CS 442,Software Engineering II,33785,LEC,02:00 PM - 03:15 PM,TR,"Bell, J",On Campus
+CS 442,Software Engineering II,33786,LEC,02:00 PM - 03:15 PM,TR,"Bell, J",On Campus
+CS 450,Introduction to Networking,19163,LEC,05:00 PM - 05:50 PM,MW,,On Campus
+CS 450,Introduction to Networking,17432,LEC,05:00 PM - 05:50 PM,MW,,On Campus
+CS 466,Advanced Computer Architecture,26694,LCD,09:30 AM - 10:45 AM,TR,,On Campus
+CS 466,Advanced Computer Architecture,26695,LCD,09:30 AM - 10:45 AM,TR,,On Campus
+CS 468,Network Security,44415,LEC,04:30 PM - 05:45 PM,MW,"Polakis, J",On Campus
+CS 468,Network Security,44416,LEC,04:30 PM - 05:45 PM,MW,"Polakis, J",On Campus
+CS 473,Compiler Design,39849,LCD,02:00 PM - 02:50 PM,MWF,,On Campus
+CS 473,Compiler Design,39850,LCD,02:00 PM - 02:50 PM,MWF,,On Campus
+CS 474,Object-Oriented Languages and Environments,38616,LCD,12:30 PM - 01:45 PM,TR,"Grechanik, M",On Campus
+CS 474,Object-Oriented Languages and Environments,38617,LCD,12:30 PM - 01:45 PM,TR,"Grechanik, M",On Campus
+CS 478,Software Development for Mobile Platforms,37633,LCD,08:00 AM - 09:15 AM,TR,"Buy, U",On Campus
+CS 478,Software Development for Mobile Platforms,37634,LCD,08:00 AM - 09:15 AM,TR,"Buy, U",On Campus
+CS 480,Database Systems,19171,LCD,03:30 PM - 04:45 PM,TR,,On Campus
+CS 480,Database Systems,43454,LCD,12:00 PM - 12:50 PM,MWF,,On Campus
+CS 480,Database Systems,43455,LCD,12:00 PM - 12:50 PM,MWF,,On Campus
+CS 480,Database Systems,17438,LCD,03:30 PM - 04:45 PM,TR,,On Campus
+CS 485,Networked Operating Systems Programming,41121,LCD,12:30 PM - 01:45 PM,TR,"Solworth, J",On Campus
+CS 485,Networked Operating Systems Programming,41112,LCD,12:30 PM - 01:45 PM,TR,"Solworth, J",On Campus
+CS 491,Seminar,38500,LCD,ARRANGED,,"Di Eugenio, B",Online Synchronous
+CS 494,Special Topics in Computer Science,42271,LCD,10:00 AM - 12:50 PM,W,,On Campus
+CS 494,Special Topics in Computer Science,43270,LCD,10:00 AM - 12:50 PM,W,,On Campus
+CS 494,Special Topics in Computer Science,42279,LCD,11:00 AM - 12:15 PM,TR,,On Campus
+CS 494,Special Topics in Computer Science,42290,LCD,11:00 AM - 12:15 PM,TR,,On Campus
+CS 494,Special Topics in Computer Science,42278,LCD,03:00 PM - 04:15 PM,MW,,On Campus
+CS 494,Special Topics in Computer Science,42289,LCD,03:00 PM - 04:15 PM,MW,,On Campus
+CS 494,Special Topics in Computer Science,42287,LCD,03:00 PM - 04:15 PM,MW,"Lillis, J",On Campus
+CS 494,Special Topics in Computer Science,42280,LCD,04:30 PM - 05:45 PM,MW,,On Campus
+CS 494,Special Topics in Computer Science,42281,LCD,04:30 PM - 05:45 PM,MW,,On Campus
+CS 499,Professional Development Seminar,30640,LCD,ARRANGED,,"Troy, P",Online Asynchronous
+CS 501,Computer Algorithms II,33788,LCD,09:00 AM - 09:50 AM,MWF,"Turan, G",Online Synchronous
+CS 506,An Introduction to Quantum Computing,41115,LEC,01:00 PM - 01:50 PM,MWF,"DasGupta, B",On Campus
+CS 511,Artificial Intelligence II,17442,LCD,10:00 AM - 10:50 AM,MWF,"Gmytrasiewicz, P",On Campus
+CS 515,Advanced Computer Vision,43364,LCD,03:00 PM - 04:15 PM,MW,"Tang, W",On Campus
+CS 521,Statistical Natural Language Processing,43232,LCD,09:30 AM - 10:45 AM,TR,"Parde, N",On Campus
+CS 540,Advanced Topics in Software Engineering,37332,LCD,02:00 PM - 03:15 PM,TR,,On Campus
+CS 565,Physical Design Automation,43233,LCD,ARRANGED,,,
+CS 566,Parallel Processing,33563,LCD,02:00 PM - 03:15 PM,TR,,On Campus
+CS 569,High-Performance Processors and Systems,27021,LCD,11:00 AM - 12:15 PM,TR,,On Campus
+CS 581,Database Management Systems,28655,LCD,03:00 PM - 04:15 PM,MW,,On Campus
+CS 582,Information Retrieval,38116,LCD,06:30 PM - 09:00 PM,T,"Caragea, C",On Campus
+CS 583,Data Mining and Text Mining,25479,LCD,04:30 PM - 07:00 PM,M,"Liu, B",On Campus
+CS 587,Computer Systems Security,44286,LCD,03:30 PM - 04:45 PM,TR,"Solworth, J",On Campus
+CS 594,Special Topics,33648,LCD,12:30 PM - 01:45 PM,TR,,On Campus
+CS 594,Special Topics,33792,LCD,01:00 PM - 03:30 PM,S,,On Campus
+CS 594,Special Topics,33649,LCD,02:00 PM - 03:15 PM,TR,,On Campus
+CS 594,Special Topics,42282,LCD,06:30 PM - 09:00 PM,R,,On Campus

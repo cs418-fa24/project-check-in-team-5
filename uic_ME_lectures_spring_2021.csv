@@ -1,0 +1,67 @@
+Course Code,Course Title,CRN,Section Type,Time,Days,Instructor,Method
+ME 205,Introduction to Thermodynamics,38129,LCD,01:00 PM - 01:50 PM,MWF,"Yurkiv, V",Online Asynchronous
+ME 205,Introduction to Thermodynamics,15795,LCD,02:00 PM - 02:50 PM,MWF,"Manafzadeh, S",Online Synchronous
+ME 210,Engineering Dynamics,15796,LCD,10:00 AM - 10:50 AM,MWF,"Lilley, C",Online Asynchronous
+ME 210,Engineering Dynamics,38130,LCD,11:00 AM - 11:50 AM,MWF,"Scott, M",Online Asynchronous
+ME 211,Fluid Mechanics I,21434,LCD - AS1,09:00 AM - 09:50 AM,MWF,"Xu, J",Online Asynchronous
+ME 211,Fluid Mechanics I,38070,LCD - AS2,03:00 PM - 03:50 PM,MWF,"Paoli, R",Online Asynchronous
+ME 250,Introduction to Engineering Design and Graphics,15805,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Szwalek, J",Online Synchronous
+ME 250,Introduction to Engineering Design and Graphics,35050,LEC - BL1,02:00 PM - 02:50 PM,MWF,"Siow, Y",Online Synchronous
+ME 250,Introduction to Engineering Design and Graphics,36292,LEC - CL1,11:00 AM - 11:50 AM,MWF,"Szwalek, J",Online Synchronous
+ME 250,Introduction to Engineering Design and Graphics,38131,LEC - DL,04:00 PM - 04:50 PM,MWF,"Abiade, J",Online Synchronous
+ME 250,Introduction to Engineering Design and Graphics,42196,LEC - EL,09:30 AM - 10:45 AM,TR,"Bhounsule, P",Online Synchronous
+ME 261,Materials for Manufacturing,24298,LCD,04:00 PM - 04:50 PM,MWF,"Daly, M",Online Synchronous
+ME 308,Mechanical Vibrations,15806,LCD,12:00 PM - 12:50 PM,MWF,"Siow, Y",Online Synchronous
+ME 308,Mechanical Vibrations,35710,LCD,01:00 PM - 01:50 PM,MWF,"Lilley, C",Online Asynchronous
+ME 312,Dynamic Systems and Control,35719,LCD,04:00 PM - 04:50 PM,MWF,"Kim, M",Online Synchronous
+ME 312,Dynamic Systems and Control,19567,LCD,10:00 AM - 10:50 AM,MWF,"Reckinger, S",Online Asynchronous
+ME 320,Mechanisms and Dynamics of Machinery,15808,LCD,02:00 PM - 03:15 PM,TR,"Brown, M",Online Synchronous
+ME 321,Heat Transfer,15812,LCD - AS1,04:00 PM - 04:50 PM,MWF,"Jung, E",Online Asynchronous
+ME 321,Heat Transfer,37327,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Anand, S",Online Synchronous
+ME 325,Intermediate Thermodynamics,38817,LCD,10:00 AM - 10:50 AM,MWF,"Lynch, P",Online Synchronous
+ME 325,Intermediate Thermodynamics,15813,LCD,02:00 PM - 02:50 PM,MWF,"Megaridis, C",Online Synchronous
+ME 341,Experimental Methods in Mechanical Engineering,36800,LEC - AL2,02:00 PM - 02:50 PM,MW,"Szwalek, J",Online Asynchronous
+ME 347,Introduction to Computer-Aided Design,39388,LEC - AL,09:00 AM - 09:50 AM,MW,"Hatami Marbini, H",Online Asynchronous
+ME 347,Introduction to Computer-Aided Design,40126,LEC - AL1,10:00 AM - 10:50 AM,MW,"Hatami Marbini, H",Online Asynchronous
+ME 370,Mechanical Engineering Design,33178,LCD,12:30 PM - 01:45 PM,TR,"Subramanian, A",Online Asynchronous
+ME 370,Mechanical Engineering Design,42477,LCD,05:00 PM - 06:15 PM,TR,"Finan, J",Online Synchronous
+ME 380,Manufacturing Process Principles,15847,LCD,08:00 AM - 08:50 AM,MWF,"Shahbazian-Yassar, R",Online Asynchronous
+ME 380,Manufacturing Process Principles,42668,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",Online Asynchronous
+ME 397,Senior Design Il,36801,LCD,ARRANGED,,"Komperda, J",Online Synchronous
+ME 397,Senior Design Il,38073,LCD,ARRANGED,,"Brown, M",Online Synchronous
+ME 397,Senior Design Il,38597,LCD,ARRANGED,,"Komperda, J",Online Synchronous
+ME 397,Senior Design Il,43742,LCD,ARRANGED,,"Alonso, M",Online Synchronous
+ME 397,Senior Design Il,37339,LCD,ARRANGED,,"Brown, M",Online Synchronous
+ME 408,Intermediate Vibration Theory,31452,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",Online Asynchronous
+ME 408,Intermediate Vibration Theory,31900,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",Online Asynchronous
+ME 413,Dynamics of Mechanical Systems,33269,LCD,12:30 PM - 01:45 PM,TR,"Shabana, A",Online Asynchronous
+ME 413,Dynamics of Mechanical Systems,33388,LCD,12:30 PM - 01:45 PM,TR,"Shabana, A",Online Asynchronous
+ME 415,Propulsion Theory,33271,LCD,12:30 PM - 01:45 PM,MW,"Brezinsky, K",Online Synchronous
+ME 415,Propulsion Theory,33389,LCD,12:30 PM - 01:45 PM,MW,"Brezinsky, K",Online Synchronous
+ME 422,"Heating, Ventilation and Air Conditioning",36505,LCD,06:00 PM - 08:30 PM,W,"Ryan, W",Online Asynchronous
+ME 422,"Heating, Ventilation and Air Conditioning",36503,LCD,06:00 PM - 08:30 PM,W,"Ryan, W",Online Asynchronous
+ME 426,Applied Combustion,31455,LCD,11:00 AM - 12:15 PM,MW,"Aggarwal, S; Scott, S",Online Synchronous
+ME 426,Applied Combustion,31903,LCD,11:00 AM - 12:15 PM,MW,"Aggarwal, S; Scott, S",Online Synchronous
+ME 428,Numerical Methods in Mechanical Engineering,38133,LCD,01:00 PM - 01:50 PM,MWF,"Komperda, J",Online Synchronous
+ME 428,Numerical Methods in Mechanical Engineering,38134,LCD,01:00 PM - 01:50 PM,MWF,"Komperda, J",Online Synchronous
+ME 428,Numerical Methods in Mechanical Engineering,15824,LCD,03:00 PM - 03:50 PM,MWF,"Salehi-Khojin, A",Online Synchronous
+ME 428,Numerical Methods in Mechanical Engineering,19337,LCD,03:00 PM - 03:50 PM,MWF,"Salehi-Khojin, A",Online Synchronous
+ME 445,Interdisciplinary Product Development 2,31457,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Online Synchronous
+ME 449,Microdevices and Micromachining Technology,23636,LCD - AS2,09:30 AM - 10:45 AM,TR,"Paprotny, I",Online Synchronous
+ME 449,Microdevices and Micromachining Technology,19209,LCD - AS1,09:30 AM - 10:45 AM,TR,"Paprotny, I",Online Synchronous
+ME 450,Air Pollution Engineering,30901,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",Online Synchronous
+ME 450,Air Pollution Engineering,34696,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",Online Synchronous
+ME 481,Additive Manufacturing Process,44620,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Online Synchronous
+ME 481,Additive Manufacturing Process,44621,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Online Synchronous
+ME 497,Undergraduate Senior Design Thesis II,40408,LCD,ARRANGED,,"Komperda, J",Online Synchronous
+ME 499,Professional Development Seminar,38363,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",Online Synchronous
+ME 501,Advanced Thermodynamics,39399,LCD,12:30 PM - 01:45 PM,TR,"Anand, S",Online Synchronous
+ME 511,Mechatronics II,19582,LEC - AL,03:30 PM - 04:20 PM,MW,"Cetin, S",Online Synchronous
+ME 512,Automatic Control of Mechanical Systems,33278,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",Online Synchronous
+ME 515,Micro- and Nano-Transport Phenomena,41462,LCD,02:00 PM - 03:15 PM,TR,"Yarin, A",Online Asynchronous
+ME 517,Microfluidics: Fundamentals and Applications,44321,LCD,02:00 PM - 03:15 PM,MW,"Xu, J",Online Synchronous
+ME 522,Convective Heat Transfer,31460,LCD,04:00 PM - 06:30 PM,M,"Manafzadeh, S",Online Synchronous
+ME 541,Microelectronic Fabrication Techniques,22184,LCD,04:30 PM - 05:45 PM,MW,"Feinerman, A",On Campus
+ME 594,Current Topics in Mechanical Engineering,36618,LCD,09:30 AM - 10:45 AM,TR,"Jeong, H",Online Asynchronous
+ME 594,Current Topics in Mechanical Engineering,15844,LCD,05:00 PM - 06:15 PM,TR,"Mirbod, P",Online Asynchronous
+ME 594,Current Topics in Mechanical Engineering,33580,LCD,05:00 PM - 06:15 PM,TR,"Sankaranarayanan, S",Online Synchronous

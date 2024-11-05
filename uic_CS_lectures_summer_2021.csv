@@ -1,0 +1,17 @@
+Course Code,Course Title,CRN,Section Type,Time,Days,Instructor,Method
+CS 109,Programming for Engineers with MatLab,16592,LCD - AS,12:00 PM - 01:40 PM,MTWR,"Reckinger, S",Online Synchronous
+CS 141,Program Design II,21448,LCD - AS,08:00 AM - 09:40 AM,MWF,"Koehler, A",Online Synchronous
+CS 151,Mathematical Foundations of Computing,21451,LEC - AL,10:45 AM - 01:15 PM,TR,"Sengupta, P",Online Synchronous
+CS 211,Programming Practicum,21179,LCD - AS,10:00 AM - 10:50 AM,MTWR,"Bell, J; Ghasemisharif, M; Wang, Y",Online Synchronous
+CS 251,Data Structures,21814,LCD - AS,10:00 AM - 12:30 PM,TR,"Lillis, J",Online Synchronous
+CS 301,Languages and Automata,21455,LEC - AL,01:30 PM - 04:00 PM,TR,"Grechanik, M",Online Synchronous
+CS 362,Computer Design,23368,LCD - AS,10:00 AM - 11:40 AM,MWF,"Sakhnini, N",Online Asynchronous
+CS 401,Computer Algorithms I,14209,LCD,10:00 AM - 11:40 AM,MWF,"Adrovic, D",Online Synchronous
+CS 401,Computer Algorithms I,15054,LCD,10:00 AM - 11:40 AM,MWF,"Adrovic, D",Online Synchronous
+CS 401,Computer Algorithms I,22843,LCD,12:00 PM - 01:40 PM,MWF,"Adrovic, D",Online Synchronous
+CS 401,Computer Algorithms I,22844,LCD,12:00 PM - 01:40 PM,MWF,"Adrovic, D",Online Synchronous
+CS 478,Software Development for Mobile Platforms,22728,LCD,10:45 AM - 01:15 PM,TR,"Hallenbeck, M",Online Asynchronous
+CS 478,Software Development for Mobile Platforms,22729,LCD,10:45 AM - 01:15 PM,TR,"Hallenbeck, M",Online Asynchronous
+CS 480,Database Systems,19865,LCD,08:00 AM - 10:30 AM,TR,"Diaz Herrera, D",Online Synchronous
+CS 480,Database Systems,19866,LCD,08:00 AM - 10:30 AM,TR,"Diaz Herrera, D",Online Synchronous
+CS 499,Professional Development Seminar,22171,LCD,ARRANGED,,"Troy, P",

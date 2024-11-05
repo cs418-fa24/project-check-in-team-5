@@ -1,0 +1,57 @@
+Course Code,Course Title,CRN,Section Type,Time,Days,Instructor,Method
+ME 205,Introduction to Thermodynamics,15795,LCD,02:00 PM - 02:50 PM,MWF,"Manafzadeh, S",Meet on campus
+ME 210,Engineering Dynamics,15796,LCD,10:00 AM - 10:50 AM,MWF,"Subramanian, A",Meet on campus
+ME 210,Engineering Dynamics,38130,LCD,12:00 PM - 12:50 PM,MWF,"Alonso, M",Meet on campus
+ME 211,Fluid Mechanics I,21434,LCD - AS1,01:00 PM - 01:50 PM,MWF,"Megaridis, C",Meet on campus
+ME 211,Fluid Mechanics I,38070,LCD - AS2,02:00 PM - 02:50 PM,MWF,"Xu, J",Meet on campus
+ME 250,Introduction to Engineering Design and Graphics,15805,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Siow, Y",Meet on campus
+ME 250,Introduction to Engineering Design and Graphics,35050,LEC - BL1,02:00 PM - 02:50 PM,MWF,"Szwalek, J",Meet on campus
+ME 250,Introduction to Engineering Design and Graphics,36292,LEC - CL1,11:00 AM - 11:50 AM,MWF,"Siow, Y",Meet on campus
+ME 261,Materials for Manufacturing,24298,LCD,02:00 PM - 02:50 PM,MWF,"Karpov, E",Meet on campus
+ME 308,Mechanical Vibrations,35710,LCD,09:30 AM - 10:45 AM,TR,"Shabana, A",Meet on campus
+ME 308,Mechanical Vibrations,15806,LCD,01:00 PM - 01:50 PM,MWF,"Cetin, S",Meet on campus
+ME 312,Dynamic Systems and Control,19567,LCD,12:30 PM - 01:45 PM,TR,"Kim, M",Meet on campus
+ME 312,Dynamic Systems and Control,35719,LCD,04:00 PM - 04:50 PM,MWF,"Cetin, S",Meet on campus
+ME 320,Mechanisms and Dynamics of Machinery,15808,LCD,02:00 PM - 03:15 PM,TR,"Shabana, A",Meet on campus
+ME 321,Heat Transfer,15812,LCD - AS1,02:00 PM - 02:50 PM,MWF,"Anand, S",Meet on campus
+ME 321,Heat Transfer,37327,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Jung, E",Meet on campus
+ME 325,Intermediate Thermodynamics,38817,LCD,09:00 AM - 09:50 AM,MWF,"Anand, S",Meet on campus
+ME 325,Intermediate Thermodynamics,15813,LCD,11:00 AM - 11:50 AM,MWF,"Manafzadeh, S",Meet on campus
+ME 341,Experimental Methods in Mechanical Engineering,36800,LEC - BL,04:00 PM - 04:50 PM,MW,"Xu, J",Meet on campus
+ME 347,Introduction to Computer-Aided Design,40126,LEC - AL1,12:00 PM - 12:50 PM,MW,"Szwalek, J",Meet on campus
+ME 347,Introduction to Computer-Aided Design,43177,LEC - AL2,10:00 AM - 10:50 AM,MW,"Szwalek, J",
+ME 370,Mechanical Engineering Design,33178,LCD,09:30 AM - 10:45 AM,TR,"Bhounsule, P",Meet on campus
+ME 370,Mechanical Engineering Design,42477,LCD,01:00 PM - 01:50 PM,MWF,"Subramanian, A",Meet on campus
+ME 380,Manufacturing Process Principles,15847,LCD,09:00 AM - 09:50 AM,MWF,"Shahbazian-Yassar, R",Meet on campus
+ME 380,Manufacturing Process Principles,42668,LCD,10:00 AM - 10:50 AM,MWF,"Shahbazian-Yassar, R",Meet on campus
+ME 397,Senior Design Il,38597,LCD,ARRANGED,,"Komperda, J",Meet on campus
+ME 397,Senior Design Il,36801,LCD,ARRANGED,,"Komperda, J",Meet on campus
+ME 397,Senior Design Il,43742,LCD,ARRANGED,,"Brown, M",Meet on campus
+ME 397,Senior Design Il,38073,LCD,ARRANGED,,"Brown, M",Meet on campus
+ME 397,Senior Design Il,37339,LCD,ARRANGED,,"Brown, M",Meet on campus
+ME 401,Applied Stress Analysis I,47247,LCD,12:00 PM - 12:50 PM,MWF,"Shahbazian-Yassar, R",Meet on campus
+ME 401,Applied Stress Analysis I,47248,LCD,12:00 PM - 12:50 PM,MWF,"Shahbazian-Yassar, R",Meet on campus
+ME 415,Propulsion Theory,33271,LCD,02:00 PM - 03:15 PM,TR,"Lynch, P",Meet on campus
+ME 415,Propulsion Theory,33389,LCD,02:00 PM - 03:15 PM,TR,"Lynch, P",Meet on campus
+ME 417,Intermediate Fluid Mechanics,31454,LCD,05:00 PM - 06:15 PM,TR,"Mirbod, P",Meet on campus
+ME 417,Intermediate Fluid Mechanics,31902,LCD,05:00 PM - 06:15 PM,TR,"Mirbod, P",Meet on campus
+ME 422,"Heating, Ventilation and Air Conditioning",36503,LCD,11:00 AM - 11:50 AM,MWF,"Pourarian, S",Meet on campus
+ME 422,"Heating, Ventilation and Air Conditioning",36505,LCD,11:00 AM - 11:50 AM,MWF,"Pourarian, S",Meet on campus
+ME 428,Numerical Methods in Mechanical Engineering,38133,LCD,03:00 PM - 03:50 PM,MWF,"Komperda, J",Meet on campus
+ME 428,Numerical Methods in Mechanical Engineering,38134,LCD,03:00 PM - 03:50 PM,MWF,"Komperda, J",Meet on campus
+ME 445,Interdisciplinary Product Development 2,31457,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus
+ME 449,Microdevices and Micromachining Technology,23636,LCD - AS2,09:30 AM - 10:45 AM,TR,"Paprotny, I",Meet on campus
+ME 449,Microdevices and Micromachining Technology,19209,LCD - AS1,09:30 AM - 10:45 AM,TR,"Paprotny, I",Meet on campus
+ME 450,Air Pollution Engineering,30901,LCD,04:00 PM - 05:15 PM,MW,"Manafzadeh, S",Meet on campus
+ME 450,Air Pollution Engineering,34696,LCD,04:00 PM - 05:15 PM,MW,"Manafzadeh, S",Meet on campus
+ME 494,Special Topics in Mechanical Engineering,29386,LCD,03:30 PM - 04:45 PM,TR,"Campbell, B; Haefke, C; Miller, G; Mueller, S",
+ME 494,Special Topics in Mechanical Engineering,29387,LCD,03:30 PM - 04:45 PM,TR,"Campbell, B; Haefke, C; Miller, G; Mueller, S",Meet on campus
+ME 494,Special Topics in Mechanical Engineering,32346,LCD,05:00 PM - 06:15 PM,TR,"Lee, K",Meet on campus
+ME 494,Special Topics in Mechanical Engineering,32347,LCD,05:00 PM - 06:15 PM,TR,"Lee, K",Meet on campus
+ME 497,Undergraduate Senior Design Thesis II,40408,LCD,ARRANGED,,"Brown, M",Meet on campus
+ME 499,Professional Development Seminar,38363,LCD,05:00 PM - 05:50 PM,W,"Nicolsen, B",Meet on campus
+ME 501,Advanced Thermodynamics,39399,LCD,02:00 PM - 03:15 PM,MW,"Brezinsky, K",Meet on campus
+ME 511,Mechatronics II,19582,LEC - AL,03:30 PM - 04:20 PM,TR,"Kim, M",Meet on campus
+ME 515,Micro- and Nano-Transport Phenomena,41462,LCD,03:30 PM - 04:45 PM,TR,"Yarin, A",Meet on campus
+ME 594,Current Topics in Mechanical Engineering,15844,LCD,09:30 AM - 10:45 AM,TR,"Mirbod, P",Meet on campus
+ME 594,Current Topics in Mechanical Engineering,33580,LCD,12:30 PM - 01:45 PM,TR,"Finan, J",Meet on campus
