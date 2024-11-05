@@ -1,0 +1,516 @@
+Course Code,Course Title,CRN,Section Type,Time,Days,Instructor,Method,Semester,Year
+ME 205,Introduction to Thermodynamics,15795,LCD,02:00 PM - 02:50 PM,MWF,"Manafzadeh, S",Meet on campus,Spring,2024
+ME 210,Engineering Dynamics,15796,LCD,10:00 AM - 10:50 AM,MWF,"Subramanian, A",Meet on campus,Spring,2024
+ME 210,Engineering Dynamics,38130,LCD,12:00 PM - 12:50 PM,MWF,"Alonso, M",Meet on campus,Spring,2024
+ME 211,Fluid Mechanics I,21434,LCD - AS1,01:00 PM - 01:50 PM,MWF,"Megaridis, C",Meet on campus,Spring,2024
+ME 211,Fluid Mechanics I,38070,LCD - AS2,02:00 PM - 02:50 PM,MWF,"Xu, J",Meet on campus,Spring,2024
+ME 250,Introduction to Engineering Design and Graphics,15805,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Siow, Y",Meet on campus,Spring,2024
+ME 250,Introduction to Engineering Design and Graphics,35050,LEC - BL1,02:00 PM - 02:50 PM,MWF,"Szwalek, J",Meet on campus,Spring,2024
+ME 250,Introduction to Engineering Design and Graphics,36292,LEC - CL1,11:00 AM - 11:50 AM,MWF,"Siow, Y",Meet on campus,Spring,2024
+ME 261,Materials for Manufacturing,24298,LCD,02:00 PM - 02:50 PM,MWF,"Karpov, E",Meet on campus,Spring,2024
+ME 308,Mechanical Vibrations,35710,LCD,09:30 AM - 10:45 AM,TR,"Shabana, A",Meet on campus,Spring,2024
+ME 308,Mechanical Vibrations,15806,LCD,01:00 PM - 01:50 PM,MWF,"Cetin, S",Meet on campus,Spring,2024
+ME 312,Dynamic Systems and Control,19567,LCD,12:30 PM - 01:45 PM,TR,"Kim, M",Meet on campus,Spring,2024
+ME 312,Dynamic Systems and Control,35719,LCD,04:00 PM - 04:50 PM,MWF,"Cetin, S",Meet on campus,Spring,2024
+ME 320,Mechanisms and Dynamics of Machinery,15808,LCD,02:00 PM - 03:15 PM,TR,"Shabana, A",Meet on campus,Spring,2024
+ME 321,Heat Transfer,15812,LCD - AS1,02:00 PM - 02:50 PM,MWF,"Anand, S",Meet on campus,Spring,2024
+ME 321,Heat Transfer,37327,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Jung, E",Meet on campus,Spring,2024
+ME 325,Intermediate Thermodynamics,38817,LCD,09:00 AM - 09:50 AM,MWF,"Anand, S",Meet on campus,Spring,2024
+ME 325,Intermediate Thermodynamics,15813,LCD,11:00 AM - 11:50 AM,MWF,"Manafzadeh, S",Meet on campus,Spring,2024
+ME 341,Experimental Methods in Mechanical Engineering,36800,LEC - BL,04:00 PM - 04:50 PM,MW,"Xu, J",Meet on campus,Spring,2024
+ME 347,Introduction to Computer-Aided Design,40126,LEC - AL1,12:00 PM - 12:50 PM,MW,"Szwalek, J",Meet on campus,Spring,2024
+ME 347,Introduction to Computer-Aided Design,43177,LEC - AL2,10:00 AM - 10:50 AM,MW,"Szwalek, J",,Spring,2024
+ME 370,Mechanical Engineering Design,33178,LCD,09:30 AM - 10:45 AM,TR,"Bhounsule, P",Meet on campus,Spring,2024
+ME 370,Mechanical Engineering Design,42477,LCD,01:00 PM - 01:50 PM,MWF,"Subramanian, A",Meet on campus,Spring,2024
+ME 380,Manufacturing Process Principles,15847,LCD,09:00 AM - 09:50 AM,MWF,"Shahbazian-Yassar, R",Meet on campus,Spring,2024
+ME 380,Manufacturing Process Principles,42668,LCD,10:00 AM - 10:50 AM,MWF,"Shahbazian-Yassar, R",Meet on campus,Spring,2024
+ME 397,Senior Design Il,37339,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2024
+ME 397,Senior Design Il,38073,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2024
+ME 397,Senior Design Il,43742,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2024
+ME 397,Senior Design Il,36801,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2024
+ME 397,Senior Design Il,38597,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2024
+ME 401,Applied Stress Analysis I,47247,LCD,12:00 PM - 12:50 PM,MWF,"Shahbazian-Yassar, R",Meet on campus,Spring,2024
+ME 401,Applied Stress Analysis I,47248,LCD,12:00 PM - 12:50 PM,MWF,"Shahbazian-Yassar, R",Meet on campus,Spring,2024
+ME 415,Propulsion Theory,33271,LCD,02:00 PM - 03:15 PM,TR,"Lynch, P",Meet on campus,Spring,2024
+ME 415,Propulsion Theory,33389,LCD,02:00 PM - 03:15 PM,TR,"Lynch, P",Meet on campus,Spring,2024
+ME 417,Intermediate Fluid Mechanics,31454,LCD,05:00 PM - 06:15 PM,TR,"Mirbod, P",Meet on campus,Spring,2024
+ME 417,Intermediate Fluid Mechanics,31902,LCD,05:00 PM - 06:15 PM,TR,"Mirbod, P",Meet on campus,Spring,2024
+ME 422,"Heating, Ventilation and Air Conditioning",36503,LCD,11:00 AM - 11:50 AM,MWF,"Pourarian, S",Meet on campus,Spring,2024
+ME 422,"Heating, Ventilation and Air Conditioning",36505,LCD,11:00 AM - 11:50 AM,MWF,"Pourarian, S",Meet on campus,Spring,2024
+ME 428,Numerical Methods in Mechanical Engineering,38133,LCD,03:00 PM - 03:50 PM,MWF,"Komperda, J",Meet on campus,Spring,2024
+ME 428,Numerical Methods in Mechanical Engineering,38134,LCD,03:00 PM - 03:50 PM,MWF,"Komperda, J",Meet on campus,Spring,2024
+ME 445,Interdisciplinary Product Development 2,31457,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Spring,2024
+ME 449,Microdevices and Micromachining Technology,19209,LCD - AS1,09:30 AM - 10:45 AM,TR,"Paprotny, I",Meet on campus,Spring,2024
+ME 449,Microdevices and Micromachining Technology,23636,LCD - AS2,09:30 AM - 10:45 AM,TR,"Paprotny, I",Meet on campus,Spring,2024
+ME 450,Air Pollution Engineering,30901,LCD,04:00 PM - 05:15 PM,MW,"Manafzadeh, S",Meet on campus,Spring,2024
+ME 450,Air Pollution Engineering,34696,LCD,04:00 PM - 05:15 PM,MW,"Manafzadeh, S",Meet on campus,Spring,2024
+ME 494,Special Topics in Mechanical Engineering,29386,LCD,03:30 PM - 04:45 PM,TR,"Campbell, B; Haefke, C; Miller, G; Mueller, S",,Spring,2024
+ME 494,Special Topics in Mechanical Engineering,29387,LCD,03:30 PM - 04:45 PM,TR,"Campbell, B; Haefke, C; Miller, G; Mueller, S",Meet on campus,Spring,2024
+ME 494,Special Topics in Mechanical Engineering,32346,LCD,05:00 PM - 06:15 PM,TR,"Lee, K",Meet on campus,Spring,2024
+ME 494,Special Topics in Mechanical Engineering,32347,LCD,05:00 PM - 06:15 PM,TR,"Lee, K",Meet on campus,Spring,2024
+ME 497,Undergraduate Senior Design Thesis II,40408,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2024
+ME 499,Professional Development Seminar,38363,LCD,05:00 PM - 05:50 PM,W,"Nicolsen, B",Meet on campus,Spring,2024
+ME 501,Advanced Thermodynamics,39399,LCD,02:00 PM - 03:15 PM,MW,"Brezinsky, K",Meet on campus,Spring,2024
+ME 511,Mechatronics II,19582,LEC - AL,03:30 PM - 04:20 PM,TR,"Kim, M",Meet on campus,Spring,2024
+ME 515,Micro- and Nano-Transport Phenomena,41462,LCD,03:30 PM - 04:45 PM,TR,"Yarin, A",Meet on campus,Spring,2024
+ME 594,Current Topics in Mechanical Engineering,15844,LCD,09:30 AM - 10:45 AM,TR,"Mirbod, P",Meet on campus,Spring,2024
+ME 594,Current Topics in Mechanical Engineering,33580,LCD,12:30 PM - 01:45 PM,TR,"Finan, J",Meet on campus,Spring,2024
+ME 205,Introduction to Thermodynamics,14491,LCD,01:00 PM - 03:30 PM,MW,"Siow, Y",Meet on campus,Summer,2024
+ME 210,Engineering Dynamics,14492,LCD,10:00 AM - 12:30 PM,MW,"Manafzadeh, S",Meet online at set times,Summer,2024
+ME 347,Engineering Design and Graphics with Computer-Aided Design and Simulation,21974,LEC - AL,10:00 AM - 12:00 PM,TR,"Hatami Marbini, H",On campus and online,Summer,2024
+ME 428,Numerical Methods in Mechanical Engineering,14496,LCD,01:00 PM - 03:30 PM,MW,"Komperda, J",On campus and online,Summer,2024
+ME 428,Numerical Methods in Mechanical Engineering,14763,LCD,01:00 PM - 03:30 PM,MW,"Komperda, J",On campus and online,Summer,2024
+ME 118,Energy for Sustainable Society,48600,LCD,09:30 AM - 10:45 AM,TR,"Alonso, M",Meet on campus,Fall,2023
+ME 205,Introduction to Thermodynamics,35098,LCD,10:00 AM - 10:50 AM,MWF,"Megaridis, C",Meet on campus,Fall,2023
+ME 205,Introduction to Thermodynamics,38920,LCD,02:00 PM - 02:50 PM,MWF,,,Fall,2023
+ME 205,Introduction to Thermodynamics,12405,LCD,02:00 PM - 02:50 PM,MWF,"Manafzadeh, S",Meet on campus,Fall,2023
+ME 210,Engineering Dynamics,12407,LCD,12:00 PM - 12:50 PM,MWF,"Scott, M",Meet on campus,Fall,2023
+ME 210,Engineering Dynamics,43498,LCD,02:00 PM - 02:50 PM,MWF,"Lilley, C",Meet on campus,Fall,2023
+ME 211,Fluid Mechanics I,12429,LCD - AS1,10:00 AM - 10:50 AM,MWF,"Mirbod, P",Meet on campus,Fall,2023
+ME 211,Fluid Mechanics I,35391,LCD - AS2,01:00 PM - 01:50 PM,MWF,"Yarin, A",Meet on campus,Fall,2023
+ME 250,Introduction to Engineering Design and Graphics,12457,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Szwalek, J",Meet on campus,Fall,2023
+ME 250,Introduction to Engineering Design and Graphics,35096,LEC - BL,11:00 AM - 11:50 AM,MWF,,Meet on campus,Fall,2023
+ME 250,Introduction to Engineering Design and Graphics,36752,LEC - CL,02:00 PM - 02:50 PM,MWF,"Siow, Y",Meet on campus,Fall,2023
+ME 250,Introduction to Engineering Design and Graphics,38912,LEC - DL,04:00 PM - 04:50 PM,MWF,"Siow, Y",Meet on campus,Fall,2023
+ME 250,Introduction to Engineering Design and Graphics,43500,LEC - EL,09:30 AM - 10:45 AM,TR,"Szwalek, J",Meet on campus,Fall,2023
+ME 250,Introduction to Engineering Design and Graphics,44195,LEC - GL,12:00 PM - 01:15 PM,TR,,,Fall,2023
+ME 261,Materials for Manufacturing,12472,LCD,04:00 PM - 04:50 PM,MWF,"Kadkhodaei, S",Meet on campus,Fall,2023
+ME 308,Mechanical Vibrations,29574,LCD,01:00 PM - 01:50 PM,MWF,"Siow, Y",Meet on campus,Fall,2023
+ME 308,Mechanical Vibrations,35399,LCD,02:00 PM - 02:50 PM,MWF,"Shabana, A",Meet on campus,Fall,2023
+ME 312,Dynamic Systems and Control,22457,LCD,ARRANGED,,,Meet on campus,Fall,2023
+ME 312,Dynamic Systems and Control,43501,LCD,10:00 AM - 10:50 AM,MWF,"Cetin, S",Meet on campus,Fall,2023
+ME 320,Mechanisms and Dynamics of Machinery,40028,LCD,ARRANGED,,,,Fall,2023
+ME 320,Mechanisms and Dynamics of Machinery,12477,LCD,03:30 PM - 04:45 PM,TR,"Brown, M",Meet on campus,Fall,2023
+ME 320,Mechanisms and Dynamics of Machinery,48430,LCD,04:00 PM - 04:50 PM,MWF,"Finan, J",Meet on campus,Fall,2023
+ME 321,Heat Transfer,12488,LCD - AS1,03:00 PM - 03:50 PM,MWF,"Lynch, P",Meet on campus,Fall,2023
+ME 321,Heat Transfer,39449,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Jung, E",Meet on campus,Fall,2023
+ME 325,Intermediate Thermodynamics,39117,LCD,ARRANGED,,,,Fall,2023
+ME 325,Intermediate Thermodynamics,35400,LCD,09:00 AM - 09:50 AM,MWF,"Anand, S",Meet on campus,Fall,2023
+ME 325,Intermediate Thermodynamics,12491,LCD,11:00 AM - 11:50 AM,MWF,"Manafzadeh, S",Meet on campus,Fall,2023
+ME 341,Experimental Methods in Mechanical Engineering,12500,LEC - AL1,11:00 AM - 11:50 AM,MW,"Szwalek, J",Meet on campus,Fall,2023
+ME 341,Experimental Methods in Mechanical Engineering,36969,LEC - AL2,01:00 PM - 01:50 PM,MW,,Meet on campus,Fall,2023
+ME 347,Introduction to Computer-Aided Design,40150,LEC - AL,09:00 AM - 09:50 AM,MW,"Hatami Marbini, H",Meet on campus,Fall,2023
+ME 370,Mechanical Engineering Design,35401,LCD,12:00 PM - 12:50 PM,MWF,"Subramanian, A",Meet on campus,Fall,2023
+ME 370,Mechanical Engineering Design,33053,LCD,05:00 PM - 06:15 PM,TR,,Meet on campus,Fall,2023
+ME 380,Manufacturing Process Principles,12554,LCD,08:00 AM - 08:50 AM,MWF,"Shahbazian-Yassar, R",Meet on campus,Fall,2023
+ME 380,Manufacturing Process Principles,35402,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",Meet on campus,Fall,2023
+ME 394,Senior Capstone Design,37426,LCD,ARRANGED,,,,Fall,2023
+ME 394,Senior Capstone Design,37910,LCD,ARRANGED,,,,Fall,2023
+ME 394,Senior Capstone Design,40233,LCD,ARRANGED,,,,Fall,2023
+ME 396,Senior Design I,40900,LCD - AS,12:30 PM - 01:20 PM,TR,"Brown, M; Scott, S",Meet on campus,Fall,2023
+ME 396,Senior Design I,12555,LCD - AS1,09:30 AM - 10:20 AM,TR,"Brown, M; Scott, S",Meet on campus,Fall,2023
+ME 396,Senior Design I,37914,LCD - AS2,11:00 AM - 11:50 AM,MW,"Komperda, J; Scott, S",Meet on campus,Fall,2023
+ME 396,Senior Design I,40060,LCD - AS3,04:00 PM - 04:50 PM,MW,"Komperda, J; Scott, S",Meet on campus,Fall,2023
+ME 396,Senior Design I,40066,LCD - AS4,05:00 PM - 05:50 PM,MW,"Scott, S",Meet on campus,Fall,2023
+ME 397,Senior Design Il,38145,LCD,ARRANGED,,,,Fall,2023
+ME 397,Senior Design Il,38146,LCD,ARRANGED,,,,Fall,2023
+ME 401,Applied Stress Analysis I,39125,LCD,ARRANGED,,,,Fall,2023
+ME 401,Applied Stress Analysis I,39144,LCD,ARRANGED,,,,Fall,2023
+ME 401,Applied Stress Analysis I,39143,LCD,ARRANGED,,"Shahbazian-Yassar, R",,Fall,2023
+ME 401,Applied Stress Analysis I,32254,LCD,02:00 PM - 03:15 PM,TR,,Meet on campus,Fall,2023
+ME 401,Applied Stress Analysis I,32255,LCD,02:00 PM - 03:15 PM,TR,,Meet on campus,Fall,2023
+ME 408,Intermediate Vibration Theory,30919,LCD,ARRANGED,,,,Fall,2023
+ME 408,Intermediate Vibration Theory,30920,LCD,ARRANGED,,,,Fall,2023
+ME 410,Automation and Robotics Applications,44818,LCD,10:00 AM - 10:50 AM,MWF,"Bhounsule, P",Meet on campus,Fall,2023
+ME 410,Automation and Robotics Applications,44819,LCD,10:00 AM - 10:50 AM,MWF,"Bhounsule, P",Meet on campus,Fall,2023
+ME 411,Mechatronics I,32259,LEC - AL1,03:00 PM - 03:50 PM,MW,"Kim, M",Meet on campus,Fall,2023
+ME 411,Mechatronics I,32260,LEC - AL2,03:00 PM - 03:50 PM,MW,"Kim, M",Meet on campus,Fall,2023
+ME 411,Mechatronics I,39091,LEC - BL1,ARRANGED,,,,Fall,2023
+ME 411,Mechatronics I,39092,LEC - BL2,ARRANGED,,,,Fall,2023
+ME 412,Dynamic Systems Analysis I,39453,LCD,05:00 PM - 06:15 PM,MW,,Meet on campus,Fall,2023
+ME 412,Dynamic Systems Analysis I,39454,LCD,05:00 PM - 06:15 PM,MW,,Meet on campus,Fall,2023
+ME 413,Dynamics of Mechanical Systems,40947,LCD,03:30 PM - 04:45 PM,TR,,,Fall,2023
+ME 413,Dynamics of Mechanical Systems,40948,LCD,03:30 PM - 04:45 PM,TR,,,Fall,2023
+ME 416,Railroad Vehicle Dynamics,44820,LCD,03:30 PM - 04:45 PM,TR,,,Fall,2023
+ME 416,Railroad Vehicle Dynamics,44821,LCD,03:30 PM - 04:45 PM,TR,,,Fall,2023
+ME 419,Compressible Flow Theory,31434,LCD,12:00 PM - 12:50 PM,MWF,,Meet on campus,Fall,2023
+ME 419,Compressible Flow Theory,31443,LCD,12:00 PM - 12:50 PM,MWF,,Meet on campus,Fall,2023
+ME 421,Intermediate Heat Transfer,12506,LEC,11:00 AM - 11:50 AM,MWF,,Meet on campus,Fall,2023
+ME 421,Intermediate Heat Transfer,20381,LEC,11:00 AM - 11:50 AM,MWF,,Meet on campus,Fall,2023
+ME 422,"Heating, Ventilation and Air Conditioning",33075,LCD,04:00 PM - 05:15 PM,TR,"Lee, K",Meet on campus,Fall,2023
+ME 422,"Heating, Ventilation and Air Conditioning",33429,LCD,04:00 PM - 05:15 PM,TR,"Lee, K",Meet on campus,Fall,2023
+ME 423,Heat Exchangers,30973,LCD,ARRANGED,,,,Fall,2023
+ME 423,Heat Exchangers,30974,LCD,ARRANGED,,,,Fall,2023
+ME 424,Energy Management Solutions for Industry: Theory and Practice,32699,LEC,06:00 PM - 08:30 PM,T,"Campbell, B; Haefke, C",Meet on campus,Fall,2023
+ME 424,Energy Management Solutions for Industry: Theory and Practice,32700,LEC,06:00 PM - 08:30 PM,T,"Campbell, B; Haefke, C",Meet on campus,Fall,2023
+ME 428,Numerical Methods in Mechanical Engineering,42949,LCD,01:00 PM - 01:50 PM,MWF,"Bhounsule, P",Meet on campus,Fall,2023
+ME 428,Numerical Methods in Mechanical Engineering,42950,LCD,01:00 PM - 01:50 PM,MWF,"Bhounsule, P",Meet on campus,Fall,2023
+ME 428,Numerical Methods in Mechanical Engineering,12513,LCD,03:00 PM - 03:50 PM,MWF,,Meet on campus,Fall,2023
+ME 428,Numerical Methods in Mechanical Engineering,20382,LCD,03:00 PM - 03:50 PM,MWF,,Meet on campus,Fall,2023
+ME 429,Internal Combustion Engines,29092,LCD,04:00 PM - 05:15 PM,MW,"Manafzadeh, S",Meet on campus,Fall,2023
+ME 429,Internal Combustion Engines,29093,LCD,04:00 PM - 05:15 PM,MW,"Manafzadeh, S",Meet on campus,Fall,2023
+ME 444,Interdisciplinary Product Development I,27413,LCD,02:00 PM - 04:50 PM,R,,,Fall,2023
+ME 444,Interdisciplinary Product Development I,28572,LCD,02:00 PM - 04:50 PM,R,,,Fall,2023
+ME 444,Interdisciplinary Product Development I,39039,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Fall,2023
+ME 444,Interdisciplinary Product Development I,39040,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Fall,2023
+ME 464,Virtual Automation,12557,LCD - AS1,ARRANGED,,,,Fall,2023
+ME 464,Virtual Automation,20376,LCD - AS2,ARRANGED,,,,Fall,2023
+ME 494,Special Topics in Mechanical Engineering,12524,LCD,12:00 PM - 12:50 PM,MWF,"Mirbod, P; Scott, S",Meet on campus,Fall,2023
+ME 494,Special Topics in Mechanical Engineering,20426,LCD,12:00 PM - 12:50 PM,MWF,"Mirbod, P; Scott, S",Meet on campus,Fall,2023
+ME 494,Special Topics in Mechanical Engineering,39097,LCD,02:00 PM - 03:15 PM,TR,"Sankaranarayanan, S",Meet on campus,Fall,2023
+ME 494,Special Topics in Mechanical Engineering,48920,LCD,02:00 PM - 03:15 PM,TR,"Sankaranarayanan, S",Meet on campus,Fall,2023
+ME 494,Special Topics in Mechanical Engineering,39451,LCD,04:00 PM - 04:50 PM,MWF,,,Fall,2023
+ME 494,Special Topics in Mechanical Engineering,39452,LCD,04:00 PM - 04:50 PM,MWF,,,Fall,2023
+ME 496,Undergraduate Senior Design Thesis I,41954,LCD,ARRANGED,,"Brown, M",Meet on campus,Fall,2023
+ME 497,Undergraduate Senior Design Thesis II,41908,LCD,ARRANGED,,,,Fall,2023
+ME 499,Professional Development Seminar,27805,LCD,05:30 PM - 06:20 PM,W,"Nicolsen, B",Meet on campus,Fall,2023
+ME 501,Advanced Thermodynamics,33758,LCD,ARRANGED,,"Lock, A",,Fall,2023
+ME 501,Advanced Thermodynamics,33077,LCD,12:30 PM - 01:45 PM,TR,,,Fall,2023
+ME 504,Computer Aided Analysis of Multibody Systems I,33078,LCD,03:30 PM - 04:45 PM,TR,,Meet on campus,Fall,2023
+ME 505,Computer Aided Analysis of Multibody Systems II,31436,LCD,03:30 PM - 04:45 PM,TR,,Online with deadlines,Fall,2023
+ME 508,Engineering Acoustics,33079,LCD,ARRANGED,,,,Fall,2023
+ME 510,Robotic Manipulators,47106,LCD,02:00 PM - 03:15 PM,MW,,Meet on campus,Fall,2023
+ME 512,Automatic Control of Mechanical Systems,35405,LCD,05:30 PM - 06:45 PM,MW,,,Fall,2023
+ME 514,Mechanics of Viscous Fluids,44822,LCD,09:30 AM - 10:45 AM,TR,,Meet on campus,Fall,2023
+ME 515,Micro- and Nano-Transport Phenomena,40742,LCD,09:00 AM - 10:15 AM,MW,,Meet on campus,Fall,2023
+ME 517,Microfluidics: Fundamentals and Applications,48458,LCD,09:30 AM - 10:45 AM,TR,"Xu, J",Meet on campus,Fall,2023
+ME 518,Fundamentals of Turbulence,39468,LCD,02:00 PM - 03:15 PM,TR,,Meet on campus,Fall,2023
+ME 520,Elastography,47500,LEC,03:30 PM - 04:45 PM,TR,"Klatt, D",Meet on campus,Fall,2023
+ME 524,Thermal Radiation,31439,LCD,ARRANGED,,,,Fall,2023
+ME 528,Numerical Heat Transfer,40645,LCD,12:30 PM - 01:45 PM,TR,,,Fall,2023
+ME 528,Numerical Heat Transfer,32258,LCD,04:00 PM - 06:30 PM,M,"Mashayek, F",Meet on campus,Fall,2023
+ME 533,Plasma Engineering,28664,LCD,ARRANGED,,,,Fall,2023
+ME 533,Plasma Engineering,33080,LCD,ARRANGED,,,,Fall,2023
+ME 536,Chemically Reacting Flows,40743,LCD,12:30 PM - 01:45 PM,TR,,,Fall,2023
+ME 542,Advanced Computational Methods for Product and Process Design,45845,LCD,03:30 PM - 04:45 PM,TR,,Meet on campus,Fall,2023
+ME 547,Advanced Concepts in Computer-Aided Engineering,39521,LCD,02:00 PM - 02:50 PM,MWF,,,Fall,2023
+ME 547,Advanced Concepts in Computer-Aided Engineering,40683,LCD,04:00 PM - 06:30 PM,W,,,Fall,2023
+ME 562,Biomedical Implants in Orthopedics and Dentistry,42663,LCD,03:00 PM - 05:30 PM,M,"Mathew, M",Meet on campus,Fall,2023
+ME 594,Current Topics in Mechanical Engineering,31438,LCD,09:30 AM - 10:45 AM,TR,,Meet on campus,Fall,2023
+ME 594,Current Topics in Mechanical Engineering,40660,LCD,09:30 AM - 10:45 AM,MW,,Meet on campus,Fall,2023
+ME 594,Current Topics in Mechanical Engineering,33550,LCD,10:30 AM - 11:45 AM,MW,"Salehi-Khojin, A",Meet on campus,Fall,2023
+ME 594,Current Topics in Mechanical Engineering,33551,LCD,01:00 PM - 02:15 PM,MW,,Meet on campus,Fall,2023
+ME 594,Current Topics in Mechanical Engineering,38559,LCD,01:00 PM - 02:15 PM,MW,"Jung, E",Meet on campus,Fall,2023
+ME 594,Current Topics in Mechanical Engineering,27650,LCD,02:00 PM - 03:15 PM,TR,"Klatt, D",Meet on campus,Fall,2023
+ME 205,Introduction to Thermodynamics,14491,LCD,10:00 AM - 12:30 PM,MW,"Manafzadeh, S",Meet online at set times,Summer,2023
+ME 210,Engineering Dynamics,14492,LCD,01:00 PM - 03:30 PM,MW,"Subramanian, A",Meet online at set times,Summer,2023
+ME 347,Introduction to Computer-Aided Design,21974,LEC - AL,10:00 AM - 12:00 PM,TR,"Hatami Marbini, H",Meet online at set times,Summer,2023
+ME 428,Numerical Methods in Mechanical Engineering,14496,LCD,01:00 PM - 03:30 PM,MW,"Komperda, J",On campus and online,Summer,2023
+ME 428,Numerical Methods in Mechanical Engineering,14763,LCD,01:00 PM - 03:30 PM,MW,"Komperda, J",On campus and online,Summer,2023
+ME 205,Introduction to Thermodynamics,38129,LCD,12:30 PM - 01:45 PM,TR,"Sankaranarayanan, S",Meet on campus,Spring,2023
+ME 205,Introduction to Thermodynamics,15795,LCD,02:00 PM - 02:50 PM,MWF,"Manafzadeh, S",Meet on campus,Spring,2023
+ME 210,Engineering Dynamics,15796,LCD,10:00 AM - 10:50 AM,MWF,"Lilley, C",Meet on campus,Spring,2023
+ME 210,Engineering Dynamics,38130,LCD,12:00 PM - 12:50 PM,MWF,"Lilley, C",Meet on campus,Spring,2023
+ME 211,Fluid Mechanics I,21434,LCD - AS1,01:00 PM - 01:50 PM,MWF,"Mirbod, P",Meet on campus,Spring,2023
+ME 211,Fluid Mechanics I,38070,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Jung, E",Meet on campus,Spring,2023
+ME 250,Introduction to Engineering Design and Graphics,15805,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Szwalek, J",Meet on campus,Spring,2023
+ME 250,Introduction to Engineering Design and Graphics,35050,LEC - BL1,02:00 PM - 02:50 PM,MWF,"Siow, Y",Meet on campus,Spring,2023
+ME 250,Introduction to Engineering Design and Graphics,36292,LEC - CL1,11:00 AM - 11:50 AM,MWF,"Abiade, J",Meet on campus,Spring,2023
+ME 261,Materials for Manufacturing,24298,LCD,02:00 PM - 02:50 PM,MWF,"Daly, M",Meet on campus,Spring,2023
+ME 308,Mechanical Vibrations,15806,LCD,11:00 AM - 11:50 AM,MWF,"Siow, Y",Meet on campus,Spring,2023
+ME 312,Dynamic Systems and Control,19567,LCD,12:30 PM - 01:45 PM,TR,"Demir, M",Meet on campus,Spring,2023
+ME 312,Dynamic Systems and Control,35719,LCD,04:00 PM - 04:50 PM,MWF,"Reckinger, S",Meet on campus,Spring,2023
+ME 320,Mechanisms and Dynamics of Machinery,15808,LCD,02:00 PM - 03:15 PM,TR,"Brown, M",Meet on campus,Spring,2023
+ME 321,Heat Transfer,15812,LCD - AS1,02:00 PM - 02:50 PM,MWF,"Lynch, P",Meet on campus,Spring,2023
+ME 321,Heat Transfer,37327,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Anand, S",Meet on campus,Spring,2023
+ME 325,Intermediate Thermodynamics,38817,LCD,09:00 AM - 09:50 AM,MWF,"Anand, S",Meet on campus,Spring,2023
+ME 325,Intermediate Thermodynamics,15813,LCD,02:00 PM - 02:50 PM,MWF,"Megaridis, C",Meet on campus,Spring,2023
+ME 341,Experimental Methods in Mechanical Engineering,15819,LEC - AL1,01:00 PM - 01:50 PM,MW,"Szwalek, J",Meet on campus,Spring,2023
+ME 341,Experimental Methods in Mechanical Engineering,36800,LEC - BL,11:00 AM - 11:50 AM,MW,"Xu, J",Meet on campus,Spring,2023
+ME 347,Introduction to Computer-Aided Design,40126,LEC - AL1,12:00 PM - 12:50 PM,MW,"Szwalek, J",Meet on campus,Spring,2023
+ME 370,Mechanical Engineering Design,42477,LCD,01:00 PM - 01:50 PM,MWF,"Finan, J",Meet on campus,Spring,2023
+ME 370,Mechanical Engineering Design,33178,LCD,03:30 PM - 04:45 PM,TR,"Hatami Marbini, H",Meet on campus,Spring,2023
+ME 380,Manufacturing Process Principles,15847,LCD,08:00 AM - 08:50 AM,MWF,"Abiade, J",Meet on campus,Spring,2023
+ME 380,Manufacturing Process Principles,42668,LCD,03:00 PM - 03:50 PM,MWF,"Shahbazian-Yassar, R",Meet on campus,Spring,2023
+ME 397,Senior Design Il,43742,LCD,ARRANGED,,"Alonso, M",Meet on campus,Spring,2023
+ME 397,Senior Design Il,37339,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2023
+ME 397,Senior Design Il,38073,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2023
+ME 397,Senior Design Il,36801,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2023
+ME 397,Senior Design Il,38597,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2023
+ME 408,Intermediate Vibration Theory,31452,LCD,12:30 PM - 01:45 PM,TR,"Shabana, A",Meet on campus,Spring,2023
+ME 408,Intermediate Vibration Theory,31900,LCD,12:30 PM - 01:45 PM,TR,"Shabana, A",Meet on campus,Spring,2023
+ME 412,Dynamic Systems Analysis I,31453,LCD,04:00 PM - 04:50 PM,MWF,"Cetin, S",Meet on campus,Spring,2023
+ME 412,Dynamic Systems Analysis I,31901,LCD,04:00 PM - 04:50 PM,MWF,"Cetin, S",Meet on campus,Spring,2023
+ME 413,Dynamics of Mechanical Systems,33269,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",Meet on campus,Spring,2023
+ME 413,Dynamics of Mechanical Systems,33388,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",Meet on campus,Spring,2023
+ME 415,Propulsion Theory,33271,LCD,02:00 PM - 03:15 PM,TR,"Brezinsky, K",Meet on campus,Spring,2023
+ME 415,Propulsion Theory,33389,LCD,02:00 PM - 03:15 PM,TR,"Brezinsky, K",Meet on campus,Spring,2023
+ME 422,"Heating, Ventilation and Air Conditioning",36503,LCD,06:00 PM - 08:30 PM,W,"Ryan, B",Meet on campus,Spring,2023
+ME 422,"Heating, Ventilation and Air Conditioning",36505,LCD,06:00 PM - 08:30 PM,W,"Ryan, B",Meet on campus,Spring,2023
+ME 428,Numerical Methods in Mechanical Engineering,38133,LCD,10:00 AM - 10:50 AM,MWF,"Salehi-Khojin, A",Meet on campus,Spring,2023
+ME 428,Numerical Methods in Mechanical Engineering,38134,LCD,10:00 AM - 10:50 AM,MWF,"Salehi-Khojin, A",Meet on campus,Spring,2023
+ME 445,Interdisciplinary Product Development 2,31457,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Spring,2023
+ME 449,Microdevices and Micromachining Technology,19209,LCD - AS1,09:30 AM - 10:45 AM,TR,"Paprotny, I",Meet on campus,Spring,2023
+ME 449,Microdevices and Micromachining Technology,23636,LCD - AS2,09:30 AM - 10:45 AM,TR,"Paprotny, I",Meet on campus,Spring,2023
+ME 450,Air Pollution Engineering,30901,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",Meet on campus,Spring,2023
+ME 450,Air Pollution Engineering,34696,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",Meet on campus,Spring,2023
+ME 481,Additive Manufacturing Process,44620,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Meet on campus,Spring,2023
+ME 481,Additive Manufacturing Process,44621,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Meet on campus,Spring,2023
+ME 494,Special Topics in Mechanical Engineering,29386,LCD,06:00 PM - 08:30 PM,T,"Haefke, C",,Spring,2023
+ME 494,Special Topics in Mechanical Engineering,29387,LCD,06:00 PM - 08:30 PM,T,"Haefke, C",,Spring,2023
+ME 494,Special Topics in Mechanical Engineering,32346,LCD,06:00 PM - 08:30 PM,M,"Ryan, B",Meet on campus,Spring,2023
+ME 494,Special Topics in Mechanical Engineering,32347,LCD,06:00 PM - 08:30 PM,M,"Ryan, B",Meet on campus,Spring,2023
+ME 494,Special Topics in Mechanical Engineering,33578,LCD,06:00 PM - 08:30 PM,R,"Ryan, B",,Spring,2023
+ME 494,Special Topics in Mechanical Engineering,33579,LCD,06:00 PM - 08:30 PM,R,"Ryan, B",,Spring,2023
+ME 497,Undergraduate Senior Design Thesis II,40408,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2023
+ME 499,Professional Development Seminar,38363,LCD,05:00 PM - 05:50 PM,W,"Nicolsen, B; Reckinger, S",Meet on campus,Spring,2023
+ME 502,Applied Stress Analysis II,31458,LCD,12:00 PM - 12:50 PM,MWF,"Shahbazian-Yassar, R",Meet on campus,Spring,2023
+ME 511,Mechatronics II,19582,LEC - AL,02:00 PM - 03:15 PM,TR,"Bhounsule, P; Scott, S",Meet on campus,Spring,2023
+ME 514,Mechanics of Viscous Fluids,46322,LCD,09:30 AM - 10:45 AM,MW,"Yarin, A",Meet on campus,Spring,2023
+ME 522,Convective Heat Transfer,31460,LCD,04:00 PM - 06:30 PM,M,"Manafzadeh, S",Meet on campus,Spring,2023
+ME 536,Chemically Reacting Flows,46850,LCD,12:00 PM - 02:30 PM,M,"Aggarwal, S",Meet online at set times,Spring,2023
+ME 594,Current Topics in Mechanical Engineering,15844,LCD,09:30 AM - 10:45 AM,TR,"Megaridis, C",Meet on campus,Spring,2023
+ME 594,Current Topics in Mechanical Engineering,33580,LCD,11:00 AM - 12:15 PM,MW,"Subramanian, A",Meet on campus,Spring,2023
+ME 205,Introduction to Thermodynamics,35098,LCD,01:00 PM - 01:50 PM,MWF,"Manafzadeh, S",Meet online at set times,Fall,2022
+ME 205,Introduction to Thermodynamics,12405,LCD,02:00 PM - 02:50 PM,MWF,"Manafzadeh, S",Meet on campus,Fall,2022
+ME 210,Engineering Dynamics,43498,LCD,11:00 AM - 11:50 AM,MWF,"Scott, M",Meet on campus,Fall,2022
+ME 210,Engineering Dynamics,12407,LCD,12:00 PM - 12:50 PM,MWF,"Lilley, C",Meet online at set times,Fall,2022
+ME 211,Fluid Mechanics I,12429,LCD - AS1,10:00 AM - 10:50 AM,MWF,"Mirbod, P",Meet online at set times,Fall,2022
+ME 211,Fluid Mechanics I,35391,LCD - AS2,02:00 PM - 02:50 PM,MWF,"Jung, E",Meet on campus,Fall,2022
+ME 250,Introduction to Engineering Design and Graphics,12457,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Szwalek, J",Meet on campus,Fall,2022
+ME 250,Introduction to Engineering Design and Graphics,36752,LEC - CL,02:00 PM - 02:50 PM,MWF,"Siow, Y",Meet on campus,Fall,2022
+ME 250,Introduction to Engineering Design and Graphics,38912,LEC - DL,04:00 PM - 04:50 PM,MWF,"Siow, Y",Meet on campus,Fall,2022
+ME 250,Introduction to Engineering Design and Graphics,43500,LEC - EL,09:30 AM - 10:45 AM,TR,"Szwalek, J",Meet on campus,Fall,2022
+ME 261,Materials for Manufacturing,12472,LCD,04:00 PM - 04:50 PM,MWF,"Kadkhodaei, S",Meet on campus,Fall,2022
+ME 308,Mechanical Vibrations,29574,LCD,01:00 PM - 01:50 PM,MWF,"Siow, Y",Meet on campus,Fall,2022
+ME 312,Dynamic Systems and Control,43501,LCD,10:00 AM - 10:50 AM,MWF,"Kim, M",Meet on campus,Fall,2022
+ME 312,Dynamic Systems and Control,22457,LCD,02:00 PM - 02:50 PM,MWF,"Demir, M",Meet on campus,Fall,2022
+ME 320,Mechanisms and Dynamics of Machinery,12477,LCD,03:30 PM - 04:45 PM,TR,"Brown, M",Meet on campus,Fall,2022
+ME 321,Heat Transfer,12488,LCD - AS1,03:00 PM - 03:50 PM,MWF,"Salehi-Khojin, A",Meet on campus,Fall,2022
+ME 321,Heat Transfer,39449,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Jung, E",Meet on campus,Fall,2022
+ME 325,Intermediate Thermodynamics,35400,LCD,09:00 AM - 09:50 AM,MWF,"Lynch, P",Meet on campus,Fall,2022
+ME 325,Intermediate Thermodynamics,12491,LCD,02:00 PM - 02:50 PM,MWF,"Anand, S",Meet on campus,Fall,2022
+ME 341,Experimental Methods in Mechanical Engineering,12500,LEC - AL1,11:00 AM - 11:50 AM,MW,"Szwalek, J",Meet on campus,Fall,2022
+ME 341,Experimental Methods in Mechanical Engineering,36969,LEC - AL2,01:00 PM - 01:50 PM,MW,"Xu, J",Meet on campus,Fall,2022
+ME 347,Introduction to Computer-Aided Design,40150,LEC - AL,08:00 AM - 08:50 AM,MW,"Hatami Marbini, H",Meet on campus,Fall,2022
+ME 370,Mechanical Engineering Design,35401,LCD,12:00 PM - 12:50 PM,MWF,"Subramanian, A",Meet on campus,Fall,2022
+ME 370,Mechanical Engineering Design,33053,LCD,05:00 PM - 06:15 PM,TR,"Finan, J",Meet on campus,Fall,2022
+ME 380,Manufacturing Process Principles,12554,LCD,08:00 AM - 08:50 AM,MWF,"Subramanian, A",Meet on campus,Fall,2022
+ME 380,Manufacturing Process Principles,35402,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",Meet on campus,Fall,2022
+ME 396,Senior Design I,40900,LCD - AS,12:30 PM - 01:20 PM,TR,"Brown, M; Scott, S",Meet on campus,Fall,2022
+ME 396,Senior Design I,12555,LCD - AS1,09:30 AM - 10:20 AM,TR,"Brown, M; Scott, S",Meet on campus,Fall,2022
+ME 396,Senior Design I,37914,LCD - AS2,11:00 AM - 11:50 AM,MW,"Komperda, J; Scott, S",Meet on campus,Fall,2022
+ME 396,Senior Design I,40060,LCD - AS3,04:00 PM - 04:50 PM,MW,"Komperda, J; Scott, S",Meet on campus,Fall,2022
+ME 396,Senior Design I,40066,LCD - AS4,02:00 PM - 02:50 PM,MW,"Alonso, M; Scott, S",Meet on campus,Fall,2022
+ME 401,Applied Stress Analysis I,32254,LCD,02:00 PM - 03:15 PM,TR,"Shahbazian-Yassar, R",Meet on campus,Fall,2022
+ME 401,Applied Stress Analysis I,32255,LCD,02:00 PM - 03:15 PM,TR,"Shahbazian-Yassar, R",Meet on campus,Fall,2022
+ME 411,Mechatronics I,32259,LEC - AL1,12:00 PM - 12:50 PM,MW,"Kim, M",Meet on campus,Fall,2022
+ME 411,Mechatronics I,32260,LEC - AL2,12:00 PM - 12:50 PM,MW,"Kim, M",Meet on campus,Fall,2022
+ME 419,Compressible Flow Theory,31434,LCD,12:00 PM - 12:50 PM,MWF,"Brezinsky, K",Meet on campus,Fall,2022
+ME 419,Compressible Flow Theory,31443,LCD,12:00 PM - 12:50 PM,MWF,"Brezinsky, K",Meet on campus,Fall,2022
+ME 421,Intermediate Heat Transfer,12506,LEC,11:00 AM - 11:50 AM,MWF,"Manafzadeh, S",Meet on campus,Fall,2022
+ME 421,Intermediate Heat Transfer,20381,LEC,11:00 AM - 11:50 AM,MWF,"Manafzadeh, S",Meet on campus,Fall,2022
+ME 424,Energy Management Solutions for Industry: Theory and Practice,32699,LEC,06:00 PM - 08:30 PM,M,"Ryan, B",Meet on campus,Fall,2022
+ME 424,Energy Management Solutions for Industry: Theory and Practice,32700,LEC,06:00 PM - 08:30 PM,M,"Ryan, B",Meet on campus,Fall,2022
+ME 428,Numerical Methods in Mechanical Engineering,42949,LCD,01:00 PM - 01:50 PM,MWF,"Komperda, J",Meet on campus,Fall,2022
+ME 428,Numerical Methods in Mechanical Engineering,42950,LCD,01:00 PM - 01:50 PM,MWF,"Komperda, J",Meet on campus,Fall,2022
+ME 429,Internal Combustion Engines,29092,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",Meet on campus,Fall,2022
+ME 429,Internal Combustion Engines,29093,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",Meet on campus,Fall,2022
+ME 444,Interdisciplinary Product Development I,39039,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Fall,2022
+ME 444,Interdisciplinary Product Development I,39040,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Fall,2022
+ME 494,Special Topics in Mechanical Engineering,12524,LCD,09:30 AM - 10:45 AM,TR,"Megaridis, C",Meet on campus,Fall,2022
+ME 494,Special Topics in Mechanical Engineering,20426,LCD,09:30 AM - 10:45 AM,TR,"Megaridis, C",Meet on campus,Fall,2022
+ME 494,Special Topics in Mechanical Engineering,33076,LCD,06:00 PM - 08:30 PM,T,"Ryan, B",Meet on campus,Fall,2022
+ME 494,Special Topics in Mechanical Engineering,33437,LCD,06:00 PM - 08:30 PM,T,"Ryan, B",Meet on campus,Fall,2022
+ME 496,Undergraduate Senior Design Thesis I,41954,LCD,ARRANGED,,"Komperda, J",Meet on campus,Fall,2022
+ME 499,Professional Development Seminar,27805,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",Meet on campus,Fall,2022
+ME 504,Computer Aided Analysis of Multibody Systems I,33078,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",Meet on campus,Fall,2022
+ME 510,Robotic Manipulators,47106,LCD,02:00 PM - 03:15 PM,MW,"Bhounsule, P",Meet on campus,Fall,2022
+ME 515,Micro- and Nano-Transport Phenomena,40742,LCD,09:00 AM - 10:15 AM,MW,"Yarin, A",Meet on campus,Fall,2022
+ME 518,Fundamentals of Turbulence,39468,LCD,02:00 PM - 03:15 PM,TR,"Aggarwal, S; Scott, S",Meet online at set times,Fall,2022
+ME 520,Elastography,47500,LEC,03:30 PM - 04:45 PM,TR,"Klatt, D",Meet on campus,Fall,2022
+ME 542,Advanced Computational Methods for Product and Process Design,45845,LCD,03:30 PM - 04:45 PM,TR,"Huang, J",Meet on campus,Fall,2022
+ME 562,Biomedical Implants in Orthopedics and Dentistry,42663,LCD,03:00 PM - 05:30 PM,M,"Mathew, M",Meet on campus,Fall,2022
+ME 205,Introduction to Thermodynamics,14491,LCD,10:00 AM - 12:30 PM,MW,"Manafzadeh, S",Meet online at set times,Summer,2022
+ME 210,Engineering Dynamics,14492,LCD,01:00 PM - 03:30 PM,MW,"Reckinger, S",Meet online at set times,Summer,2022
+ME 347,Introduction to Computer-Aided Design,21974,LEC - AL,ARRANGED,,"Hatami Marbini, H",Online with deadlines,Summer,2022
+ME 428,Numerical Methods in Mechanical Engineering,14496,LCD,01:00 PM - 03:30 PM,MW,"Komperda, J",On campus and online,Summer,2022
+ME 428,Numerical Methods in Mechanical Engineering,14763,LCD,01:00 PM - 03:30 PM,MW,"Komperda, J",On campus and online,Summer,2022
+ME 205,Introduction to Thermodynamics,38129,LCD,01:00 PM - 01:50 PM,MWF,"Sankaranarayanan, S",On Campus,Spring,2022
+ME 205,Introduction to Thermodynamics,15795,LCD,02:00 PM - 02:50 PM,MWF,"Manafzadeh, S",On Campus,Spring,2022
+ME 210,Engineering Dynamics,15796,LCD,10:00 AM - 10:50 AM,MWF,"Reckinger, S",On Campus,Spring,2022
+ME 210,Engineering Dynamics,38130,LCD,12:00 PM - 12:50 PM,MWF,"Reckinger, S",On Campus,Spring,2022
+ME 211,Fluid Mechanics I,21434,LCD - AS1,09:00 AM - 09:50 AM,MWF,"Megaridis, C",On Campus,Spring,2022
+ME 211,Fluid Mechanics I,38070,LCD - AS2,03:00 PM - 03:50 PM,MWF,"Mirbod, P",On Campus,Spring,2022
+ME 250,Introduction to Engineering Design and Graphics,15805,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Hatami Marbini, H",On Campus,Spring,2022
+ME 250,Introduction to Engineering Design and Graphics,35050,LEC - BL1,02:00 PM - 02:50 PM,MWF,"Siow, Y",On Campus,Spring,2022
+ME 250,Introduction to Engineering Design and Graphics,38131,LEC - DL,04:00 PM - 04:50 PM,MWF,"Siow, Y",On Campus,Spring,2022
+ME 250,Introduction to Engineering Design and Graphics,42196,LEC - EL,09:30 AM - 10:45 AM,TR,"Abiade, J",On Campus,Spring,2022
+ME 261,Materials for Manufacturing,24298,LCD,04:00 PM - 04:50 PM,MWF,"Daly, M",Online Synchronous,Spring,2022
+ME 308,Mechanical Vibrations,15806,LCD,12:00 PM - 12:50 PM,MWF,"Siow, Y",On Campus,Spring,2022
+ME 308,Mechanical Vibrations,35710,LCD,01:00 PM - 01:50 PM,MWF,"Finan, J",On Campus,Spring,2022
+ME 312,Dynamic Systems and Control,19567,LCD,03:30 PM - 04:45 PM,TR,"Cetin, S",On Campus,Spring,2022
+ME 312,Dynamic Systems and Control,35719,LCD,04:00 PM - 04:50 PM,MWF,"Kim, M",On Campus,Spring,2022
+ME 320,Mechanisms and Dynamics of Machinery,45202,LCD,09:30 AM - 10:45 AM,TR,"Szwalek, J",On Campus,Spring,2022
+ME 320,Mechanisms and Dynamics of Machinery,15808,LCD,02:00 PM - 03:15 PM,TR,"Brown, M",On Campus,Spring,2022
+ME 321,Heat Transfer,15812,LCD - AS1,02:00 PM - 02:50 PM,MWF,"Jung, E",On Campus,Spring,2022
+ME 321,Heat Transfer,37327,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Salehi-Khojin, A",On Campus,Spring,2022
+ME 325,Intermediate Thermodynamics,15813,LCD,02:00 PM - 02:50 PM,MWF,"Megaridis, C",On Campus,Spring,2022
+ME 325,Intermediate Thermodynamics,38817,LCD,04:00 PM - 04:50 PM,MWF,"Anand, S",On Campus,Spring,2022
+ME 341,Experimental Methods in Mechanical Engineering,15819,LEC - AL1,03:00 PM - 03:50 PM,MW,"Xu, J",On Campus,Spring,2022
+ME 341,Experimental Methods in Mechanical Engineering,36800,LEC - AL2,01:00 PM - 01:50 PM,MW,"Paoli, R",On Campus,Spring,2022
+ME 347,Introduction to Computer-Aided Design,39388,LEC - AL,09:00 AM - 09:50 AM,MW,"Szwalek, J",On Campus,Spring,2022
+ME 370,Mechanical Engineering Design,33178,LCD,12:30 PM - 01:45 PM,TR,"Subramanian, A",On Campus,Spring,2022
+ME 370,Mechanical Engineering Design,42477,LCD,01:00 PM - 01:50 PM,MWF,"Bhounsule, P",On Campus,Spring,2022
+ME 380,Manufacturing Process Principles,15847,LCD,08:00 AM - 08:50 AM,MWF,"Abiade, J",On Campus,Spring,2022
+ME 380,Manufacturing Process Principles,42668,LCD,02:00 PM - 03:15 PM,TR,"Shahbazian-Yassar, R",On Campus,Spring,2022
+ME 397,Senior Design Il,43742,LCD,ARRANGED,,"Alonso, M",On Campus,Spring,2022
+ME 397,Senior Design Il,37339,LCD,ARRANGED,,"Brown, M",On Campus,Spring,2022
+ME 397,Senior Design Il,38073,LCD,ARRANGED,,"Brown, M",On Campus,Spring,2022
+ME 397,Senior Design Il,36801,LCD,ARRANGED,,"Komperda, J",On Campus,Spring,2022
+ME 397,Senior Design Il,38597,LCD,ARRANGED,,"Komperda, J",On Campus,Spring,2022
+ME 408,Intermediate Vibration Theory,31452,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",On Campus,Spring,2022
+ME 408,Intermediate Vibration Theory,31900,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",On Campus,Spring,2022
+ME 415,Propulsion Theory,33271,LCD,12:00 PM - 12:50 PM,MWF,"Lynch, P",On Campus,Spring,2022
+ME 415,Propulsion Theory,33389,LCD,12:00 PM - 12:50 PM,MWF,"Lynch, P",On Campus,Spring,2022
+ME 416,Railroad Vehicle Dynamics,41688,LCD,12:30 PM - 01:45 PM,TR,,On Campus,Spring,2022
+ME 416,Railroad Vehicle Dynamics,41689,LCD,12:30 PM - 01:45 PM,TR,,On Campus,Spring,2022
+ME 417,Intermediate Fluid Mechanics,31454,LCD,01:00 PM - 01:50 PM,MWF,"Mirbod, P",On Campus,Spring,2022
+ME 417,Intermediate Fluid Mechanics,31902,LCD,01:00 PM - 01:50 PM,MWF,"Mirbod, P",On Campus,Spring,2022
+ME 422,"Heating, Ventilation and Air Conditioning",36503,LCD,06:00 PM - 08:30 PM,W,"Ryan, W",On Campus,Spring,2022
+ME 422,"Heating, Ventilation and Air Conditioning",36505,LCD,06:00 PM - 08:30 PM,W,"Ryan, W",On Campus,Spring,2022
+ME 428,Numerical Methods in Mechanical Engineering,38133,LCD,10:00 AM - 10:50 AM,MWF,"Komperda, J",On Campus,Spring,2022
+ME 428,Numerical Methods in Mechanical Engineering,38134,LCD,10:00 AM - 10:50 AM,MWF,"Komperda, J",On Campus,Spring,2022
+ME 428,Numerical Methods in Mechanical Engineering,15824,LCD,03:00 PM - 03:50 PM,MWF,"Aggarwal, S",On Campus,Spring,2022
+ME 428,Numerical Methods in Mechanical Engineering,19337,LCD,03:00 PM - 03:50 PM,MWF,"Aggarwal, S",On Campus,Spring,2022
+ME 445,Interdisciplinary Product Development 2,31457,LCD,ARRANGED,,"Scott, M",On Campus,Spring,2022
+ME 449,Microdevices and Micromachining Technology,19209,LCD - AS1,11:00 AM - 01:50 PM,F,,On Campus,Spring,2022
+ME 449,Microdevices and Micromachining Technology,23636,LCD - AS2,11:00 AM - 01:50 PM,F,"Paprotny, I",Online Synchronous,Spring,2022
+ME 450,Air Pollution Engineering,30901,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",On Campus,Spring,2022
+ME 450,Air Pollution Engineering,34696,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",On Campus,Spring,2022
+ME 481,Additive Manufacturing Process,44620,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",On Campus,Spring,2022
+ME 481,Additive Manufacturing Process,44621,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",On Campus,Spring,2022
+ME 494,Special Topics in Mechanical Engineering,32346,LCD,02:00 PM - 03:15 PM,TR,"Yurkiv, V",On Campus,Spring,2022
+ME 494,Special Topics in Mechanical Engineering,32347,LCD,02:00 PM - 03:15 PM,TR,"Yurkiv, V",On Campus,Spring,2022
+ME 497,Undergraduate Senior Design Thesis II,40408,LCD,ARRANGED,,"Komperda, J",On Campus,Spring,2022
+ME 499,Professional Development Seminar,38363,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",On Campus,Spring,2022
+ME 501,Advanced Thermodynamics,39399,LCD,12:30 PM - 01:45 PM,TR,"Brezinsky, K",On Campus,Spring,2022
+ME 502,Applied Stress Analysis II,31458,LCD,05:00 PM - 06:15 PM,TR,"Shahbazian-Yassar, R",On Campus,Spring,2022
+ME 512,Automatic Control of Mechanical Systems,33278,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",On Campus,Spring,2022
+ME 517,Microfluidics: Fundamentals and Applications,44321,LCD,05:00 PM - 06:15 PM,MW,"Xu, J",On Campus,Spring,2022
+ME 521,Heat Conduction,33279,LEC,04:00 PM - 06:30 PM,M,"Manafzadeh, S",On Campus,Spring,2022
+ME 525,Multi-phase Heat Transfer,40047,LEC,02:00 PM - 03:15 PM,MW,"Anand, S",On Campus,Spring,2022
+ME 541,Microelectronic Fabrication Techniques,22184,LCD,04:30 PM - 05:45 PM,MW,,On Campus,Spring,2022
+ME 547,Advanced Concepts in Computer-Aided Engineering,44979,LCD,12:30 PM - 01:45 PM,MW,"Hatami Marbini, H",On Campus,Spring,2022
+ME 594,Current Topics in Mechanical Engineering,15844,LCD,09:30 AM - 10:45 AM,TR,"Yarin, A",On Campus,Spring,2022
+ME 205,Introduction to Thermodynamics,35098,LCD,01:00 PM - 01:50 PM,MWF,"Yurkiv, V",Online Asynchronous,Fall,2021
+ME 205,Introduction to Thermodynamics,12405,LCD,03:00 PM - 03:50 PM,MWF,"Manafzadeh, S",On Campus,Fall,2021
+ME 210,Engineering Dynamics,43498,LCD,11:00 AM - 11:50 AM,MWF,"Scott, M",On Campus,Fall,2021
+ME 210,Engineering Dynamics,12407,LCD,12:00 PM - 12:50 PM,MWF,"Lilley, C",On Campus,Fall,2021
+ME 211,Fluid Mechanics I,12429,LCD - AS1,10:00 AM - 10:50 AM,MWF,"Mirbod, P",On Campus,Fall,2021
+ME 211,Fluid Mechanics I,35391,LCD - AS2,03:00 PM - 03:50 PM,MWF,"Xu, J",On Campus,Fall,2021
+ME 250,Introduction to Engineering Design and Graphics,12457,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Szwalek, J",On Campus,Fall,2021
+ME 250,Introduction to Engineering Design and Graphics,35096,LEC - BL,11:00 AM - 11:50 AM,MWF,"Abiade, J",On Campus,Fall,2021
+ME 250,Introduction to Engineering Design and Graphics,36752,LEC - CL,02:00 PM - 02:50 PM,MWF,"Siow, Y",On Campus,Fall,2021
+ME 250,Introduction to Engineering Design and Graphics,38912,LEC - DL,04:00 PM - 04:50 PM,MWF,"Siow, Y",On Campus,Fall,2021
+ME 250,Introduction to Engineering Design and Graphics,43500,LEC - EL,09:30 AM - 10:45 AM,TR,"Szwalek, J",On Campus,Fall,2021
+ME 261,Materials for Manufacturing,12472,LCD,02:00 PM - 02:50 PM,MWF,"McNallan, M",On Campus,Fall,2021
+ME 308,Mechanical Vibrations,29574,LCD,01:00 PM - 01:50 PM,MWF,"Siow, Y",On Campus,Fall,2021
+ME 312,Dynamic Systems and Control,43501,LCD,10:00 AM - 10:50 AM,MWF,"Reckinger, S",On Campus,Fall,2021
+ME 312,Dynamic Systems and Control,22457,LCD,02:00 PM - 02:50 PM,MWF,"Kim, M",On Campus,Fall,2021
+ME 320,Mechanisms and Dynamics of Machinery,12477,LCD,03:30 PM - 04:45 PM,TR,"Brown, M",Online Synchronous,Fall,2021
+ME 321,Heat Transfer,12488,LCD - AS1,03:00 PM - 03:50 PM,MWF,"Jung, E",On Campus,Fall,2021
+ME 321,Heat Transfer,39449,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Anand, S",On Campus,Fall,2021
+ME 325,Intermediate Thermodynamics,35400,LCD,09:00 AM - 09:50 AM,MWF,"Lynch, P",On Campus,Fall,2021
+ME 325,Intermediate Thermodynamics,12491,LCD,02:00 PM - 02:50 PM,MWF,"Megaridis, C",On Campus,Fall,2021
+ME 341,Experimental Methods in Mechanical Engineering,12500,LEC - AL1,11:00 AM - 11:50 AM,MW,"Szwalek, J",On Campus,Fall,2021
+ME 347,Introduction to Computer-Aided Design,40150,LEC - AL,09:00 AM - 09:50 AM,MW,"Hatami Marbini, H; Scott, S",On Campus,Fall,2021
+ME 370,Mechanical Engineering Design,35401,LCD,12:00 PM - 12:50 PM,MWF,"Bhounsule, P",On Campus,Fall,2021
+ME 370,Mechanical Engineering Design,33053,LCD,05:00 PM - 06:15 PM,TR,"Finan, J",On Campus,Fall,2021
+ME 380,Manufacturing Process Principles,12554,LCD,ARRANGED,,"Subramanian, A",Online Asynchronous,Fall,2021
+ME 396,Senior Design I,40900,LCD - AS,12:30 PM - 01:20 PM,TR,"Alonso, M; Brown, M",On Campus,Fall,2021
+ME 396,Senior Design I,12555,LCD - AS1,09:30 AM - 10:20 AM,TR,"Alonso, M; Brown, M",On Campus,Fall,2021
+ME 396,Senior Design I,37914,LCD - AS2,11:00 AM - 11:50 AM,MW,"Alonso, M; Komperda, J",On Campus,Fall,2021
+ME 396,Senior Design I,40060,LCD - AS3,04:00 PM - 04:50 PM,MW,"Alonso, M; Komperda, J",On Campus,Fall,2021
+ME 401,Applied Stress Analysis I,32254,LCD,02:00 PM - 03:15 PM,TR,"Shahbazian-Yassar, R",On Campus,Fall,2021
+ME 401,Applied Stress Analysis I,32255,LCD,02:00 PM - 03:15 PM,TR,"Shahbazian-Yassar, R",On Campus,Fall,2021
+ME 411,Mechatronics I,32259,LEC - AL1,04:00 PM - 04:50 PM,MW,"Cetin, S",On Campus,Fall,2021
+ME 411,Mechatronics I,32260,LEC - AL2,04:00 PM - 04:50 PM,MW,"Cetin, S",On Campus,Fall,2021
+ME 412,Dynamic Systems Analysis I,39453,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",On Campus,Fall,2021
+ME 412,Dynamic Systems Analysis I,39454,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",On Campus,Fall,2021
+ME 419,Compressible Flow Theory,31434,LCD,12:00 PM - 12:50 PM,MWF,"Brezinsky, K",On Campus,Fall,2021
+ME 419,Compressible Flow Theory,31443,LCD,12:00 PM - 12:50 PM,MWF,"Brezinsky, K",On Campus,Fall,2021
+ME 421,Intermediate Heat Transfer,12506,LEC,11:00 AM - 11:50 AM,MWF,"Manafzadeh, S",On Campus,Fall,2021
+ME 421,Intermediate Heat Transfer,20381,LEC,11:00 AM - 11:50 AM,MWF,"Manafzadeh, S",On Campus,Fall,2021
+ME 424,Energy Management Solutions for Industry: Theory and Practice,32699,LEC,06:00 PM - 08:30 PM,M,"Ryan, W",On Campus,Fall,2021
+ME 424,Energy Management Solutions for Industry: Theory and Practice,32700,LEC,06:00 PM - 08:30 PM,M,"Ryan, W",On Campus,Fall,2021
+ME 428,Numerical Methods in Mechanical Engineering,42949,LCD,01:00 PM - 01:50 PM,MWF,"Aggarwal, S",On Campus,Fall,2021
+ME 428,Numerical Methods in Mechanical Engineering,42950,LCD,01:00 PM - 01:50 PM,MWF,"Aggarwal, S",On Campus,Fall,2021
+ME 428,Numerical Methods in Mechanical Engineering,12513,LCD,03:00 PM - 03:50 PM,MWF,"Salehi-Khojin, A",On Campus,Fall,2021
+ME 428,Numerical Methods in Mechanical Engineering,20382,LCD,03:00 PM - 03:50 PM,MWF,"Salehi-Khojin, A",On Campus,Fall,2021
+ME 429,Internal Combustion Engines,29092,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",On Campus,Fall,2021
+ME 429,Internal Combustion Engines,29093,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",On Campus,Fall,2021
+ME 444,Interdisciplinary Product Development I,39039,LCD,02:00 PM - 04:50 PM,M,"Scott, M",On Campus,Fall,2021
+ME 444,Interdisciplinary Product Development I,39040,LCD,02:00 PM - 04:50 PM,M,"Scott, M",On Campus,Fall,2021
+ME 494,Special Topics in Mechanical Engineering,12524,LCD,09:30 AM - 10:45 AM,TR,"Scott, S; Yarin, A",On Campus,Fall,2021
+ME 494,Special Topics in Mechanical Engineering,20426,LCD,09:30 AM - 10:45 AM,TR,"Scott, S; Yarin, A",On Campus,Fall,2021
+ME 496,Undergraduate Senior Design Thesis I,41954,LCD,11:00 AM - 11:50 AM,MW,"Komperda, J",On Campus,Fall,2021
+ME 499,Professional Development Seminar,27805,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",On Campus,Fall,2021
+ME 504,Computer Aided Analysis of Multibody Systems I,33078,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",On Campus,Fall,2021
+ME 542,Advanced Computational Methods for Product and Process Design,45845,LCD,03:30 PM - 04:45 PM,TR,"Huang, J",On Campus,Fall,2021
+ME 562,Biomedical Implants in Orthopedics and Dentistry,42663,LCD,03:00 PM - 05:30 PM,M,"Mathew, M",Mixed in-person & online instr,Fall,2021
+ME 594,Current Topics in Mechanical Engineering,40660,LCD,09:30 AM - 10:45 AM,MW,"Kim, M",On Campus,Fall,2021
+ME 594,Current Topics in Mechanical Engineering,38559,LCD,01:00 PM - 02:15 PM,MW,"Jung, E",On Campus,Fall,2021
+ME 594,Current Topics in Mechanical Engineering,27650,LCD,02:00 PM - 03:15 PM,TR,"Klatt, D",On Campus,Fall,2021
+ME 594,Current Topics in Mechanical Engineering,31438,LCD,04:00 PM - 06:30 PM,M,"Mashayek, F",On Campus,Fall,2021
+ME 205,Introduction to Thermodynamics,14491,LCD,04:00 PM - 06:30 PM,MW,"Siow, Y",Online Synchronous,Summer,2021
+ME 210,Engineering Dynamics,14492,LCD,01:00 PM - 03:30 PM,MW,"Reckinger, S",Online Synchronous,Summer,2021
+ME 347,Introduction to Computer-Aided Design,21974,LEC - AL,12:00 PM - 02:00 PM,TR,"Hatami Marbini, H",Online Asynchronous,Summer,2021
+ME 428,Numerical Methods in Mechanical Engineering,14496,LCD,10:00 AM - 12:30 PM,MW,"Komperda, J",Online Synchronous,Summer,2021
+ME 428,Numerical Methods in Mechanical Engineering,14763,LCD,10:00 AM - 12:30 PM,MW,"Komperda, J",Online Synchronous,Summer,2021
+ME 205,Introduction to Thermodynamics,38129,LCD,01:00 PM - 01:50 PM,MWF,"Yurkiv, V",Online Asynchronous,Spring,2021
+ME 205,Introduction to Thermodynamics,15795,LCD,02:00 PM - 02:50 PM,MWF,"Manafzadeh, S",Online Synchronous,Spring,2021
+ME 210,Engineering Dynamics,15796,LCD,10:00 AM - 10:50 AM,MWF,"Lilley, C",Online Asynchronous,Spring,2021
+ME 210,Engineering Dynamics,38130,LCD,11:00 AM - 11:50 AM,MWF,"Scott, M",Online Asynchronous,Spring,2021
+ME 211,Fluid Mechanics I,21434,LCD - AS1,09:00 AM - 09:50 AM,MWF,"Xu, J",Online Asynchronous,Spring,2021
+ME 211,Fluid Mechanics I,38070,LCD - AS2,03:00 PM - 03:50 PM,MWF,"Paoli, R",Online Asynchronous,Spring,2021
+ME 250,Introduction to Engineering Design and Graphics,15805,LEC - AL1,09:00 AM - 09:50 AM,MWF,"Szwalek, J",Online Synchronous,Spring,2021
+ME 250,Introduction to Engineering Design and Graphics,35050,LEC - BL1,02:00 PM - 02:50 PM,MWF,"Siow, Y",Online Synchronous,Spring,2021
+ME 250,Introduction to Engineering Design and Graphics,36292,LEC - CL1,11:00 AM - 11:50 AM,MWF,"Szwalek, J",Online Synchronous,Spring,2021
+ME 250,Introduction to Engineering Design and Graphics,38131,LEC - DL,04:00 PM - 04:50 PM,MWF,"Abiade, J",Online Synchronous,Spring,2021
+ME 250,Introduction to Engineering Design and Graphics,42196,LEC - EL,09:30 AM - 10:45 AM,TR,"Bhounsule, P",Online Synchronous,Spring,2021
+ME 261,Materials for Manufacturing,24298,LCD,04:00 PM - 04:50 PM,MWF,"Daly, M",Online Synchronous,Spring,2021
+ME 308,Mechanical Vibrations,15806,LCD,12:00 PM - 12:50 PM,MWF,"Siow, Y",Online Synchronous,Spring,2021
+ME 308,Mechanical Vibrations,35710,LCD,01:00 PM - 01:50 PM,MWF,"Lilley, C",Online Asynchronous,Spring,2021
+ME 312,Dynamic Systems and Control,19567,LCD,10:00 AM - 10:50 AM,MWF,"Reckinger, S",Online Asynchronous,Spring,2021
+ME 312,Dynamic Systems and Control,35719,LCD,04:00 PM - 04:50 PM,MWF,"Kim, M",Online Synchronous,Spring,2021
+ME 320,Mechanisms and Dynamics of Machinery,15808,LCD,02:00 PM - 03:15 PM,TR,"Brown, M",Online Synchronous,Spring,2021
+ME 321,Heat Transfer,15812,LCD - AS1,04:00 PM - 04:50 PM,MWF,"Jung, E",Online Asynchronous,Spring,2021
+ME 321,Heat Transfer,37327,LCD - AS2,11:00 AM - 11:50 AM,MWF,"Anand, S",Online Synchronous,Spring,2021
+ME 325,Intermediate Thermodynamics,38817,LCD,10:00 AM - 10:50 AM,MWF,"Lynch, P",Online Synchronous,Spring,2021
+ME 325,Intermediate Thermodynamics,15813,LCD,02:00 PM - 02:50 PM,MWF,"Megaridis, C",Online Synchronous,Spring,2021
+ME 341,Experimental Methods in Mechanical Engineering,36800,LEC - AL2,02:00 PM - 02:50 PM,MW,"Szwalek, J",Online Asynchronous,Spring,2021
+ME 347,Introduction to Computer-Aided Design,39388,LEC - AL,09:00 AM - 09:50 AM,MW,"Hatami Marbini, H",Online Asynchronous,Spring,2021
+ME 347,Introduction to Computer-Aided Design,40126,LEC - AL1,10:00 AM - 10:50 AM,MW,"Hatami Marbini, H",Online Asynchronous,Spring,2021
+ME 370,Mechanical Engineering Design,33178,LCD,12:30 PM - 01:45 PM,TR,"Subramanian, A",Online Asynchronous,Spring,2021
+ME 370,Mechanical Engineering Design,42477,LCD,05:00 PM - 06:15 PM,TR,"Finan, J",Online Synchronous,Spring,2021
+ME 380,Manufacturing Process Principles,15847,LCD,08:00 AM - 08:50 AM,MWF,"Shahbazian-Yassar, R",Online Asynchronous,Spring,2021
+ME 380,Manufacturing Process Principles,42668,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",Online Asynchronous,Spring,2021
+ME 397,Senior Design Il,43742,LCD,ARRANGED,,"Alonso, M",Online Synchronous,Spring,2021
+ME 397,Senior Design Il,37339,LCD,ARRANGED,,"Brown, M",Online Synchronous,Spring,2021
+ME 397,Senior Design Il,38073,LCD,ARRANGED,,"Brown, M",Online Synchronous,Spring,2021
+ME 397,Senior Design Il,36801,LCD,ARRANGED,,"Komperda, J",Online Synchronous,Spring,2021
+ME 397,Senior Design Il,38597,LCD,ARRANGED,,"Komperda, J",Online Synchronous,Spring,2021
+ME 408,Intermediate Vibration Theory,31452,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",Online Asynchronous,Spring,2021
+ME 408,Intermediate Vibration Theory,31900,LCD,03:30 PM - 04:45 PM,TR,"Shabana, A",Online Asynchronous,Spring,2021
+ME 413,Dynamics of Mechanical Systems,33269,LCD,12:30 PM - 01:45 PM,TR,"Shabana, A",Online Asynchronous,Spring,2021
+ME 413,Dynamics of Mechanical Systems,33388,LCD,12:30 PM - 01:45 PM,TR,"Shabana, A",Online Asynchronous,Spring,2021
+ME 415,Propulsion Theory,33271,LCD,12:30 PM - 01:45 PM,MW,"Brezinsky, K",Online Synchronous,Spring,2021
+ME 415,Propulsion Theory,33389,LCD,12:30 PM - 01:45 PM,MW,"Brezinsky, K",Online Synchronous,Spring,2021
+ME 422,"Heating, Ventilation and Air Conditioning",36503,LCD,06:00 PM - 08:30 PM,W,"Ryan, W",Online Asynchronous,Spring,2021
+ME 422,"Heating, Ventilation and Air Conditioning",36505,LCD,06:00 PM - 08:30 PM,W,"Ryan, W",Online Asynchronous,Spring,2021
+ME 426,Applied Combustion,31455,LCD,11:00 AM - 12:15 PM,MW,"Aggarwal, S; Scott, S",Online Synchronous,Spring,2021
+ME 426,Applied Combustion,31903,LCD,11:00 AM - 12:15 PM,MW,"Aggarwal, S; Scott, S",Online Synchronous,Spring,2021
+ME 428,Numerical Methods in Mechanical Engineering,38133,LCD,01:00 PM - 01:50 PM,MWF,"Komperda, J",Online Synchronous,Spring,2021
+ME 428,Numerical Methods in Mechanical Engineering,38134,LCD,01:00 PM - 01:50 PM,MWF,"Komperda, J",Online Synchronous,Spring,2021
+ME 428,Numerical Methods in Mechanical Engineering,15824,LCD,03:00 PM - 03:50 PM,MWF,"Salehi-Khojin, A",Online Synchronous,Spring,2021
+ME 428,Numerical Methods in Mechanical Engineering,19337,LCD,03:00 PM - 03:50 PM,MWF,"Salehi-Khojin, A",Online Synchronous,Spring,2021
+ME 445,Interdisciplinary Product Development 2,31457,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Online Synchronous,Spring,2021
+ME 449,Microdevices and Micromachining Technology,19209,LCD - AS1,09:30 AM - 10:45 AM,TR,"Paprotny, I",Online Synchronous,Spring,2021
+ME 449,Microdevices and Micromachining Technology,23636,LCD - AS2,09:30 AM - 10:45 AM,TR,"Paprotny, I",Online Synchronous,Spring,2021
+ME 450,Air Pollution Engineering,30901,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",Online Synchronous,Spring,2021
+ME 450,Air Pollution Engineering,34696,LCD,06:00 PM - 08:30 PM,W,"Manafzadeh, S",Online Synchronous,Spring,2021
+ME 481,Additive Manufacturing Process,44620,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Online Synchronous,Spring,2021
+ME 481,Additive Manufacturing Process,44621,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Online Synchronous,Spring,2021
+ME 497,Undergraduate Senior Design Thesis II,40408,LCD,ARRANGED,,"Komperda, J",Online Synchronous,Spring,2021
+ME 499,Professional Development Seminar,38363,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",Online Synchronous,Spring,2021
+ME 501,Advanced Thermodynamics,39399,LCD,12:30 PM - 01:45 PM,TR,"Anand, S",Online Synchronous,Spring,2021
+ME 511,Mechatronics II,19582,LEC - AL,03:30 PM - 04:20 PM,MW,"Cetin, S",Online Synchronous,Spring,2021
+ME 512,Automatic Control of Mechanical Systems,33278,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",Online Synchronous,Spring,2021
+ME 515,Micro- and Nano-Transport Phenomena,41462,LCD,02:00 PM - 03:15 PM,TR,"Yarin, A",Online Asynchronous,Spring,2021
+ME 517,Microfluidics: Fundamentals and Applications,44321,LCD,02:00 PM - 03:15 PM,MW,"Xu, J",Online Synchronous,Spring,2021
+ME 522,Convective Heat Transfer,31460,LCD,04:00 PM - 06:30 PM,M,"Manafzadeh, S",Online Synchronous,Spring,2021
+ME 541,Microelectronic Fabrication Techniques,22184,LCD,04:30 PM - 05:45 PM,MW,"Feinerman, A",On Campus,Spring,2021
+ME 594,Current Topics in Mechanical Engineering,36618,LCD,09:30 AM - 10:45 AM,TR,"Jeong, H",Online Asynchronous,Spring,2021
+ME 594,Current Topics in Mechanical Engineering,15844,LCD,05:00 PM - 06:15 PM,TR,"Mirbod, P",Online Asynchronous,Spring,2021
+ME 594,Current Topics in Mechanical Engineering,33580,LCD,05:00 PM - 06:15 PM,TR,"Sankaranarayanan, S",Online Synchronous,Spring,2021
