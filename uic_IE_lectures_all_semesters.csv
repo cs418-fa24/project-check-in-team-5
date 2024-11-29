@@ -1,655 +1,655 @@
-Course Code,Course Title,CRN,Section Type,Time,Days,Instructor,Method,Semester,Year
-IE 201,Financial Engineering,16559,LCD,11:00 AM - 11:50 AM,MWF,"Banerjee, P",,Spring,2014
-IE 312,Dynamic Systems and Control,35720,LCD,09:30 AM - 10:45 AM,TR,,,Spring,2014
-IE 312,Dynamic Systems and Control,21976,LCD,09:30 AM - 10:45 AM,TR,"Brown, M",,Spring,2014
-IE 342,Probability and Statistics for Engineers,29781,LCD,01:00 PM - 01:50 PM,MWF,"He, D",,Spring,2014
-IE 345,Regression Applications and Forecasting in Engineering,23213,LCD,10:00 AM - 10:50 AM,MWF,"He, D",,Spring,2014
-IE 380,Manufacturing Process Principles,16571,LCD,10:00 AM - 10:50 AM,MWF,"Abiade, J",,Spring,2014
-IE 396,Senior Design I,16572,LCD,12:30 PM - 02:10 PM,TR,"Brown, M",,Spring,2014
-IE 412,Dynamic Systems Analysis I,31906,LCD,05:00 PM - 06:15 PM,MW,"Cetinkunt, S",,Spring,2014
-IE 412,Dynamic Systems Analysis I,31907,LCD,05:00 PM - 06:15 PM,MW,"Cetinkunt, S",,Spring,2014
-IE 445,Interdisciplinary Product Development 2,31905,LCD,ARRANGED,,"Scott, M",,Spring,2014
-IE 446,Quality Control and Reliability,16566,LCD,11:00 AM - 12:15 PM,TR,"Li, L",,Spring,2014
-IE 446,Quality Control and Reliability,19267,LCD,11:00 AM - 12:15 PM,TR,"Li, L",,Spring,2014
-IE 463,Plant Layout and Materials Handling,16568,LCD,02:00 PM - 02:50 PM,MWF,"Ratisoontorn, N",,Spring,2014
-IE 463,Plant Layout and Materials Handling,19269,LCD,02:00 PM - 02:50 PM,MWF,"Ratisoontorn, N",,Spring,2014
-IE 466,Production Planning and Inventory Control,16569,LCD,12:00 PM - 12:50 PM,MWF,"Ratisoontorn, N",,Spring,2014
-IE 466,Production Planning and Inventory Control,19270,LCD,12:00 PM - 12:50 PM,MWF,"Ratisoontorn, N",,Spring,2014
-IE 472,Operations Research II,16570,LCD,04:00 PM - 04:50 PM,MWF,"Ratisoontorn, N",,Spring,2014
-IE 472,Operations Research II,19538,LCD,04:00 PM - 04:50 PM,MWF,"Ratisoontorn, N",,Spring,2014
-IE 494,Special Topics in Industrial Engineering,33581,LCD,03:30 PM - 04:45 PM,TR,"Luciano, C",,Spring,2014
-IE 494,Special Topics in Industrial Engineering,33582,LCD,03:30 PM - 04:45 PM,TR,"Luciano, C",,Spring,2014
-IE 499,Professional Development Seminar,27062,LCD,ARRANGED,,"Manafzadeh, S",,Spring,2014
-IE 511,Mechatronics II,21798,LEC,06:30 PM - 07:45 PM,MW,"Cetinkunt, S",,Spring,2014
-IE 201,Financial Engineering,19819,LCD,01:00 PM - 03:55 PM,MTRF,"Darabi, H",,Summer,2014
-IE 342,Probability and Statistics for Engineers,17226,LCD,10:00 AM - 12:30 PM,TR,"He, D",,Summer,2014
-IE 201,Financial Engineering,12747,LCD,11:00 AM - 11:50 AM,MWF,"Banerjee, P",,Fall,2014
-IE 312,Dynamic Systems and Control,22491,LCD,09:30 AM - 10:45 AM,TR,"Berniker, M",,Fall,2014
-IE 342,Probability and Statistics for Engineers,12762,LCD,03:00 PM - 03:50 PM,MWF,"Li, L",,Fall,2014
-IE 365,Work Productivity Analysis,12769,LCD,04:00 PM - 04:50 PM,MWF,"Darabi, H",,Fall,2014
-IE 380,Manufacturing Process Principles,12770,LCD,03:00 PM - 03:50 PM,MWF,"Abiade, J",,Fall,2014
-IE 394,Senior Capstone Design,37911,LCD,ARRANGED,,"Brown, M",,Fall,2014
-IE 394,Senior Capstone Design,37427,LCD,12:15 PM - 01:55 PM,T,"Brown, M",,Fall,2014
-IE 396,Senior Design I,37915,LCD,10:00 AM - 10:50 AM,TR,"Brown, M",,Fall,2014
-IE 396,Senior Design I,12774,LCD,11:00 AM - 11:50 AM,TR,"Brown, M",,Fall,2014
-IE 411,Mechatronics I,32261,LEC,04:00 PM - 05:15 PM,MW,"Cetinkunt, S",,Fall,2014
-IE 411,Mechatronics I,32262,LEC,04:00 PM - 05:15 PM,MW,"Cetinkunt, S",,Fall,2014
-IE 441,Ergonomics and Human Factors,29570,LCD,09:00 AM - 09:50 AM,MWF,"Banerjee, P; Sheth, N",,Fall,2014
-IE 441,Ergonomics and Human Factors,29571,LCD,09:00 AM - 09:50 AM,MWF,"Banerjee, P; Sheth, N",,Fall,2014
-IE 442,Design and Analysis of Experiments in Engineering,34405,LCD,12:00 PM - 12:50 PM,MWF,"Li, L",,Fall,2014
-IE 444,Interdisciplinary Product Development I,28573,LCD,ARRANGED,,"Scott, M",,Fall,2014
-IE 444,Interdisciplinary Product Development I,28574,LCD,ARRANGED,,"Scott, M",,Fall,2014
-IE 461,Safety Engineering,12782,LCD,05:00 PM - 06:15 PM,TR,"Cali, S",,Fall,2014
-IE 461,Safety Engineering,20377,LCD,05:00 PM - 06:15 PM,TR,"Cali, S",,Fall,2014
-IE 464,Virtual Automation,12784,LCD,02:00 PM - 02:50 PM,MWF,"Banerjee, P",,Fall,2014
-IE 464,Virtual Automation,20375,LCD,02:00 PM - 02:50 PM,MWF,"Banerjee, P",,Fall,2014
-IE 467,Discrete Event Computer Simulation Application,12785,LCD,09:30 AM - 10:45 AM,TR,"He, D",,Fall,2014
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,09:30 AM - 10:45 AM,TR,"He, D",,Fall,2014
-IE 471,Operations Research I,12787,LCD,01:00 PM - 01:50 PM,MWF,"Darabi, H",,Fall,2014
-IE 471,Operations Research I,20379,LCD,01:00 PM - 01:50 PM,MWF,"Darabi, H",,Fall,2014
-IE 473,Stochastic Processes and Queuing Models,38116,LCD,ARRANGED,,,,Fall,2014
-IE 473,Stochastic Processes and Queuing Models,38117,LCD,ARRANGED,,,,Fall,2014
-IE 473,Stochastic Processes and Queuing Models,35388,LCD,11:00 AM - 11:50 AM,MWF,"Darabi, H; Ebrahimi, S",,Fall,2014
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,11:00 AM - 11:50 AM,MWF,"Darabi, H; Ebrahimi, S",,Fall,2014
-IE 499,Professional Development Seminar,27839,LCD,ARRANGED,,"Manafzadeh, S",,Fall,2014
-IE 567,Data Mining for Machine Health Diagnosis and Prognosis,32062,LCD,12:30 PM - 01:45 PM,TR,"He, D",,Fall,2014
-IE 594,Current Topics in Industrial Engineering,37436,LCD,03:00 PM - 04:15 PM,WF,"Diwekar, U",,Fall,2014
-IE 594,Current Topics in Industrial Engineering,33082,LCD,05:00 PM - 07:30 PM,R,"Pan, Y",,Fall,2014
-IE 201,Financial Engineering,16559,LCD,11:00 AM - 11:50 AM,MWF,"Banerjee, P",,Spring,2015
-IE 312,Dynamic Systems and Control,35720,LCD,01:00 PM - 01:50 PM,MWF,"Shabana, A",,Spring,2015
-IE 342,Probability and Statistics for Engineers,29781,LCD,01:00 PM - 01:50 PM,MWF,"He, D",,Spring,2015
-IE 345,Regression Applications and Forecasting in Engineering,23213,LCD,10:00 AM - 10:50 AM,MWF,"Pan, Y",,Spring,2015
-IE 380,Manufacturing Process Principles,16571,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",,Spring,2015
-IE 396,Senior Design I,37732,LCD,ARRANGED,,"Brown, M",,Spring,2015
-IE 396,Senior Design I,16572,LCD,03:30 PM - 04:30 PM,TR,"Brown, M",,Spring,2015
-IE 397,Senior Design Il,37340,LCD,ARRANGED,,"Brown, M",,Spring,2015
-IE 397,Senior Design Il,36816,LCD,12:30 PM - 01:20 PM,TR,"Brown, M",,Spring,2015
-IE 412,Dynamic Systems Analysis I,31906,LCD,04:00 PM - 05:15 PM,MW,"Cetinkunt, S",,Spring,2015
-IE 412,Dynamic Systems Analysis I,31907,LCD,04:00 PM - 05:15 PM,MW,"Cetinkunt, S",,Spring,2015
-IE 445,Interdisciplinary Product Development 2,31905,LCD,ARRANGED,,"Scott, M",,Spring,2015
-IE 446,Quality Control and Reliability,16566,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Spring,2015
-IE 446,Quality Control and Reliability,19267,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Spring,2015
-IE 463,Plant Layout and Materials Handling,16568,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Spring,2015
-IE 463,Plant Layout and Materials Handling,19269,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Spring,2015
-IE 466,Production Planning and Inventory Control,16569,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2015
-IE 466,Production Planning and Inventory Control,19270,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2015
-IE 466,Production Planning and Inventory Control,37765,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",,Spring,2015
-IE 466,Production Planning and Inventory Control,37766,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",,Spring,2015
-IE 472,Operations Research II,16570,LCD,04:00 PM - 04:50 PM,MWF,"Van Hecke, B",,Spring,2015
-IE 472,Operations Research II,19538,LCD,04:00 PM - 04:50 PM,MWF,"Van Hecke, B",,Spring,2015
-IE 499,Professional Development Seminar,27062,LCD,ARRANGED,,"Manafzadeh, S",,Spring,2015
-IE 511,Mechatronics II,21798,LEC,05:30 PM - 06:45 PM,MW,"Cetinkunt, S",,Spring,2015
-IE 594,Current Topics in Industrial Engineering,32489,LCD,02:00 PM - 03:15 PM,TR,"Darabi, H",,Spring,2015
-IE 342,Probability and Statistics for Engineers,17226,LCD,10:00 AM - 12:30 PM,TR,"He, D",,Summer,2015
-IE 201,Financial Engineering,12747,LCD,11:00 AM - 11:50 AM,MWF,"Darabi, H",,Fall,2015
-IE 312,Dynamic Systems and Control,22491,LCD,03:00 PM - 03:50 PM,MWF,"Berniker, M",,Fall,2015
-IE 342,Probability and Statistics for Engineers,12762,LCD,03:00 PM - 03:50 PM,MWF,"Williams, Q",,Fall,2015
-IE 365,Work Productivity Analysis,12769,LCD,04:00 PM - 05:15 PM,MW,"Darabi, H",,Fall,2015
-IE 380,Manufacturing Process Principles,12770,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",,Fall,2015
-IE 396,Senior Design I,12774,LCD,12:30 PM - 01:20 PM,TR,"Brown, M",,Fall,2015
-IE 396,Senior Design I,37915,LCD,05:30 PM - 06:20 PM,MW,"Komperda, J",,Fall,2015
-IE 397,Senior Design Il,38149,LCD,ARRANGED,,"Brown, M",,Fall,2015
-IE 397,Senior Design Il,38148,LCD,09:30 AM - 10:20 AM,TR,"Brown, M",,Fall,2015
-IE 411,Mechatronics I,32261,LEC,04:00 PM - 05:15 PM,MW,"Cetinkunt, S",,Fall,2015
-IE 411,Mechatronics I,32262,LEC,04:00 PM - 05:15 PM,MW,"Cetinkunt, S",,Fall,2015
-IE 411,Mechatronics I,39094,LEC,07:00 PM - 08:15 PM,MW,"Cetinkunt, S",,Fall,2015
-IE 411,Mechatronics I,39095,LEC,07:00 PM - 08:15 PM,MW,"Cetinkunt, S",,Fall,2015
-IE 441,Ergonomics and Human Factors,29570,LCD,09:00 AM - 09:50 AM,MWF,"Williams, Q",,Fall,2015
-IE 441,Ergonomics and Human Factors,29571,LCD,09:00 AM - 09:50 AM,MWF,"Williams, Q",,Fall,2015
-IE 441,Ergonomics and Human Factors,39063,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",,Fall,2015
-IE 441,Ergonomics and Human Factors,39064,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",,Fall,2015
-IE 442,Design and Analysis of Experiments in Engineering,34405,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",,Fall,2015
-IE 442,Design and Analysis of Experiments in Engineering,39120,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Fall,2015
-IE 444,Interdisciplinary Product Development I,28573,LCD,ARRANGED,,"Scott, M",,Fall,2015
-IE 444,Interdisciplinary Product Development I,28574,LCD,ARRANGED,,"Scott, M",,Fall,2015
-IE 444,Interdisciplinary Product Development I,39048,LCD,ARRANGED,,"Scott, M",,Fall,2015
-IE 444,Interdisciplinary Product Development I,39049,LCD,ARRANGED,,"Scott, M",,Fall,2015
-IE 461,Safety Engineering,12782,LCD,05:45 PM - 07:00 PM,TR,"Cali, S",,Fall,2015
-IE 461,Safety Engineering,20377,LCD,05:45 PM - 07:00 PM,TR,"Cali, S",,Fall,2015
-IE 467,Discrete Event Computer Simulation Application,12785,LCD,02:00 PM - 02:50 PM,MWF,"Pan, Y",,Fall,2015
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,02:00 PM - 02:50 PM,MWF,"Pan, Y",,Fall,2015
-IE 471,Operations Research I,12787,LCD,10:00 AM - 10:50 AM,MWF,"Banerjee, P",,Fall,2015
-IE 471,Operations Research I,20379,LCD,10:00 AM - 10:50 AM,MWF,"Banerjee, P",,Fall,2015
-IE 471,Operations Research I,39077,LCD,10:00 AM - 10:50 AM,MWF,"Banerjee, P",,Fall,2015
-IE 471,Operations Research I,39078,LCD,10:00 AM - 10:50 AM,MWF,"Banerjee, P",,Fall,2015
-IE 473,Stochastic Processes and Queuing Models,35388,LCD,02:00 PM - 03:15 PM,TR,"He, D",,Fall,2015
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,02:00 PM - 03:15 PM,TR,"He, D",,Fall,2015
-IE 494,Special Topics in Industrial Engineering,39098,LCD,ARRANGED,,"Komperda, J",,Fall,2015
-IE 499,Professional Development Seminar,27839,LCD,ARRANGED,,"Manafzadeh, S",,Fall,2015
-IE 594,Current Topics in Industrial Engineering,33082,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Fall,2015
-IE 594,Current Topics in Industrial Engineering,38914,LCD,03:30 PM - 04:45 PM,TR,"Hu, M",,Fall,2015
-IE 594,Current Topics in Industrial Engineering,39126,LCD,03:30 PM - 04:45 PM,TR,"Li, L",,Fall,2015
-IE 594,Current Topics in Industrial Engineering,37436,LCD,05:00 PM - 07:30 PM,M,"Banerjee, P",,Fall,2015
-IE 201,Financial Engineering,16559,LCD,11:00 AM - 11:50 AM,MWF,"Darabi, H",,Spring,2016
-IE 201,Financial Engineering,38135,LCD,02:00 PM - 02:50 PM,MWF,,,Spring,2016
-IE 312,Dynamic Systems and Control,35720,LCD,04:00 PM - 04:50 PM,MWF,"Berniker, M",,Spring,2016
-IE 342,Probability and Statistics for Engineers,29781,LCD,01:00 PM - 01:50 PM,MWF,"He, D",,Spring,2016
-IE 345,Regression Applications and Forecasting in Engineering,23213,LCD,10:00 AM - 10:50 AM,MWF,"Hu, M",,Spring,2016
-IE 380,Manufacturing Process Principles,16571,LCD,09:00 AM - 09:50 AM,MWF,"Shahbazian-Yassar, R",,Spring,2016
-IE 397,Senior Design Il,36816,LCD,ARRANGED,,,,Spring,2016
-IE 397,Senior Design Il,37340,LCD,ARRANGED,,"Brown, M",,Spring,2016
-IE 397,Senior Design Il,38074,LCD,ARRANGED,,"Brown, M",,Spring,2016
-IE 397,Senior Design Il,38598,LCD,ARRANGED,,"Komperda, J",,Spring,2016
-IE 412,Dynamic Systems Analysis I,31906,LCD,04:00 PM - 05:15 PM,MW,"Cetinkunt, S",,Spring,2016
-IE 412,Dynamic Systems Analysis I,31907,LCD,04:00 PM - 05:15 PM,MW,"Cetinkunt, S",,Spring,2016
-IE 445,Interdisciplinary Product Development 2,31905,LCD,ARRANGED,,"Scott, M",,Spring,2016
-IE 445,Interdisciplinary Product Development 2,38686,LCD,ARRANGED,,"Scott, M",,Spring,2016
-IE 446,Quality Control and Reliability,16566,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Spring,2016
-IE 446,Quality Control and Reliability,19267,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Spring,2016
-IE 446,Quality Control and Reliability,38818,LCD,12:30 PM - 01:45 PM,TR,"Li, L",,Spring,2016
-IE 446,Quality Control and Reliability,38820,LCD,12:30 PM - 01:45 PM,TR,"Li, L",,Spring,2016
-IE 463,Plant Layout and Materials Handling,16568,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Spring,2016
-IE 463,Plant Layout and Materials Handling,19269,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Spring,2016
-IE 466,Production Planning and Inventory Control,37765,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2016
-IE 466,Production Planning and Inventory Control,37766,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2016
-IE 472,Operations Research II,16570,LCD,03:00 PM - 03:50 PM,MWF,"Williams, Q",,Spring,2016
-IE 472,Operations Research II,19538,LCD,03:00 PM - 03:50 PM,MWF,"Williams, Q",,Spring,2016
-IE 494,Special Topics in Industrial Engineering,31472,LCD,ARRANGED,,"Komperda, J",,Spring,2016
-IE 494,Special Topics in Industrial Engineering,31909,LCD,ARRANGED,,"Komperda, J",,Spring,2016
-IE 499,Professional Development Seminar,38367,LCD,12:00 PM - 12:50 PM,F,"Darabi, H",,Spring,2016
-IE 499,Professional Development Seminar,38365,LCD,01:00 PM - 01:50 PM,M,"Darabi, H",,Spring,2016
-IE 499,Professional Development Seminar,38366,LCD,03:00 PM - 03:50 PM,W,"Darabi, H",,Spring,2016
-IE 511,Mechatronics II,21798,LEC,05:30 PM - 06:45 PM,MW,"Cetinkunt, S",,Spring,2016
-IE 567,Data Mining for Machine Health Diagnosis and Prognosis,33583,LCD,04:00 PM - 04:50 PM,MWF,"He, D",,Spring,2016
-IE 594,Current Topics in Industrial Engineering,34907,LCD,03:30 PM - 04:45 PM,TR,"Banerjee, P",,Spring,2016
-IE 594,Current Topics in Industrial Engineering,32489,LCD,06:00 PM - 08:30 PM,R,"Pan, Y",,Spring,2016
-IE 201,Financial Engineering,19819,LCD,01:00 PM - 03:55 PM,MTRF,"Darabi, H",,Summer,2016
-IE 342,Probability and Statistics for Engineers,17226,LCD,10:00 AM - 12:30 PM,TR,"He, D",,Summer,2016
-IE 201,Financial Engineering,12747,LCD,11:00 AM - 11:50 AM,MWF,"Banerjee, P",,Fall,2016
-IE 312,Dynamic Systems and Control,22491,LCD,03:00 PM - 03:50 PM,MWF,"Berniker, M",,Fall,2016
-IE 342,Probability and Statistics for Engineers,12762,LCD,03:00 PM - 03:50 PM,MWF,"Manafzadeh, S",,Fall,2016
-IE 365,Work Productivity Analysis,12769,LCD,04:00 PM - 04:50 PM,MWF,"Williams, Q",,Fall,2016
-IE 380,Manufacturing Process Principles,12770,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",,Fall,2016
-IE 396,Senior Design I,12774,LCD,09:30 AM - 10:20 AM,TR,"Brown, M",,Fall,2016
-IE 396,Senior Design I,37915,LCD,12:00 PM - 12:50 PM,MW,"Komperda, J",,Fall,2016
-IE 396,Senior Design I,40061,LCD,03:00 PM - 03:50 PM,MW,"Brown, M",,Fall,2016
-IE 411,Mechatronics I,32261,LEC,04:00 PM - 04:50 PM,MW,"Cetinkunt, S",,Fall,2016
-IE 411,Mechatronics I,32262,LEC,04:00 PM - 04:50 PM,MW,"Cetinkunt, S",,Fall,2016
-IE 412,Dynamic Systems Analysis I,39455,LCD,05:00 PM - 06:15 PM,MW,"Cetinkunt, S",,Fall,2016
-IE 412,Dynamic Systems Analysis I,39456,LCD,05:00 PM - 06:15 PM,MW,"Cetinkunt, S",,Fall,2016
-IE 441,Ergonomics and Human Factors,29570,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",,Fall,2016
-IE 441,Ergonomics and Human Factors,29571,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",,Fall,2016
-IE 442,Design and Analysis of Experiments in Engineering,34405,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",,Fall,2016
-IE 442,Design and Analysis of Experiments in Engineering,40274,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",,Fall,2016
-IE 444,Interdisciplinary Product Development I,28573,LCD,ARRANGED,,"Scott, M",,Fall,2016
-IE 444,Interdisciplinary Product Development I,28574,LCD,ARRANGED,,"Scott, M",,Fall,2016
-IE 461,Safety Engineering,12782,LCD,05:00 PM - 06:15 PM,TR,"Cali, S",,Fall,2016
-IE 461,Safety Engineering,20377,LCD,05:00 PM - 06:15 PM,TR,"Cali, S",,Fall,2016
-IE 467,Discrete Event Computer Simulation Application,12785,LCD,12:30 PM - 01:45 PM,TR,"Pan, Y",,Fall,2016
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,12:30 PM - 01:45 PM,TR,"Pan, Y",,Fall,2016
-IE 471,Operations Research I,12787,LCD,01:00 PM - 01:50 PM,MWF,"Banerjee, P",,Fall,2016
-IE 471,Operations Research I,20379,LCD,01:00 PM - 01:50 PM,MWF,"Banerjee, P",,Fall,2016
-IE 473,Stochastic Processes and Queuing Models,35388,LCD,02:00 PM - 02:50 PM,MWF,"Scott, M",,Fall,2016
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,02:00 PM - 02:50 PM,MWF,"Scott, M",,Fall,2016
-IE 494,Special Topics in Industrial Engineering,39098,LCD,02:00 PM - 02:50 PM,MWF,"Komperda, J",,Fall,2016
-IE 494,Special Topics in Industrial Engineering,39522,LCD,04:00 PM - 04:50 PM,MWF,"Darabi, H",,Fall,2016
-IE 494,Special Topics in Industrial Engineering,39523,LCD,04:00 PM - 04:50 PM,MWF,"Darabi, H",,Fall,2016
-IE 499,Professional Development Seminar,27839,LCD,05:00 PM - 05:50 PM,W,"Darabi, H",,Fall,2016
-IE 594,Current Topics in Industrial Engineering,38914,LCD,09:30 AM - 10:45 AM,TR,"Hu, M",,Fall,2016
-IE 594,Current Topics in Industrial Engineering,33082,LCD,02:00 PM - 03:15 PM,TR,"Li, L",,Fall,2016
-IE 594,Current Topics in Industrial Engineering,37436,LCD,03:30 PM - 04:45 PM,TR,"Darabi, H",,Fall,2016
-IE 594,Current Topics in Industrial Engineering,40498,LCD,05:00 PM - 07:45 PM,M,"Sharabiani, A",,Fall,2016
-IE 594,Current Topics in Industrial Engineering,40659,LCD,05:00 PM - 07:45 PM,W,"Sharabiani, A",,Fall,2016
-IE 201,Financial Engineering,16559,LCD,11:00 AM - 11:50 AM,MWF,"Darabi, H",,Spring,2017
-IE 312,Dynamic Systems and Control,35720,LCD,05:00 PM - 06:15 PM,TR,"Shabana, A",,Spring,2017
-IE 342,Probability and Statistics for Engineers,29781,LCD,01:00 PM - 01:50 PM,MWF,"He, D",,Spring,2017
-IE 345,Regression Applications and Forecasting in Engineering,23213,LCD,10:00 AM - 10:50 AM,MWF,"Hu, M",,Spring,2017
-IE 380,Manufacturing Process Principles,16571,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",,Spring,2017
-IE 397,Senior Design Il,37340,LCD,ARRANGED,,"Brown, M",,Spring,2017
-IE 397,Senior Design Il,38074,LCD,ARRANGED,,"Brown, M",,Spring,2017
-IE 397,Senior Design Il,36816,LCD,ARRANGED,,"Komperda, J",,Spring,2017
-IE 397,Senior Design Il,38598,LCD,ARRANGED,,"Komperda, J",,Spring,2017
-IE 442,Design and Analysis of Experiments in Engineering,39404,LCD,09:00 AM - 09:50 AM,MWF,"Williams, Q",,Spring,2017
-IE 445,Interdisciplinary Product Development 2,31905,LCD,ARRANGED,,"Scott, M",,Spring,2017
-IE 446,Quality Control and Reliability,16566,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Spring,2017
-IE 446,Quality Control and Reliability,19267,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Spring,2017
-IE 463,Plant Layout and Materials Handling,16568,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Spring,2017
-IE 463,Plant Layout and Materials Handling,19269,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Spring,2017
-IE 466,Production Planning and Inventory Control,37765,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2017
-IE 466,Production Planning and Inventory Control,37766,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2017
-IE 472,Operations Research II,16570,LCD,03:00 PM - 03:50 PM,MWF,"Williams, Q",,Spring,2017
-IE 472,Operations Research II,19538,LCD,03:00 PM - 03:50 PM,MWF,"Williams, Q",,Spring,2017
-IE 494,Special Topics in Industrial Engineering,31472,LCD,ARRANGED,,"Komperda, J",,Spring,2017
-IE 494,Special Topics in Industrial Engineering,31909,LCD,ARRANGED,,"Komperda, J",,Spring,2017
-IE 499,Professional Development Seminar,38366,LCD,05:00 PM - 05:50 PM,W,"Darabi, H",,Spring,2017
-IE 511,Mechatronics II,21798,LEC,04:00 PM - 04:50 PM,MW,"Cetinkunt, S",,Spring,2017
-IE 567,Data Mining for Machine Health Diagnosis and Prognosis,33583,LCD,04:00 PM - 06:30 PM,W,"He, D",,Spring,2017
-IE 594,Current Topics in Industrial Engineering,39825,LCD,09:00 AM - 10:15 AM,WF,"Diwekar, U",,Spring,2017
-IE 594,Current Topics in Industrial Engineering,34907,LCD,03:30 PM - 04:45 PM,TR,"Banerjee, P",,Spring,2017
-IE 594,Current Topics in Industrial Engineering,32489,LCD,05:00 PM - 07:30 PM,R,"Pan, Y",,Spring,2017
-IE 594,Current Topics in Industrial Engineering,39728,LCD,05:00 PM - 07:45 PM,M,"Sharabiani, A",,Spring,2017
-IE 342,Probability and Statistics for Engineers,17226,LCD,10:00 AM - 12:30 PM,MW,"Manafzadeh, S",,Summer,2017
-IE 201,Financial Engineering,12747,LCD,11:00 AM - 11:50 AM,MWF,"Banerjee, P",,Fall,2017
-IE 312,Dynamic Systems and Control,22491,LCD,03:00 PM - 03:50 PM,MWF,"Berniker, M",,Fall,2017
-IE 342,Probability and Statistics for Engineers,12762,LCD,03:00 PM - 03:50 PM,MWF,"He, D",,Fall,2017
-IE 365,Work Productivity Analysis,12769,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",,Fall,2017
-IE 380,Manufacturing Process Principles,12770,LCD,09:00 AM - 09:50 AM,MWF,"Subramanian, A",,Fall,2017
-IE 396,Senior Design I,41221,LCD,03:30 PM - 04:20 PM,TR,"Brown, M",,Fall,2017
-IE 396,Senior Design I,12774,LCD,09:30 AM - 10:20 AM,TR,"Brown, M",,Fall,2017
-IE 396,Senior Design I,37915,LCD,12:00 PM - 12:50 PM,MW,"Komperda, J",,Fall,2017
-IE 396,Senior Design I,40061,LCD,10:00 AM - 10:50 AM,MW,"Komperda, J",,Fall,2017
-IE 411,Mechatronics I,32261,LEC,04:00 PM - 04:50 PM,MW,"Cetinkunt, S",,Fall,2017
-IE 411,Mechatronics I,32262,LEC,04:00 PM - 04:50 PM,MW,"Cetinkunt, S",,Fall,2017
-IE 412,Dynamic Systems Analysis I,39455,LCD,05:00 PM - 06:15 PM,MW,"Cetinkunt, S",,Fall,2017
-IE 412,Dynamic Systems Analysis I,39456,LCD,05:00 PM - 06:15 PM,MW,"Cetinkunt, S",,Fall,2017
-IE 441,Ergonomics and Human Factors,29570,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",,Fall,2017
-IE 441,Ergonomics and Human Factors,29571,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",,Fall,2017
-IE 442,Design and Analysis of Experiments in Engineering,34405,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Fall,2017
-IE 442,Design and Analysis of Experiments in Engineering,40274,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Fall,2017
-IE 444,Interdisciplinary Product Development I,28573,LCD,ARRANGED,,"Scott, M",,Fall,2017
-IE 444,Interdisciplinary Product Development I,28574,LCD,ARRANGED,,"Scott, M",,Fall,2017
-IE 461,Safety Engineering,12782,LCD,05:00 PM - 06:15 PM,TR,"Cali, S",,Fall,2017
-IE 461,Safety Engineering,20377,LCD,05:00 PM - 06:15 PM,TR,"Cali, S",,Fall,2017
-IE 467,Discrete Event Computer Simulation Application,12785,LCD,12:30 PM - 01:45 PM,TR,"Williams, Q",,Fall,2017
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,12:30 PM - 01:45 PM,TR,"Williams, Q",,Fall,2017
-IE 471,Operations Research I,12787,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",,Fall,2017
-IE 471,Operations Research I,20379,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",,Fall,2017
-IE 473,Stochastic Processes and Queuing Models,35388,LCD,02:00 PM - 03:15 PM,TR,"Darabi, H",,Fall,2017
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,02:00 PM - 03:15 PM,TR,"Darabi, H",,Fall,2017
-IE 494,Special Topics in Industrial Engineering,39098,LCD,02:00 PM - 02:50 PM,MWF,"Komperda, J",,Fall,2017
-IE 496,Undergraduate Senior Design Thesis I,41955,LCD,ARRANGED,,,,Fall,2017
-IE 499,Professional Development Seminar,27839,LCD,05:00 PM - 05:50 PM,W,"Darabi, H",,Fall,2017
-IE 594,Current Topics in Industrial Engineering,33082,LCD,04:00 PM - 06:45 PM,F,"Sharabiani, A",,Fall,2017
-IE 594,Current Topics in Industrial Engineering,37436,LCD,05:00 PM - 07:45 PM,M,"Banerjee, P",,Fall,2017
-IE 594,Current Topics in Industrial Engineering,40498,LCD,05:00 PM - 07:45 PM,W,"He, D",,Fall,2017
-IE 594,Current Topics in Industrial Engineering,38914,LCD,05:00 PM - 07:45 PM,T,"Sharabiani, A",,Fall,2017
-IE 201,Financial Engineering,16559,LCD,11:00 AM - 11:50 AM,MWF,"Darabi, H",,Spring,2018
-IE 312,Dynamic Systems and Control,35720,LCD,01:00 PM - 01:50 PM,MWF,"Berniker, M",,Spring,2018
-IE 342,Probability and Statistics for Engineers,29781,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Spring,2018
-IE 345,Regression Applications and Forecasting in Engineering,41316,LCD,08:00 AM - 09:15 AM,TR,"He, D",,Spring,2018
-IE 345,Regression Applications and Forecasting in Engineering,23213,LCD,10:00 AM - 10:50 AM,MWF,,,Spring,2018
-IE 380,Manufacturing Process Principles,16571,LCD,08:00 AM - 08:50 AM,MWF,"Abiade, J",,Spring,2018
-IE 397,Senior Design Il,37340,LCD,ARRANGED,,"Brown, M; Komperda, J",,Spring,2018
-IE 397,Senior Design Il,38074,LCD,ARRANGED,,"Brown, M; Komperda, J",,Spring,2018
-IE 397,Senior Design Il,36816,LCD,ARRANGED,,"Komperda, J",,Spring,2018
-IE 397,Senior Design Il,38598,LCD,ARRANGED,,"Komperda, J",,Spring,2018
-IE 442,Design and Analysis of Experiments in Engineering,39404,LCD,12:30 PM - 01:45 PM,TR,"Li, L; Scott, S",,Spring,2018
-IE 442,Design and Analysis of Experiments in Engineering,41284,LCD,12:30 PM - 01:45 PM,TR,"Li, L",,Spring,2018
-IE 445,Interdisciplinary Product Development 2,31905,LCD,ARRANGED,,"Scott, M",,Spring,2018
-IE 446,Quality Control and Reliability,16566,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Spring,2018
-IE 446,Quality Control and Reliability,19267,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Spring,2018
-IE 463,Plant Layout and Materials Handling,16568,LCD,04:00 PM - 04:50 PM,MWF,"Williams, Q",,Spring,2018
-IE 463,Plant Layout and Materials Handling,19269,LCD,04:00 PM - 04:50 PM,MWF,"Williams, Q",,Spring,2018
-IE 466,Production Planning and Inventory Control,37765,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2018
-IE 466,Production Planning and Inventory Control,37766,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2018
-IE 472,Operations Research II,16570,LCD,03:00 PM - 03:50 PM,MWF,"Banerjee, P",,Spring,2018
-IE 472,Operations Research II,19538,LCD,03:00 PM - 03:50 PM,MWF,"Banerjee, P",,Spring,2018
-IE 497,Undergraduate Senior Design Thesis II,40409,LCD,ARRANGED,,"Komperda, J",,Spring,2018
-IE 499,Professional Development Seminar,27062,LCD,05:00 PM - 05:50 PM,W,"Darabi, H",,Spring,2018
-IE 499,Professional Development Seminar,38366,LCD,05:00 PM - 05:50 PM,W,"Darabi, H",,Spring,2018
-IE 511,Mechatronics II,21798,LEC,04:00 PM - 04:50 PM,MW,"Cetin, S",,Spring,2018
-IE 594,Current Topics in Industrial Engineering,32489,LCD,04:30 PM - 07:00 PM,R,"Pan, Y",,Spring,2018
-IE 594,Current Topics in Industrial Engineering,39727,LCD,05:00 PM - 07:30 PM,M,"Hu, M",,Spring,2018
-IE 594,Current Topics in Industrial Engineering,39728,LCD,05:00 PM - 07:45 PM,W,"Sharabiani, A",,Spring,2018
-IE 201,Financial Engineering,12747,LCD,12:00 PM - 12:50 PM,MWF,"Hu, M",,Fall,2018
-IE 312,Dynamic Systems and Control,22491,LCD,04:00 PM - 04:50 PM,MWF,"Kim, M",,Fall,2018
-IE 342,Probability and Statistics for Engineers,12762,LCD,03:00 PM - 03:50 PM,MWF,"Reckinger, S",,Fall,2018
-IE 345,Regression Applications and Forecasting in Engineering,42035,LCD,02:00 PM - 03:15 PM,TR,"He, D",,Fall,2018
-IE 365,Work Productivity Analysis,12769,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",,Fall,2018
-IE 380,Manufacturing Process Principles,12770,LCD,08:00 AM - 08:50 AM,MWF,"Subramanian, A",,Fall,2018
-IE 396,Senior Design I,41221,LCD,03:30 PM - 04:20 PM,TR,"Brown, M; Scott, S",,Fall,2018
-IE 396,Senior Design I,12774,LCD,09:30 AM - 10:20 AM,TR,"Brown, M; Scott, S",,Fall,2018
-IE 396,Senior Design I,37915,LCD,02:00 PM - 02:50 PM,MW,"Komperda, J; Scott, S",,Fall,2018
-IE 396,Senior Design I,40061,LCD,10:00 AM - 10:50 AM,MW,"Komperda, J; Scott, S",,Fall,2018
-IE 411,Mechatronics I,32261,LEC,04:00 PM - 04:50 PM,MW,"Cetin, S",,Fall,2018
-IE 411,Mechatronics I,32262,LEC,04:00 PM - 04:50 PM,MW,"Cetin, S",,Fall,2018
-IE 412,Dynamic Systems Analysis I,39455,LCD,05:00 PM - 06:15 PM,MW,"Berniker, M",,Fall,2018
-IE 412,Dynamic Systems Analysis I,39456,LCD,05:00 PM - 06:15 PM,MW,"Berniker, M",,Fall,2018
-IE 441,Ergonomics and Human Factors,29570,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",,Fall,2018
-IE 441,Ergonomics and Human Factors,29571,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",,Fall,2018
-IE 444,Interdisciplinary Product Development I,28573,LCD,ARRANGED,M,"Scott, M",,Fall,2018
-IE 444,Interdisciplinary Product Development I,28574,LCD,ARRANGED,M,"Scott, M",,Fall,2018
-IE 444,Interdisciplinary Product Development I,39048,LCD,ARRANGED,R,"Scott, M",,Fall,2018
-IE 444,Interdisciplinary Product Development I,39049,LCD,ARRANGED,R,"Scott, M",,Fall,2018
-IE 461,Safety Engineering,12782,LCD,04:00 PM - 05:15 PM,WF,"Williams, Q",,Fall,2018
-IE 461,Safety Engineering,20377,LCD,04:00 PM - 05:15 PM,WF,"Williams, Q",,Fall,2018
-IE 467,Discrete Event Computer Simulation Application,12785,LCD,12:00 PM - 12:50 PM,MWF,"Pan, Y",,Fall,2018
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,12:00 PM - 12:50 PM,MWF,"Pan, Y",,Fall,2018
-IE 471,Operations Research I,12787,LCD,03:00 PM - 03:50 PM,MWF,"Williams, Q",,Fall,2018
-IE 471,Operations Research I,20379,LCD,03:00 PM - 03:50 PM,MWF,"Williams, Q",,Fall,2018
-IE 473,Stochastic Processes and Queuing Models,35388,LCD,12:30 PM - 01:45 PM,TR,"Darabi, H",,Fall,2018
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,12:30 PM - 01:45 PM,TR,"Darabi, H",,Fall,2018
-IE 496,Undergraduate Senior Design Thesis I,41955,LCD,11:00 AM - 11:50 AM,MWF,"Komperda, J",,Fall,2018
-IE 499,Professional Development Seminar,27839,LCD,05:00 PM - 05:50 PM,W,"Darabi, H",,Fall,2018
-IE 594,Current Topics in Industrial Engineering,40659,LCD,12:30 PM - 01:45 PM,TR,"Diwekar, U",,Fall,2018
-IE 594,Current Topics in Industrial Engineering,39126,LCD,02:00 PM - 03:15 PM,TR,"Li, L",,Fall,2018
-IE 594,Current Topics in Industrial Engineering,40498,LCD,05:00 PM - 07:45 PM,W,"He, D",,Fall,2018
-IE 594,Current Topics in Industrial Engineering,38914,LCD,05:00 PM - 07:45 PM,M,"Sharabiani, A",,Fall,2018
-IE 201,Financial Engineering,16559,LCD,12:00 PM - 12:50 PM,MWF,"Darabi, H",,Spring,2019
-IE 312,Dynamic Systems and Control,21976,LCD,10:00 AM - 10:50 AM,MWF,"Reckinger, S",,Spring,2019
-IE 312,Dynamic Systems and Control,35720,LCD,04:00 PM - 04:50 PM,MWF,"Kim, M",,Spring,2019
-IE 342,Probability and Statistics for Engineers,29781,LCD,03:00 PM - 03:50 PM,MWF,"Reckinger, S",,Spring,2019
-IE 380,Manufacturing Process Principles,16571,LCD,08:00 AM - 08:50 AM,MWF,"Abiade, J",,Spring,2019
-IE 397,Senior Design Il,37340,LCD,ARRANGED,,"Brown, M",,Spring,2019
-IE 397,Senior Design Il,38074,LCD,ARRANGED,,"Brown, M",,Spring,2019
-IE 397,Senior Design Il,36816,LCD,ARRANGED,,"Komperda, J",,Spring,2019
-IE 397,Senior Design Il,38598,LCD,ARRANGED,,"Komperda, J",,Spring,2019
-IE 442,Design and Analysis of Experiments in Engineering,39404,LCD,12:30 PM - 01:45 PM,TR,"Pan, Y",,Spring,2019
-IE 442,Design and Analysis of Experiments in Engineering,41284,LCD,12:30 PM - 01:45 PM,TR,"Pan, Y",,Spring,2019
-IE 445,Interdisciplinary Product Development 2,31905,LCD,ARRANGED,,"Scott, M",,Spring,2019
-IE 446,Quality Control and Reliability,16566,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",,Spring,2019
-IE 446,Quality Control and Reliability,19267,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",,Spring,2019
-IE 463,Plant Layout and Materials Handling,16568,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2019
-IE 463,Plant Layout and Materials Handling,19269,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",,Spring,2019
-IE 466,Production Planning and Inventory Control,37765,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",,Spring,2019
-IE 466,Production Planning and Inventory Control,37766,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",,Spring,2019
-IE 472,Operations Research II,16570,LCD,03:00 PM - 03:50 PM,MWF,"Hu, M",,Spring,2019
-IE 472,Operations Research II,19538,LCD,03:00 PM - 03:50 PM,MWF,"Hu, M",,Spring,2019
-IE 497,Undergraduate Senior Design Thesis II,40409,LCD,ARRANGED,,"Komperda, J",,Spring,2019
-IE 499,Professional Development Seminar,38366,LCD,05:00 PM - 05:50 PM,W,"Darabi, H",,Spring,2019
-IE 511,Mechatronics II,21798,LEC,04:00 PM - 04:50 PM,MW,"Cetin, S",,Spring,2019
-IE 594,Current Topics in Industrial Engineering,39727,LCD,09:30 AM - 10:45 AM,TR,"Hu, M",,Spring,2019
-IE 594,Current Topics in Industrial Engineering,32489,LCD,02:00 PM - 04:30 PM,R,"Pan, Y",,Spring,2019
-IE 594,Current Topics in Industrial Engineering,39728,LCD,05:00 PM - 07:45 PM,M,"Sharabiani, A",,Spring,2019
-IE 342,Probability and Statistics for Engineers,17226,LCD,10:00 AM - 12:30 PM,MW,"Manafzadeh, S",,Summer,2019
-IE 201,Financial Engineering,12747,LCD,12:00 PM - 12:50 PM,MWF,"Hu, M",,Fall,2019
-IE 312,Dynamic Systems and Control,43502,LCD,10:00 AM - 10:50 AM,MWF,"Reckinger, S",,Fall,2019
-IE 312,Dynamic Systems and Control,22491,LCD,04:00 PM - 04:50 PM,MWF,"Berniker, M",,Fall,2019
-IE 342,Probability and Statistics for Engineers,43531,LCD,09:30 AM - 10:45 AM,TR,"He, D",,Fall,2019
-IE 342,Probability and Statistics for Engineers,12762,LCD,03:00 PM - 03:50 PM,MWF,"Reckinger, S",,Fall,2019
-IE 345,Regression Applications and Forecasting in Engineering,42035,LCD,02:00 PM - 03:15 PM,TR,"He, D",,Fall,2019
-IE 365,Work Productivity Analysis,12769,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",,Fall,2019
-IE 380,Manufacturing Process Principles,12770,LCD,08:00 AM - 08:50 AM,MWF,"Subramanian, A",,Fall,2019
-IE 396,Senior Design I,41221,LCD,12:30 PM - 01:20 PM,TR,"Brown, M",,Fall,2019
-IE 396,Senior Design I,12774,LCD,09:30 AM - 10:20 AM,TR,"Brown, M",,Fall,2019
-IE 396,Senior Design I,37915,LCD,02:00 PM - 02:50 PM,MW,"Komperda, J",,Fall,2019
-IE 396,Senior Design I,40061,LCD,05:00 PM - 05:50 PM,MW,"Komperda, J",,Fall,2019
-IE 411,Mechatronics I,32261,LEC,04:00 PM - 04:50 PM,MW,"Cetin, S",,Fall,2019
-IE 411,Mechatronics I,32262,LEC,04:00 PM - 04:50 PM,MW,"Cetin, S",,Fall,2019
-IE 412,Dynamic Systems Analysis I,39455,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",,Fall,2019
-IE 412,Dynamic Systems Analysis I,39456,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",,Fall,2019
-IE 461,Safety Engineering,12782,LCD,05:00 PM - 05:50 PM,MWF,"Williams, Q",,Fall,2019
-IE 461,Safety Engineering,20377,LCD,05:00 PM - 05:50 PM,MWF,"Williams, Q",,Fall,2019
-IE 467,Discrete Event Computer Simulation Application,12785,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Fall,2019
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,09:30 AM - 10:45 AM,TR,"Li, L",,Fall,2019
-IE 471,Operations Research I,12787,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",,Fall,2019
-IE 471,Operations Research I,20379,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",,Fall,2019
-IE 473,Stochastic Processes and Queuing Models,35388,LCD,03:30 PM - 04:45 PM,TR,"Darabi, H",,Fall,2019
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,03:30 PM - 04:45 PM,TR,"Darabi, H",,Fall,2019
-IE 496,Undergraduate Senior Design Thesis I,41955,LCD,11:00 AM - 11:50 AM,MWF,"Komperda, J",,Fall,2019
-IE 594,Current Topics in Industrial Engineering,39126,LCD,02:00 PM - 03:15 PM,TR,"Li, L",,Fall,2019
-IE 594,Current Topics in Industrial Engineering,37436,LCD,05:00 PM - 07:45 PM,R,"Pan, Y",,Fall,2019
-IE 594,Current Topics in Industrial Engineering,38914,LCD,05:00 PM - 07:45 PM,T,"Sharabiani, A",,Fall,2019
-IE 201,Financial Engineering,44771,LCD,02:00 PM - 03:15 PM,TR,"Hu, M",,Spring,2020
-IE 312,Dynamic Systems and Control,22491,LCD,02:00 PM - 02:50 PM,MWF,"Kim, M",,Spring,2020
-IE 342,Probability and Statistics for Engineers,12762,LCD,03:00 PM - 03:50 PM,MWF,"Haghighi, A",,Spring,2020
-IE 365,Work Productivity Analysis,12769,LCD - AS1,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Spring,2020
-IE 396,Senior Design I,41221,LCD - AS,12:30 PM - 01:20 PM,TR,"Brown, M; Scott, S",,Spring,2020
-IE 396,Senior Design I,12774,LCD - AS1,09:30 AM - 10:20 AM,TR,"Brown, M; Scott, S",,Spring,2020
-IE 396,Senior Design I,37915,LCD - AS2,11:00 AM - 11:50 AM,MW,"Komperda, J; Scott, S",,Spring,2020
-IE 396,Senior Design I,40061,LCD - AS3,04:00 PM - 04:50 PM,MW,"Komperda, J; Scott, S",,Spring,2020
-IE 396,Senior Design I,40904,LCD - AS4,ARRANGED,,"Alonso, M",,Spring,2020
-IE 411,Mechatronics I,32261,LEC - AL1,04:00 PM - 04:50 PM,MW,"Cetin, S",,Spring,2020
-IE 411,Mechatronics I,32262,LEC - AL2,04:00 PM - 04:50 PM,MW,"Cetin, S",,Spring,2020
-IE 412,Dynamic Systems Analysis I,39456,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",,Spring,2020
-IE 444,Interdisciplinary Product Development I,39049,LCD,02:00 PM - 04:50 PM,M,"Scott, M",,Spring,2020
-IE 461,Safety Engineering,20377,LCD,09:30 AM - 10:50 AM,MW,"Williams, Q",,Spring,2020
-IE 465,Manufacturing Information Systems,44773,LCD,09:30 AM - 10:45 AM,TR,"Hu, M",,Spring,2020
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,02:00 PM - 03:15 PM,TR,"Pan, Y",,Spring,2020
-IE 471,Operations Research I,20379,LCD,12:00 PM - 12:50 PM,MWF,"He, D",,Spring,2020
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,02:00 PM - 02:50 PM,MWF,"He, D",,Spring,2020
-IE 594,Current Topics in Industrial Engineering,38914,LCD,05:00 PM - 06:15 PM,MW,"Anahideh, H",,Spring,2020
-IE 201,Financial Engineering,44771,LCD,02:00 PM - 03:15 PM,TR,"Hu, M",,Fall,2020
-IE 312,Dynamic Systems and Control,22491,LCD,02:00 PM - 02:50 PM,MWF,"Kim, M",,Fall,2020
-IE 342,Probability and Statistics for Engineers,12762,LCD,03:00 PM - 03:50 PM,MWF,"Haghighi, A",,Fall,2020
-IE 365,Work Productivity Analysis,12769,LCD - AS1,01:00 PM - 01:50 PM,MWF,"Williams, Q",,Fall,2020
-IE 396,Senior Design I,41221,LCD - AS,12:30 PM - 01:20 PM,TR,"Brown, M; Scott, S",,Fall,2020
-IE 396,Senior Design I,12774,LCD - AS1,09:30 AM - 10:20 AM,TR,"Brown, M; Scott, S",,Fall,2020
-IE 396,Senior Design I,37915,LCD - AS2,11:00 AM - 11:50 AM,MW,"Komperda, J; Scott, S",,Fall,2020
-IE 396,Senior Design I,40061,LCD - AS3,04:00 PM - 04:50 PM,MW,"Komperda, J; Scott, S",,Fall,2020
-IE 396,Senior Design I,40904,LCD - AS4,ARRANGED,,"Alonso, M",,Fall,2020
-IE 411,Mechatronics I,32261,LEC - AL1,04:00 PM - 04:50 PM,MW,"Cetin, S",,Fall,2020
-IE 411,Mechatronics I,32262,LEC - AL2,04:00 PM - 04:50 PM,MW,"Cetin, S",,Fall,2020
-IE 412,Dynamic Systems Analysis I,39456,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",,Fall,2020
-IE 444,Interdisciplinary Product Development I,39049,LCD,02:00 PM - 04:50 PM,M,"Scott, M",,Fall,2020
-IE 461,Safety Engineering,20377,LCD,09:30 AM - 10:50 AM,MW,"Williams, Q",,Fall,2020
-IE 465,Manufacturing Information Systems,44773,LCD,09:30 AM - 10:45 AM,TR,"Hu, M",,Fall,2020
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,02:00 PM - 03:15 PM,TR,"Pan, Y",,Fall,2020
-IE 471,Operations Research I,20379,LCD,12:00 PM - 12:50 PM,MWF,"He, D",,Fall,2020
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,02:00 PM - 02:50 PM,MWF,"He, D",,Fall,2020
-IE 594,Current Topics in Industrial Engineering,38914,LCD,05:00 PM - 06:15 PM,MW,"Anahideh, H",,Fall,2020
-IE 201,Financial Engineering,38135,LCD,02:00 PM - 03:15 PM,TR,"Darabi, H",Online Synchronous,Spring,2021
-IE 312,Dynamic Systems and Control,21976,LCD,10:00 AM - 10:50 AM,MWF,"Reckinger, S",Online Asynchronous,Spring,2021
-IE 312,Dynamic Systems and Control,35720,LCD,04:00 PM - 04:50 PM,MWF,"Kim, M",Online Synchronous,Spring,2021
-IE 342,Probability and Statistics for Engineers,42133,LCD,01:00 PM - 01:50 PM,MWF,"Haghighi, A",Online Asynchronous,Spring,2021
-IE 342,Probability and Statistics for Engineers,29781,LCD,03:00 PM - 03:50 PM,MWF,"Reckinger, S",Online Asynchronous,Spring,2021
-IE 380,Manufacturing Process Principles,16571,LCD,08:00 AM - 08:50 AM,MWF,"Shahbazian-Yassar, R",Online Asynchronous,Spring,2021
-IE 380,Manufacturing Process Principles,42670,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",Online Asynchronous,Spring,2021
-IE 397,Senior Design Il,43743,LCD,ARRANGED,,"Alonso, M",Online Synchronous,Spring,2021
-IE 397,Senior Design Il,37340,LCD,ARRANGED,,"Brown, M",Online Synchronous,Spring,2021
-IE 397,Senior Design Il,38074,LCD,ARRANGED,,"Brown, M",Online Synchronous,Spring,2021
-IE 397,Senior Design Il,36816,LCD,ARRANGED,,"Komperda, J",Online Synchronous,Spring,2021
-IE 397,Senior Design Il,38598,LCD,ARRANGED,,"Komperda, J",Online Synchronous,Spring,2021
-IE 441,Ergonomics and Human Factors,42671,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",Online Asynchronous,Spring,2021
-IE 441,Ergonomics and Human Factors,42689,LCD,12:00 PM - 12:50 PM,MWF,"Williams, Q",Online Asynchronous,Spring,2021
-IE 442,Design and Analysis of Experiments in Engineering,39404,LCD - AS1,12:30 PM - 01:45 PM,TR,"Pan, Y",Online Asynchronous,Spring,2021
-IE 442,Design and Analysis of Experiments in Engineering,41284,LCD - AS2,12:30 PM - 01:45 PM,TR,"Pan, Y",Online Asynchronous,Spring,2021
-IE 445,Interdisciplinary Product Development 2,31905,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Online Synchronous,Spring,2021
-IE 446,Quality Control and Reliability,16566,LCD,12:00 PM - 12:50 PM,MWF,"Huang, J",Online Asynchronous,Spring,2021
-IE 446,Quality Control and Reliability,19267,LCD,12:00 PM - 12:50 PM,MWF,"Huang, J",Online Asynchronous,Spring,2021
-IE 463,Plant Layout and Materials Handling,16568,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",Online Asynchronous,Spring,2021
-IE 463,Plant Layout and Materials Handling,19269,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",Online Asynchronous,Spring,2021
-IE 466,Production Planning and Inventory Control,37765,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",Online Asynchronous,Spring,2021
-IE 466,Production Planning and Inventory Control,37766,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",Online Asynchronous,Spring,2021
-IE 472,Operations Research II,16570,LCD,03:30 PM - 04:45 PM,MW,"He, D",Online Synchronous,Spring,2021
-IE 472,Operations Research II,19538,LCD,03:30 PM - 04:45 PM,MW,"He, D",Online Synchronous,Spring,2021
-IE 481,Additive Manufacturing Process,44618,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Online Synchronous,Spring,2021
-IE 481,Additive Manufacturing Process,44619,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Online Synchronous,Spring,2021
-IE 494,Special Topics in Industrial Engineering,31472,LCD,05:00 PM - 06:15 PM,MW,"Anahideh, H",Online Synchronous,Spring,2021
-IE 494,Special Topics in Industrial Engineering,31909,LCD,05:00 PM - 06:15 PM,MW,"Anahideh, H",Online Synchronous,Spring,2021
-IE 497,Undergraduate Senior Design Thesis II,40409,LCD,ARRANGED,,"Komperda, J",Online Synchronous,Spring,2021
-IE 499,Professional Development Seminar,38366,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",Online Synchronous,Spring,2021
-IE 511,Mechatronics II,21798,LEC - AL,03:30 PM - 04:20 PM,MW,"Cetin, S",Online Synchronous,Spring,2021
-IE 567,Data Mining for Machine Health Diagnosis and Prognosis,33583,LCD,02:00 PM - 03:15 PM,MW,"He, D",Online Synchronous,Spring,2021
-IE 571,Statistical Quality Control and Assurance,37284,LCD,06:00 PM - 08:30 PM,R,"Liotine, M",Online Synchronous,Spring,2021
-IE 594,Current Topics in Industrial Engineering,39727,LCD,09:30 AM - 10:45 AM,TR,"Jeong, H",Online Asynchronous,Spring,2021
-IE 594,Current Topics in Industrial Engineering,39728,LCD,11:00 AM - 12:15 PM,MW,"Anahideh, H",Online Synchronous,Spring,2021
-IE 594,Current Topics in Industrial Engineering,34907,LCD,12:30 PM - 01:45 PM,TR,"Li, L",Online Asynchronous,Spring,2021
-IE 342,Probability and Statistics for Engineers,17226,LCD,10:00 AM - 12:30 PM,MW,"Williams, Q",Online with deadlines,Summer,2021
-IE 201,Financial Engineering,12747,LCD,03:30 PM - 04:45 PM,TR,"Darabi, H",Online Synchronous,Fall,2021
-IE 312,Dynamic Systems and Control,43502,LCD,10:00 AM - 10:50 AM,MWF,"Reckinger, S",On Campus,Fall,2021
-IE 312,Dynamic Systems and Control,22491,LCD,02:00 PM - 02:50 PM,MWF,"Kim, M",On Campus,Fall,2021
-IE 342,Probability and Statistics for Engineers,12762,LCD,ARRANGED,,"Haghighi, A",Online Asynchronous,Fall,2021
-IE 342,Probability and Statistics for Engineers,43531,LCD,ARRANGED,,"Li, L",Online Asynchronous,Fall,2021
-IE 345,Regression Applications and Forecasting in Engineering,42035,LCD,03:00 PM - 03:50 PM,MWF,"Williams, Q",On Campus,Fall,2021
-IE 365,Work Productivity Analysis,12769,LCD - AS1,01:00 PM - 01:50 PM,MWF,"Williams, Q",On Campus,Fall,2021
-IE 380,Manufacturing Process Principles,12770,LCD,ARRANGED,,"Subramanian, A",Online Asynchronous,Fall,2021
-IE 396,Senior Design I,41221,LCD - AS,12:30 PM - 01:20 PM,TR,"Alonso, M; Brown, M",On Campus,Fall,2021
-IE 396,Senior Design I,12774,LCD - AS1,09:30 AM - 10:20 AM,TR,"Alonso, M; Brown, M",On Campus,Fall,2021
-IE 396,Senior Design I,37915,LCD - AS2,11:00 AM - 11:50 AM,MW,"Alonso, M; Komperda, J",On Campus,Fall,2021
-IE 396,Senior Design I,40061,LCD - AS3,04:00 PM - 04:50 PM,MW,"Alonso, M; Komperda, J",On Campus,Fall,2021
-IE 411,Mechatronics I,32261,LEC - AL1,04:00 PM - 04:50 PM,MW,"Cetin, S",On Campus,Fall,2021
-IE 411,Mechatronics I,32262,LEC - AL2,04:00 PM - 04:50 PM,MW,"Cetin, S",On Campus,Fall,2021
-IE 412,Dynamic Systems Analysis I,39455,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",On Campus,Fall,2021
-IE 412,Dynamic Systems Analysis I,39456,LCD,05:00 PM - 06:15 PM,MW,"Cetin, S",On Campus,Fall,2021
-IE 441,Ergonomics and Human Factors,29570,LCD,12:30 PM - 01:45 PM,TR,"Jeong, H",On Campus,Fall,2021
-IE 441,Ergonomics and Human Factors,29571,LCD,12:30 PM - 01:45 PM,TR,"Jeong, H",On Campus,Fall,2021
-IE 444,Interdisciplinary Product Development I,39048,LCD,02:00 PM - 04:50 PM,M,"Scott, M",On Campus,Fall,2021
-IE 444,Interdisciplinary Product Development I,39049,LCD,02:00 PM - 04:50 PM,M,"Scott, M",On Campus,Fall,2021
-IE 461,Safety Engineering,12782,LCD,09:30 AM - 10:45 AM,MW,"Williams, Q",On Campus,Fall,2021
-IE 461,Safety Engineering,20377,LCD,09:30 AM - 10:45 AM,MW,"Williams, Q",On Campus,Fall,2021
-IE 467,Discrete Event Computer Simulation Application,12785,LCD,02:00 PM - 03:15 PM,TR,"Pan, Y",On Campus,Fall,2021
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,02:00 PM - 03:15 PM,TR,"Pan, Y",On Campus,Fall,2021
-IE 471,Operations Research I,12787,LCD,12:00 PM - 12:50 PM,MWF,"He, D",On Campus,Fall,2021
-IE 471,Operations Research I,20379,LCD,12:00 PM - 12:50 PM,MWF,"He, D",On Campus,Fall,2021
-IE 473,Stochastic Processes and Queuing Models,35388,LCD,02:00 PM - 02:50 PM,MWF,"He, D",On Campus,Fall,2021
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,02:00 PM - 02:50 PM,MWF,"He, D",On Campus,Fall,2021
-IE 496,Undergraduate Senior Design Thesis I,41955,LCD,11:00 AM - 11:50 AM,MW,"Komperda, J",On Campus,Fall,2021
-IE 499,Professional Development Seminar,43938,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",On Campus,Fall,2021
-IE 542,Advanced Computational Methods for Product and Process Design,44828,LCD,03:30 PM - 04:45 PM,TR,"Huang, J",On Campus,Fall,2021
-IE 594,Current Topics in Industrial Engineering,38914,LCD,05:00 PM - 06:15 PM,MW,"Anahideh, H",On Campus,Fall,2021
-IE 201,Financial Engineering,16559,LCD,12:00 PM - 12:50 PM,MWF,"Haghighi, A",Meet on campus,Spring,2022
-IE 201,Financial Engineering,38135,LCD,02:00 PM - 03:15 PM,TR,"Anahideh, H",Meet on campus,Spring,2022
-IE 312,Dynamic Systems and Control,21976,LCD,03:30 PM - 04:45 PM,TR,"Cetin, S",Meet on campus,Spring,2022
-IE 312,Dynamic Systems and Control,35720,LCD,04:00 PM - 04:50 PM,MWF,"Kim, M",Meet on campus,Spring,2022
-IE 342,Probability and Statistics for Engineers,42133,LCD,01:00 PM - 01:50 PM,MWF,"Haghighi, A",Meet on campus,Spring,2022
-IE 342,Probability and Statistics for Engineers,29781,LCD,03:00 PM - 03:50 PM,MWF,"He, D",Meet on campus,Spring,2022
-IE 380,Manufacturing Process Principles,16571,LCD,08:00 AM - 08:50 AM,MWF,"Abiade, J",Meet on campus,Spring,2022
-IE 380,Manufacturing Process Principles,42670,LCD,02:00 PM - 03:15 PM,TR,"Shahbazian-Yassar, R",Meet on campus,Spring,2022
-IE 397,Senior Design Il,43743,LCD,ARRANGED,,"Alonso, M",Meet on campus,Spring,2022
-IE 397,Senior Design Il,37340,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2022
-IE 397,Senior Design Il,38074,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2022
-IE 397,Senior Design Il,36816,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2022
-IE 397,Senior Design Il,38598,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2022
-IE 441,Ergonomics and Human Factors,42671,LCD,11:00 AM - 11:50 AM,MWF,"Jeong, H",Meet on campus,Spring,2022
-IE 441,Ergonomics and Human Factors,42689,LCD,11:00 AM - 11:50 AM,MWF,"Jeong, H",Meet on campus,Spring,2022
-IE 442,Design and Analysis of Experiments in Engineering,39404,LCD - AS1,12:30 PM - 01:45 PM,TR,"Pan, Y",Meet on campus,Spring,2022
-IE 442,Design and Analysis of Experiments in Engineering,41284,LCD - AS2,12:30 PM - 01:45 PM,TR,"Pan, Y",Meet on campus,Spring,2022
-IE 445,Interdisciplinary Product Development 2,31905,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Spring,2022
-IE 446,Quality Control and Reliability,16566,LCD,04:00 PM - 04:50 PM,MWF,"Huang, J",Meet on campus,Spring,2022
-IE 446,Quality Control and Reliability,19267,LCD,04:00 PM - 04:50 PM,MWF,"Huang, J",Meet on campus,Spring,2022
-IE 463,Plant Layout and Materials Handling,16568,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",Meet on campus,Spring,2022
-IE 463,Plant Layout and Materials Handling,19269,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",Meet on campus,Spring,2022
-IE 466,Production Planning and Inventory Control,37765,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",Meet on campus,Spring,2022
-IE 466,Production Planning and Inventory Control,37766,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",Meet on campus,Spring,2022
-IE 472,Operations Research II,16570,LCD,11:00 AM - 11:50 AM,MWF,"He, D",Meet on campus,Spring,2022
-IE 472,Operations Research II,19538,LCD,11:00 AM - 11:50 AM,MWF,"He, D",Meet on campus,Spring,2022
-IE 481,Additive Manufacturing Process,44618,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Meet on campus,Spring,2022
-IE 481,Additive Manufacturing Process,44619,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Meet on campus,Spring,2022
-IE 494,Special Topics in Industrial Engineering,32349,LCD,05:00 PM - 06:15 PM,MW,"Williams, Q",Meet on campus,Spring,2022
-IE 494,Special Topics in Industrial Engineering,32350,LCD,05:00 PM - 06:15 PM,MW,"Williams, Q",Meet on campus,Spring,2022
-IE 497,Undergraduate Senior Design Thesis II,40409,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2022
-IE 499,Professional Development Seminar,38366,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",Meet on campus,Spring,2022
-IE 571,Statistical Quality Control and Assurance,37284,LCD,06:30 PM - 09:00 PM,R,"Liotine, M",Meet on campus,Spring,2022
-IE 594,Current Topics in Industrial Engineering,46067,LCD,ARRANGED,,"Stephens, J",,Spring,2022
-IE 594,Current Topics in Industrial Engineering,46068,LCD,ARRANGED,,"Stephens, J",,Spring,2022
-IE 594,Current Topics in Industrial Engineering,39727,LCD,09:30 AM - 10:45 AM,TR,"Darabi, H",Meet on campus,Spring,2022
-IE 594,Current Topics in Industrial Engineering,34907,LCD,12:30 PM - 01:45 PM,TR,"Li, L",Meet on campus,Spring,2022
-IE 594,Current Topics in Industrial Engineering,39728,LCD,05:00 PM - 06:15 PM,TR,"Anahideh, H",Meet on campus,Spring,2022
-IE 342,Probability and Statistics for Engineers,17226,LCD,10:00 AM - 12:30 PM,TR,"Williams, Q",Online with deadlines,Summer,2022
-IE 201,Financial Engineering,12747,LCD,12:00 PM - 12:50 PM,MWF,"Anahideh, H",Meet online at set times,Fall,2022
-IE 201,Financial Engineering,44771,LCD,02:00 PM - 03:15 PM,TR,"Haghighi, A",Meet on campus,Fall,2022
-IE 312,Dynamic Systems and Control,43502,LCD,10:00 AM - 10:50 AM,MWF,"Kim, M",Meet on campus,Fall,2022
-IE 312,Dynamic Systems and Control,22491,LCD,02:00 PM - 02:50 PM,MWF,"Demir, M",Meet on campus,Fall,2022
-IE 342,Probability and Statistics for Engineers,12762,LCD,09:30 AM - 10:45 AM,TR,"Reckinger, S",Meet online at set times,Fall,2022
-IE 342,Probability and Statistics for Engineers,43531,LCD,02:00 PM - 02:50 PM,MWF,"Nicolsen, B",Meet on campus,Fall,2022
-IE 345,Regression Applications and Forecasting in Engineering,42035,LCD,03:00 PM - 03:50 PM,MWF,"Williams, Q",Meet on campus,Fall,2022
-IE 365,Work Productivity Analysis,12769,LCD - AS1,01:00 PM - 01:50 PM,MWF,"Williams, Q",Meet on campus,Fall,2022
-IE 380,Manufacturing Process Principles,12770,LCD,08:00 AM - 08:50 AM,MWF,"Subramanian, A",Meet on campus,Fall,2022
-IE 380,Manufacturing Process Principles,35406,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",Meet on campus,Fall,2022
-IE 396,Senior Design I,41221,LCD - AS,12:30 PM - 01:20 PM,TR,"Brown, M; Scott, S",Meet on campus,Fall,2022
-IE 396,Senior Design I,12774,LCD - AS1,09:30 AM - 10:20 AM,TR,"Brown, M; Scott, S",Meet on campus,Fall,2022
-IE 396,Senior Design I,37915,LCD - AS2,11:00 AM - 11:50 AM,MW,"Komperda, J; Scott, S",Meet on campus,Fall,2022
-IE 396,Senior Design I,40061,LCD - AS3,04:00 PM - 04:50 PM,MW,"Komperda, J; Scott, S",Meet on campus,Fall,2022
-IE 396,Senior Design I,40904,LCD - AS4,02:00 PM - 02:50 PM,MW,"Alonso, M; Scott, S",Meet on campus,Fall,2022
-IE 411,Mechatronics I,32261,LEC - AL1,12:00 PM - 12:50 PM,MW,"Kim, M",Meet on campus,Fall,2022
-IE 411,Mechatronics I,32262,LEC - AL2,12:00 PM - 12:50 PM,MW,"Kim, M",Meet on campus,Fall,2022
-IE 441,Ergonomics and Human Factors,29570,LCD,12:30 PM - 01:45 PM,TR,"Williams, Q",On campus and online,Fall,2022
-IE 441,Ergonomics and Human Factors,29571,LCD,12:30 PM - 01:45 PM,TR,"Williams, Q",On campus and online,Fall,2022
-IE 444,Interdisciplinary Product Development I,39048,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Fall,2022
-IE 444,Interdisciplinary Product Development I,39049,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Fall,2022
-IE 461,Safety Engineering,12782,LCD,09:30 AM - 10:45 AM,MW,"Williams, Q",Meet on campus,Fall,2022
-IE 461,Safety Engineering,20377,LCD,09:30 AM - 10:45 AM,MW,"Williams, Q",Meet on campus,Fall,2022
-IE 467,Discrete Event Computer Simulation Application,12785,LCD,02:00 PM - 03:15 PM,TR,"Pan, Y",Meet on campus,Fall,2022
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,02:00 PM - 03:15 PM,TR,"Pan, Y",Meet on campus,Fall,2022
-IE 471,Operations Research I,12787,LCD,12:00 PM - 12:50 PM,MWF,"He, D",Meet on campus,Fall,2022
-IE 471,Operations Research I,20379,LCD,12:00 PM - 12:50 PM,MWF,"He, D",Meet on campus,Fall,2022
-IE 473,Stochastic Processes and Queuing Models,35388,LCD,02:00 PM - 02:50 PM,MWF,"He, D",Meet on campus,Fall,2022
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,02:00 PM - 02:50 PM,MWF,"He, D",Meet on campus,Fall,2022
-IE 496,Undergraduate Senior Design Thesis I,41955,LCD,ARRANGED,,"Komperda, J",Meet on campus,Fall,2022
-IE 499,Professional Development Seminar,43938,LCD,05:00 PM - 05:50 PM,W,"Reckinger, S",Meet on campus,Fall,2022
-IE 542,Advanced Computational Methods for Product and Process Design,44828,LCD,03:30 PM - 04:45 PM,TR,"Huang, J",Meet on campus,Fall,2022
-IE 594,Current Topics in Industrial Engineering,39126,LCD,09:30 AM - 10:45 AM,TR,"Li, L",Meet on campus,Fall,2022
-IE 594,Current Topics in Industrial Engineering,38914,LCD,05:00 PM - 06:15 PM,MW,"Anahideh, H",Meet on campus,Fall,2022
-IE 201,Financial Engineering,38135,LCD,02:00 PM - 03:15 PM,TR,"Darabi, H",Meet on campus,Spring,2023
-IE 201,Financial Engineering,16559,LCD,04:00 PM - 04:50 PM,MWF,"Haghighi, A",Meet on campus,Spring,2023
-IE 312,Dynamic Systems and Control,21976,LCD,12:30 PM - 01:45 PM,TR,"Demir, M",Meet on campus,Spring,2023
-IE 312,Dynamic Systems and Control,35720,LCD,04:00 PM - 04:50 PM,MWF,"Reckinger, S",Meet on campus,Spring,2023
-IE 342,Probability and Statistics for Engineers,46455,LCD,10:00 AM - 10:50 AM,MWF,"Nicolsen, B",Meet on campus,Spring,2023
-IE 342,Probability and Statistics for Engineers,42133,LCD,01:00 PM - 01:50 PM,MWF,"Nicolsen, B",Meet on campus,Spring,2023
-IE 342,Probability and Statistics for Engineers,29781,LCD,03:00 PM - 03:50 PM,MWF,"Reckinger, S",Meet on campus,Spring,2023
-IE 380,Manufacturing Process Principles,16571,LCD,08:00 AM - 08:50 AM,MWF,"Abiade, J",Meet on campus,Spring,2023
-IE 380,Manufacturing Process Principles,42670,LCD,03:00 PM - 03:50 PM,MWF,"Shahbazian-Yassar, R",Meet on campus,Spring,2023
-IE 397,Senior Design Il,43743,LCD,ARRANGED,,"Alonso, M",Meet on campus,Spring,2023
-IE 397,Senior Design Il,37340,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2023
-IE 397,Senior Design Il,38074,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2023
-IE 397,Senior Design Il,36816,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2023
-IE 397,Senior Design Il,38598,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2023
-IE 412,Dynamic Systems Analysis I,31906,LCD,04:00 PM - 04:50 PM,MWF,"Cetin, S",,Spring,2023
-IE 412,Dynamic Systems Analysis I,31907,LCD,04:00 PM - 04:50 PM,MWF,"Cetin, S",,Spring,2023
-IE 442,Design and Analysis of Experiments in Engineering,39404,LCD - AS1,03:00 PM - 03:50 PM,MWF,"Li, L",Meet on campus,Spring,2023
-IE 442,Design and Analysis of Experiments in Engineering,41284,LCD - AS2,03:00 PM - 03:50 PM,MWF,"Li, L",Meet on campus,Spring,2023
-IE 445,Interdisciplinary Product Development 2,31905,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Spring,2023
-IE 446,Quality Control and Reliability,16566,LCD,04:00 PM - 04:50 PM,MWF,"Huang, J",Meet on campus,Spring,2023
-IE 446,Quality Control and Reliability,19267,LCD,04:00 PM - 04:50 PM,MWF,"Huang, J",Meet on campus,Spring,2023
-IE 463,Plant Layout and Materials Handling,16568,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",Meet on campus,Spring,2023
-IE 463,Plant Layout and Materials Handling,19269,LCD,10:00 AM - 10:50 AM,MWF,"Williams, Q",Meet on campus,Spring,2023
-IE 466,Production Planning and Inventory Control,37765,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",Meet on campus,Spring,2023
-IE 466,Production Planning and Inventory Control,37766,LCD,02:00 PM - 02:50 PM,MWF,"Williams, Q",Meet on campus,Spring,2023
-IE 472,Operations Research II,16570,LCD,11:00 AM - 11:50 AM,MWF,"He, D",Meet on campus,Spring,2023
-IE 472,Operations Research II,19538,LCD,11:00 AM - 11:50 AM,MWF,"He, D",Meet on campus,Spring,2023
-IE 481,Additive Manufacturing Process,44618,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Meet on campus,Spring,2023
-IE 481,Additive Manufacturing Process,44619,LCD,03:30 PM - 04:45 PM,TR,"Pan, Y",Meet on campus,Spring,2023
-IE 494,Special Topics in Industrial Engineering,32349,LCD,05:00 PM - 06:15 PM,MW,"Williams, Q",Meet on campus,Spring,2023
-IE 494,Special Topics in Industrial Engineering,32350,LCD,05:00 PM - 06:15 PM,MW,"Williams, Q",Meet on campus,Spring,2023
-IE 497,Undergraduate Senior Design Thesis II,40409,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2023
-IE 499,Professional Development Seminar,38366,LCD,05:00 PM - 05:50 PM,W,"Nicolsen, B; Reckinger, S",Meet on campus,Spring,2023
-IE 511,Mechatronics II,21798,LEC - AL,02:00 PM - 03:15 PM,TR,"Bhounsule, P; Scott, S",Meet on campus,Spring,2023
-IE 567,Data Mining for Machine Health Diagnosis and Prognosis,33583,LCD,12:30 PM - 01:45 PM,WF,"He, D",Meet on campus,Spring,2023
-IE 571,Statistical Quality Control and Assurance,37284,LCD,06:30 PM - 09:00 PM,R,"Liotine, M",Meet on campus,Spring,2023
-IE 594,Current Topics in Industrial Engineering,39728,LCD,02:00 PM - 03:15 PM,MW,"Haghighi, A",Meet on campus,Spring,2023
-IE 342,Probability and Statistics for Engineers,17226,LCD,10:00 AM - 12:30 PM,TR,"Williams, Q",Online with deadlines,Summer,2023
-IE 118,Energy for Sustainable Society,48593,LCD,09:30 AM - 10:45 AM,TR,"Alonso, M",Meet on campus,Fall,2023
-IE 201,Financial Engineering,12747,LCD,12:00 PM - 12:50 PM,MWF,"Haghighi, A",Meet on campus,Fall,2023
-IE 312,Dynamic Systems and Control,43502,LCD,10:00 AM - 10:50 AM,MWF,"Cetin, S",Meet on campus,Fall,2023
-IE 342,Probability and Statistics for Engineers,48428,LCD,02:00 PM - 03:15 PM,TR,"Brezinsky, K",Meet on campus,Fall,2023
-IE 342,Probability and Statistics for Engineers,43531,LCD,02:00 PM - 02:50 PM,MWF,"Nicolsen, B",Meet on campus,Fall,2023
-IE 342,Probability and Statistics for Engineers,12762,LCD,03:00 PM - 03:50 PM,MWF,"Li, L",Meet on campus,Fall,2023
-IE 345,Regression Applications and Forecasting in Engineering,42035,LCD,03:00 PM - 03:50 PM,MWF,"Huang, J",Meet on campus,Fall,2023
-IE 365,Work Productivity Analysis,12769,LCD - AS1,01:00 PM - 01:50 PM,MWF,"Williams, Q",Meet on campus,Fall,2023
-IE 380,Manufacturing Process Principles,12770,LCD,08:00 AM - 08:50 AM,MWF,"Shahbazian-Yassar, R",Meet on campus,Fall,2023
-IE 380,Manufacturing Process Principles,35406,LCD,09:00 AM - 09:50 AM,MWF,"Abiade, J",Meet on campus,Fall,2023
-IE 396,Senior Design I,41221,LCD - AS,12:30 PM - 01:20 PM,TR,"Brown, M; Scott, S",Meet on campus,Fall,2023
-IE 396,Senior Design I,12774,LCD - AS1,09:30 AM - 10:20 AM,TR,"Brown, M; Scott, S",Meet on campus,Fall,2023
-IE 396,Senior Design I,37915,LCD - AS2,11:00 AM - 11:50 AM,MW,"Komperda, J; Scott, S",Meet on campus,Fall,2023
-IE 396,Senior Design I,40061,LCD - AS3,04:00 PM - 04:50 PM,MW,"Komperda, J; Scott, S",Meet on campus,Fall,2023
-IE 411,Mechatronics I,32261,LEC - AL1,03:00 PM - 03:50 PM,MW,"Kim, M",Meet on campus,Fall,2023
-IE 411,Mechatronics I,32262,LEC - AL2,03:00 PM - 03:50 PM,MW,"Kim, M",Meet on campus,Fall,2023
-IE 441,Ergonomics and Human Factors,29570,LCD,04:00 PM - 05:15 PM,MW,"Williams, Q",Meet on campus,Fall,2023
-IE 441,Ergonomics and Human Factors,29571,LCD,04:00 PM - 05:15 PM,MW,"Williams, Q",Meet on campus,Fall,2023
-IE 444,Interdisciplinary Product Development I,39048,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Fall,2023
-IE 444,Interdisciplinary Product Development I,39049,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Fall,2023
-IE 461,Safety Engineering,12782,LCD,09:30 AM - 10:45 AM,MW,"Williams, Q",Meet on campus,Fall,2023
-IE 461,Safety Engineering,20377,LCD,09:30 AM - 10:45 AM,MW,"Williams, Q",Meet on campus,Fall,2023
-IE 467,Discrete Event Computer Simulation Application,12785,LCD,11:00 AM - 11:50 AM,MWF,"Li, L",Meet on campus,Fall,2023
-IE 467,Discrete Event Computer Simulation Application,20378,LCD,11:00 AM - 11:50 AM,MWF,"Li, L",Meet on campus,Fall,2023
-IE 471,Operations Research I,12787,LCD,12:00 PM - 12:50 PM,MWF,"He, D",Meet on campus,Fall,2023
-IE 471,Operations Research I,20379,LCD,12:00 PM - 12:50 PM,MWF,"He, D",Meet on campus,Fall,2023
-IE 473,Stochastic Processes and Queuing Models,35388,LCD,02:00 PM - 02:50 PM,MWF,"He, D",Meet on campus,Fall,2023
-IE 473,Stochastic Processes and Queuing Models,35475,LCD,02:00 PM - 02:50 PM,MWF,"He, D",Meet on campus,Fall,2023
-IE 496,Undergraduate Senior Design Thesis I,41955,LCD,ARRANGED,,,Meet on campus,Fall,2023
-IE 499,Professional Development Seminar,43938,LCD,05:30 PM - 06:20 PM,W,"Nicolsen, B",Meet on campus,Fall,2023
-IE 594,Current Topics in Industrial Engineering,38914,LCD,05:00 PM - 06:15 PM,MW,"Anahideh, H",Meet on campus,Fall,2023
-IE 201,Financial Engineering,16559,LCD,12:30 PM - 01:45 PM,TR,"Darabi, H",Meet on campus,Spring,2024
-IE 312,Dynamic Systems and Control,21976,LCD,12:30 PM - 01:45 PM,TR,"Kim, M",Meet on campus,Spring,2024
-IE 312,Dynamic Systems and Control,35720,LCD,04:00 PM - 04:50 PM,MWF,"Cetin, S",Meet on campus,Spring,2024
-IE 342,Probability and Statistics for Engineers,29781,LCD,09:30 AM - 10:45 AM,TR,"Huang, J",Meet on campus,Spring,2024
-IE 342,Probability and Statistics for Engineers,42133,LCD,10:00 AM - 10:50 AM,MWF,"Nicolsen, B",Meet on campus,Spring,2024
-IE 342,Probability and Statistics for Engineers,46455,LCD,12:00 PM - 12:50 PM,MWF,"Nicolsen, B",Meet on campus,Spring,2024
-IE 380,Manufacturing Process Principles,16571,LCD,09:00 AM - 09:50 AM,MWF,"Shahbazian-Yassar, R",Meet on campus,Spring,2024
-IE 380,Manufacturing Process Principles,42670,LCD,10:00 AM - 10:50 AM,MWF,"Shahbazian-Yassar, R",Meet on campus,Spring,2024
-IE 397,Senior Design Il,37340,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2024
-IE 397,Senior Design Il,38074,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2024
-IE 397,Senior Design Il,43743,LCD,ARRANGED,,"Brown, M",Meet on campus,Spring,2024
-IE 397,Senior Design Il,36816,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2024
-IE 397,Senior Design Il,38598,LCD,ARRANGED,,"Komperda, J",Meet on campus,Spring,2024
-IE 442,Design and Analysis of Experiments in Engineering,39404,LCD - AS1,02:00 PM - 03:15 PM,TR,"Tejada Lopez, C",Meet on campus,Spring,2024
-IE 442,Design and Analysis of Experiments in Engineering,41284,LCD - AS2,02:00 PM - 03:15 PM,TR,"Tejada Lopez, C",Meet on campus,Spring,2024
-IE 445,Interdisciplinary Product Development 2,31905,LCD,02:00 PM - 04:50 PM,M,"Scott, M",Meet on campus,Spring,2024
-IE 446,Quality Control and Reliability,16566,LCD,03:30 PM - 04:45 PM,TR,"Huang, J",Meet on campus,Spring,2024
-IE 446,Quality Control and Reliability,19267,LCD,03:30 PM - 04:45 PM,TR,"Huang, J",Meet on campus,Spring,2024
-IE 463,Plant Layout and Materials Handling,16568,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",Meet on campus,Spring,2024
-IE 463,Plant Layout and Materials Handling,19269,LCD,11:00 AM - 11:50 AM,MWF,"Williams, Q",Meet on campus,Spring,2024
-IE 466,Production Planning and Inventory Control,37765,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",Meet on campus,Spring,2024
-IE 466,Production Planning and Inventory Control,37766,LCD,01:00 PM - 01:50 PM,MWF,"Williams, Q",Meet on campus,Spring,2024
-IE 472,Operations Research II,16570,LCD,02:00 PM - 02:50 PM,MWF,"He, D",Meet on campus,Spring,2024
-IE 472,Operations Research II,19538,LCD,02:00 PM - 02:50 PM,MWF,"He, D",Meet on campus,Spring,2024
-IE 494,Special Topics in Industrial Engineering,32349,LCD,03:00 PM - 04:15 PM,MW,"Williams, Q",Meet on campus,Spring,2024
-IE 494,Special Topics in Industrial Engineering,32350,LCD,03:00 PM - 04:15 PM,MW,"Williams, Q",Meet on campus,Spring,2024
-IE 499,Professional Development Seminar,38366,LCD,05:00 PM - 05:50 PM,W,"Nicolsen, B",Meet on campus,Spring,2024
-IE 511,Mechatronics II,21798,LEC - AL,03:30 PM - 04:20 PM,TR,"Kim, M",Meet on campus,Spring,2024
-IE 571,Statistical Quality Control and Assurance,37284,LCD,06:30 PM - 09:00 PM,R,"Liotine, M",Meet on campus,Spring,2024
-IE 594,Current Topics in Industrial Engineering,39825,LCD,09:30 AM - 10:45 AM,MW,"He, D",Meet on campus,Spring,2024
-IE 594,Current Topics in Industrial Engineering,39728,LCD,05:00 PM - 06:15 PM,TR,"Anahideh, H; Scott, S",Meet on campus,Spring,2024
-IE 342,Probability and Statistics for Engineers,17226,LCD,10:00 AM - 12:30 PM,TR,"Nicolsen, B",Meet on campus,Summer,2024
-IE 342,Probability and Statistics for Engineers,24515,LCD,06:00 PM - 08:30 PM,TR,"Williams, Q",Meet online at set times,Summer,2024
+Course Code,Course Title,Credits,CRN,Section Type,Time,Days per Week,Instructor,Method,Semester,Year,Time of Day,Duration of Class (minutes)
+IE 201,Financial Engineering,3,16559,LCD,11:00 AM - 11:50 AM,3,"Banerjee, P",On Campus,Spring,2014,Morning,50
+IE 312,Dynamic Systems and Control,3,35720,LCD,09:30 AM - 10:45 AM,2,N/A,On Campus,Spring,2014,Morning,75
+IE 312,Dynamic Systems and Control,3,21976,LCD,09:30 AM - 10:45 AM,2,"Brown, M",On Campus,Spring,2014,Morning,75
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,01:00 PM - 01:50 PM,3,"He, D",On Campus,Spring,2014,Afternoon,50
+IE 345,Regression Applications and Forecasting in Engineering,3,23213,LCD,10:00 AM - 10:50 AM,3,"He, D",On Campus,Spring,2014,Morning,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,10:00 AM - 10:50 AM,3,"Abiade, J",On Campus,Spring,2014,Morning,50
+IE 396,Senior Design I,4,16572,LCD,12:30 PM - 02:10 PM,2,"Brown, M",On Campus,Spring,2014,Afternoon,100
+IE 412,Dynamic Systems Analysis I,3,31906,LCD,05:00 PM - 06:15 PM,2,"Cetinkunt, S",On Campus,Spring,2014,Evening,75
+IE 412,Dynamic Systems Analysis I,3,31907,LCD,05:00 PM - 06:15 PM,2,"Cetinkunt, S",On Campus,Spring,2014,Evening,75
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,ARRANGED,0,"Scott, M",On Campus,Spring,2014,N/A,0
+IE 446,Quality Control and Reliability,3,16566,LCD,11:00 AM - 12:15 PM,2,"Li, L",On Campus,Spring,2014,Morning,75
+IE 446,Quality Control and Reliability,3,19267,LCD,11:00 AM - 12:15 PM,2,"Li, L",On Campus,Spring,2014,Morning,75
+IE 463,Plant Layout and Materials Handling,3,16568,LCD,02:00 PM - 02:50 PM,3,"Ratisoontorn, N",On Campus,Spring,2014,Afternoon,50
+IE 463,Plant Layout and Materials Handling,3,19269,LCD,02:00 PM - 02:50 PM,3,"Ratisoontorn, N",On Campus,Spring,2014,Afternoon,50
+IE 466,Production Planning and Inventory Control,3,16569,LCD,12:00 PM - 12:50 PM,3,"Ratisoontorn, N",On Campus,Spring,2014,Afternoon,50
+IE 466,Production Planning and Inventory Control,3,19270,LCD,12:00 PM - 12:50 PM,3,"Ratisoontorn, N",On Campus,Spring,2014,Afternoon,50
+IE 472,Operations Research II,3,16570,LCD,04:00 PM - 04:50 PM,3,"Ratisoontorn, N",On Campus,Spring,2014,Afternoon,50
+IE 472,Operations Research II,3,19538,LCD,04:00 PM - 04:50 PM,3,"Ratisoontorn, N",On Campus,Spring,2014,Afternoon,50
+IE 494,Special Topics in Industrial Engineering,3,33581,LCD,03:30 PM - 04:45 PM,2,"Luciano, C",On Campus,Spring,2014,Afternoon,75
+IE 494,Special Topics in Industrial Engineering,3,33582,LCD,03:30 PM - 04:45 PM,2,"Luciano, C",On Campus,Spring,2014,Afternoon,75
+IE 499,Professional Development Seminar,0,27062,LCD,ARRANGED,0,"Manafzadeh, S",On Campus,Spring,2014,N/A,0
+IE 511,Mechatronics II,4,21798,LEC,06:30 PM - 07:45 PM,2,"Cetinkunt, S",On Campus,Spring,2014,Evening,75
+IE 201,Financial Engineering,3,19819,LCD,01:00 PM - 03:55 PM,4,"Darabi, H",On Campus,Summer,2014,Afternoon,175
+IE 342,Probability and Statistics for Engineers,3,17226,LCD,10:00 AM - 12:30 PM,2,"He, D",On Campus,Summer,2014,Morning,150
+IE 201,Financial Engineering,3,12747,LCD,11:00 AM - 11:50 AM,3,"Banerjee, P",On Campus,Fall,2014,Morning,50
+IE 312,Dynamic Systems and Control,3,22491,LCD,09:30 AM - 10:45 AM,2,"Berniker, M",On Campus,Fall,2014,Morning,75
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,03:00 PM - 03:50 PM,3,"Li, L",On Campus,Fall,2014,Afternoon,50
+IE 365,Work Productivity Analysis,4,12769,LCD,04:00 PM - 04:50 PM,3,"Darabi, H",On Campus,Fall,2014,Afternoon,50
+IE 380,Manufacturing Process Principles,3,12770,LCD,03:00 PM - 03:50 PM,3,"Abiade, J",On Campus,Fall,2014,Afternoon,50
+IE 394,Senior Capstone Design,4,37911,LCD,ARRANGED,0,"Brown, M",On Campus,Fall,2014,N/A,0
+IE 394,Senior Capstone Design,4,37427,LCD,12:15 PM - 01:55 PM,1,"Brown, M",On Campus,Fall,2014,Afternoon,100
+IE 396,Senior Design I,2,37915,LCD,10:00 AM - 10:50 AM,2,"Brown, M",On Campus,Fall,2014,Morning,50
+IE 396,Senior Design I,2,12774,LCD,11:00 AM - 11:50 AM,2,"Brown, M",On Campus,Fall,2014,Morning,50
+IE 411,Mechatronics I,0,32261,LEC,04:00 PM - 05:15 PM,2,"Cetinkunt, S",On Campus,Fall,2014,Afternoon,75
+IE 411,Mechatronics I,0,32262,LEC,04:00 PM - 05:15 PM,2,"Cetinkunt, S",On Campus,Fall,2014,Afternoon,75
+IE 441,Ergonomics and Human Factors,3,29570,LCD,09:00 AM - 09:50 AM,3,"Banerjee, P; Sheth, N",On Campus,Fall,2014,Morning,50
+IE 441,Ergonomics and Human Factors,3,29571,LCD,09:00 AM - 09:50 AM,3,"Banerjee, P; Sheth, N",On Campus,Fall,2014,Morning,50
+IE 442,Design and Analysis of Experiments in Engineering,4,34405,LCD,12:00 PM - 12:50 PM,3,"Li, L",On Campus,Fall,2014,Afternoon,50
+IE 444,Interdisciplinary Product Development I,3,28573,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2014,N/A,0
+IE 444,Interdisciplinary Product Development I,3,28574,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2014,N/A,0
+IE 461,Safety Engineering,3,12782,LCD,05:00 PM - 06:15 PM,2,"Cali, S",On Campus,Fall,2014,Evening,75
+IE 461,Safety Engineering,3,20377,LCD,05:00 PM - 06:15 PM,2,"Cali, S",On Campus,Fall,2014,Evening,75
+IE 464,Virtual Automation,0,12784,LCD,02:00 PM - 02:50 PM,3,"Banerjee, P",On Campus,Fall,2014,Afternoon,50
+IE 464,Virtual Automation,0,20375,LCD,02:00 PM - 02:50 PM,3,"Banerjee, P",On Campus,Fall,2014,Afternoon,50
+IE 467,Discrete Event Computer Simulation Application,3,12785,LCD,09:30 AM - 10:45 AM,2,"He, D",On Campus,Fall,2014,Morning,75
+IE 467,Discrete Event Computer Simulation Application,3,20378,LCD,09:30 AM - 10:45 AM,2,"He, D",On Campus,Fall,2014,Morning,75
+IE 471,Operations Research I,3,12787,LCD,01:00 PM - 01:50 PM,3,"Darabi, H",On Campus,Fall,2014,Afternoon,50
+IE 471,Operations Research I,3,20379,LCD,01:00 PM - 01:50 PM,3,"Darabi, H",On Campus,Fall,2014,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,3,38116,LCD,ARRANGED,0,N/A,On Campus,Fall,2014,N/A,0
+IE 473,Stochastic Processes and Queuing Models,3,38117,LCD,ARRANGED,0,N/A,On Campus,Fall,2014,N/A,0
+IE 473,Stochastic Processes and Queuing Models,3,35388,LCD,11:00 AM - 11:50 AM,3,"Darabi, H; Ebrahimi, S",On Campus,Fall,2014,Morning,50
+IE 473,Stochastic Processes and Queuing Models,3,35475,LCD,11:00 AM - 11:50 AM,3,"Darabi, H; Ebrahimi, S",On Campus,Fall,2014,Morning,50
+IE 499,Professional Development Seminar,0,27839,LCD,ARRANGED,0,"Manafzadeh, S",On Campus,Fall,2014,N/A,0
+IE 567,Data Mining for Machine Health Diagnosis and Prognosis,4,32062,LCD,12:30 PM - 01:45 PM,2,"He, D",On Campus,Fall,2014,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,37436,LCD,03:00 PM - 04:15 PM,2,"Diwekar, U",On Campus,Fall,2014,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,33082,LCD,05:00 PM - 07:30 PM,1,"Pan, Y",On Campus,Fall,2014,Evening,150
+IE 201,Financial Engineering,3,16559,LCD,11:00 AM - 11:50 AM,3,"Banerjee, P",On Campus,Spring,2015,Morning,50
+IE 312,Dynamic Systems and Control,3,35720,LCD,01:00 PM - 01:50 PM,3,"Shabana, A",On Campus,Spring,2015,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,01:00 PM - 01:50 PM,3,"He, D",On Campus,Spring,2015,Afternoon,50
+IE 345,Regression Applications and Forecasting in Engineering,3,23213,LCD,10:00 AM - 10:50 AM,3,"Pan, Y",On Campus,Spring,2015,Morning,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,09:00 AM - 09:50 AM,3,"Abiade, J",On Campus,Spring,2015,Morning,50
+IE 396,Senior Design I,2,37732,LCD,ARRANGED,0,"Brown, M",On Campus,Spring,2015,N/A,0
+IE 396,Senior Design I,2,16572,LCD,03:30 PM - 04:30 PM,2,"Brown, M",On Campus,Spring,2015,Afternoon,60
+IE 397,Senior Design Il,2,37340,LCD,ARRANGED,0,"Brown, M",On Campus,Spring,2015,N/A,0
+IE 397,Senior Design Il,2,36816,LCD,12:30 PM - 01:20 PM,2,"Brown, M",On Campus,Spring,2015,Afternoon,50
+IE 412,Dynamic Systems Analysis I,3,31906,LCD,04:00 PM - 05:15 PM,2,"Cetinkunt, S",On Campus,Spring,2015,Afternoon,75
+IE 412,Dynamic Systems Analysis I,3,31907,LCD,04:00 PM - 05:15 PM,2,"Cetinkunt, S",On Campus,Spring,2015,Afternoon,75
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,ARRANGED,0,"Scott, M",On Campus,Spring,2015,N/A,0
+IE 446,Quality Control and Reliability,3,16566,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Spring,2015,Morning,75
+IE 446,Quality Control and Reliability,3,19267,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Spring,2015,Morning,75
+IE 463,Plant Layout and Materials Handling,3,16568,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Spring,2015,Afternoon,50
+IE 463,Plant Layout and Materials Handling,3,19269,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Spring,2015,Afternoon,50
+IE 466,Production Planning and Inventory Control,3,16569,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2015,Morning,50
+IE 466,Production Planning and Inventory Control,3,19270,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2015,Morning,50
+IE 466,Production Planning and Inventory Control,3,37765,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",On Campus,Spring,2015,Afternoon,50
+IE 466,Production Planning and Inventory Control,3,37766,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",On Campus,Spring,2015,Afternoon,50
+IE 472,Operations Research II,3,16570,LCD,04:00 PM - 04:50 PM,3,"Van Hecke, B",On Campus,Spring,2015,Afternoon,50
+IE 472,Operations Research II,3,19538,LCD,04:00 PM - 04:50 PM,3,"Van Hecke, B",On Campus,Spring,2015,Afternoon,50
+IE 499,Professional Development Seminar,0,27062,LCD,ARRANGED,0,"Manafzadeh, S",On Campus,Spring,2015,N/A,0
+IE 511,Mechatronics II,4,21798,LEC,05:30 PM - 06:45 PM,2,"Cetinkunt, S",On Campus,Spring,2015,Evening,75
+IE 594,Current Topics in Industrial Engineering,4,32489,LCD,02:00 PM - 03:15 PM,2,"Darabi, H",On Campus,Spring,2015,Afternoon,75
+IE 342,Probability and Statistics for Engineers,3,17226,LCD,10:00 AM - 12:30 PM,2,"He, D",On Campus,Summer,2015,Morning,150
+IE 201,Financial Engineering,3,12747,LCD,11:00 AM - 11:50 AM,3,"Darabi, H",On Campus,Fall,2015,Morning,50
+IE 312,Dynamic Systems and Control,3,22491,LCD,03:00 PM - 03:50 PM,3,"Berniker, M",On Campus,Fall,2015,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,03:00 PM - 03:50 PM,3,"Williams, Q",On Campus,Fall,2015,Afternoon,50
+IE 365,Work Productivity Analysis,4,12769,LCD,04:00 PM - 05:15 PM,2,"Darabi, H",On Campus,Fall,2015,Afternoon,75
+IE 380,Manufacturing Process Principles,3,12770,LCD,09:00 AM - 09:50 AM,3,"Abiade, J",On Campus,Fall,2015,Morning,50
+IE 396,Senior Design I,2,12774,LCD,12:30 PM - 01:20 PM,2,"Brown, M",On Campus,Fall,2015,Afternoon,50
+IE 396,Senior Design I,2,37915,LCD,05:30 PM - 06:20 PM,2,"Komperda, J",On Campus,Fall,2015,Evening,50
+IE 397,Senior Design Il,2,38149,LCD,ARRANGED,0,"Brown, M",On Campus,Fall,2015,N/A,0
+IE 397,Senior Design Il,2,38148,LCD,09:30 AM - 10:20 AM,2,"Brown, M",On Campus,Fall,2015,Morning,50
+IE 411,Mechatronics I,0,32261,LEC,04:00 PM - 05:15 PM,2,"Cetinkunt, S",On Campus,Fall,2015,Afternoon,75
+IE 411,Mechatronics I,0,32262,LEC,04:00 PM - 05:15 PM,2,"Cetinkunt, S",On Campus,Fall,2015,Afternoon,75
+IE 411,Mechatronics I,0,39094,LEC,07:00 PM - 08:15 PM,2,"Cetinkunt, S",On Campus,Fall,2015,Evening,75
+IE 411,Mechatronics I,0,39095,LEC,07:00 PM - 08:15 PM,2,"Cetinkunt, S",On Campus,Fall,2015,Evening,75
+IE 441,Ergonomics and Human Factors,3,29570,LCD,09:00 AM - 09:50 AM,3,"Williams, Q",On Campus,Fall,2015,Morning,50
+IE 441,Ergonomics and Human Factors,3,29571,LCD,09:00 AM - 09:50 AM,3,"Williams, Q",On Campus,Fall,2015,Morning,50
+IE 441,Ergonomics and Human Factors,3,39063,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",On Campus,Fall,2015,Morning,50
+IE 441,Ergonomics and Human Factors,3,39064,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",On Campus,Fall,2015,Morning,50
+IE 442,Design and Analysis of Experiments in Engineering,4,34405,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",On Campus,Fall,2015,Afternoon,50
+IE 442,Design and Analysis of Experiments in Engineering,4,39120,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Fall,2015,Afternoon,50
+IE 444,Interdisciplinary Product Development I,3,28573,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2015,N/A,0
+IE 444,Interdisciplinary Product Development I,3,28574,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2015,N/A,0
+IE 444,Interdisciplinary Product Development I,3,39048,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2015,N/A,0
+IE 444,Interdisciplinary Product Development I,3,39049,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2015,N/A,0
+IE 461,Safety Engineering,3,12782,LCD,05:45 PM - 07:00 PM,2,"Cali, S",On Campus,Fall,2015,Evening,75
+IE 461,Safety Engineering,3,20377,LCD,05:45 PM - 07:00 PM,2,"Cali, S",On Campus,Fall,2015,Evening,75
+IE 467,Discrete Event Computer Simulation Application,3,12785,LCD,02:00 PM - 02:50 PM,3,"Pan, Y",On Campus,Fall,2015,Afternoon,50
+IE 467,Discrete Event Computer Simulation Application,3,20378,LCD,02:00 PM - 02:50 PM,3,"Pan, Y",On Campus,Fall,2015,Afternoon,50
+IE 471,Operations Research I,3,12787,LCD,10:00 AM - 10:50 AM,3,"Banerjee, P",On Campus,Fall,2015,Morning,50
+IE 471,Operations Research I,3,20379,LCD,10:00 AM - 10:50 AM,3,"Banerjee, P",On Campus,Fall,2015,Morning,50
+IE 471,Operations Research I,3,39077,LCD,10:00 AM - 10:50 AM,3,"Banerjee, P",On Campus,Fall,2015,Morning,50
+IE 471,Operations Research I,3,39078,LCD,10:00 AM - 10:50 AM,3,"Banerjee, P",On Campus,Fall,2015,Morning,50
+IE 473,Stochastic Processes and Queuing Models,3,35388,LCD,02:00 PM - 03:15 PM,2,"He, D",On Campus,Fall,2015,Afternoon,75
+IE 473,Stochastic Processes and Queuing Models,3,35475,LCD,02:00 PM - 03:15 PM,2,"He, D",On Campus,Fall,2015,Afternoon,75
+IE 494,Special Topics in Industrial Engineering,3,39098,LCD,ARRANGED,0,"Komperda, J",On Campus,Fall,2015,N/A,0
+IE 499,Professional Development Seminar,0,27839,LCD,ARRANGED,0,"Manafzadeh, S",On Campus,Fall,2015,N/A,0
+IE 594,Current Topics in Industrial Engineering,4,33082,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Fall,2015,Morning,75
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,03:30 PM - 04:45 PM,2,"Hu, M",On Campus,Fall,2015,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,39126,LCD,03:30 PM - 04:45 PM,2,"Li, L",On Campus,Fall,2015,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,37436,LCD,05:00 PM - 07:30 PM,1,"Banerjee, P",On Campus,Fall,2015,Evening,150
+IE 201,Financial Engineering,3,16559,LCD,11:00 AM - 11:50 AM,3,"Darabi, H",On Campus,Spring,2016,Morning,50
+IE 201,Financial Engineering,3,38135,LCD,02:00 PM - 02:50 PM,3,N/A,On Campus,Spring,2016,Afternoon,50
+IE 312,Dynamic Systems and Control,3,35720,LCD,04:00 PM - 04:50 PM,3,"Berniker, M",On Campus,Spring,2016,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,01:00 PM - 01:50 PM,3,"He, D",On Campus,Spring,2016,Afternoon,50
+IE 345,Regression Applications and Forecasting in Engineering,3,23213,LCD,10:00 AM - 10:50 AM,3,"Hu, M",On Campus,Spring,2016,Morning,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,09:00 AM - 09:50 AM,3,"Shahbazian-Yassar, R",On Campus,Spring,2016,Morning,50
+IE 397,Senior Design Il,2,36816,LCD,ARRANGED,0,N/A,On Campus,Spring,2016,N/A,0
+IE 397,Senior Design Il,2,37340,LCD,ARRANGED,0,"Brown, M",On Campus,Spring,2016,N/A,0
+IE 397,Senior Design Il,2,38074,LCD,ARRANGED,0,"Brown, M",On Campus,Spring,2016,N/A,0
+IE 397,Senior Design Il,2,38598,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2016,N/A,0
+IE 412,Dynamic Systems Analysis I,3,31906,LCD,04:00 PM - 05:15 PM,2,"Cetinkunt, S",On Campus,Spring,2016,Afternoon,75
+IE 412,Dynamic Systems Analysis I,3,31907,LCD,04:00 PM - 05:15 PM,2,"Cetinkunt, S",On Campus,Spring,2016,Afternoon,75
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,ARRANGED,0,"Scott, M",On Campus,Spring,2016,N/A,0
+IE 445,Interdisciplinary Product Development 2,4,38686,LCD,ARRANGED,0,"Scott, M",On Campus,Spring,2016,N/A,0
+IE 446,Quality Control and Reliability,3,16566,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Spring,2016,Morning,75
+IE 446,Quality Control and Reliability,3,19267,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Spring,2016,Morning,75
+IE 446,Quality Control and Reliability,3,38818,LCD,12:30 PM - 01:45 PM,2,"Li, L",On Campus,Spring,2016,Afternoon,75
+IE 446,Quality Control and Reliability,3,38820,LCD,12:30 PM - 01:45 PM,2,"Li, L",On Campus,Spring,2016,Afternoon,75
+IE 463,Plant Layout and Materials Handling,3,16568,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Spring,2016,Afternoon,50
+IE 463,Plant Layout and Materials Handling,3,19269,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Spring,2016,Afternoon,50
+IE 466,Production Planning and Inventory Control,3,37765,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2016,Morning,50
+IE 466,Production Planning and Inventory Control,3,37766,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2016,Morning,50
+IE 472,Operations Research II,3,16570,LCD,03:00 PM - 03:50 PM,3,"Williams, Q",On Campus,Spring,2016,Afternoon,50
+IE 472,Operations Research II,3,19538,LCD,03:00 PM - 03:50 PM,3,"Williams, Q",On Campus,Spring,2016,Afternoon,50
+IE 494,Special Topics in Industrial Engineering,3,31472,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2016,N/A,0
+IE 494,Special Topics in Industrial Engineering,3,31909,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2016,N/A,0
+IE 499,Professional Development Seminar,0,38367,LCD,12:00 PM - 12:50 PM,1,"Darabi, H",On Campus,Spring,2016,Afternoon,50
+IE 499,Professional Development Seminar,0,38365,LCD,01:00 PM - 01:50 PM,1,"Darabi, H",On Campus,Spring,2016,Afternoon,50
+IE 499,Professional Development Seminar,0,38366,LCD,03:00 PM - 03:50 PM,1,"Darabi, H",On Campus,Spring,2016,Afternoon,50
+IE 511,Mechatronics II,4,21798,LEC,05:30 PM - 06:45 PM,2,"Cetinkunt, S",On Campus,Spring,2016,Evening,75
+IE 567,Data Mining for Machine Health Diagnosis and Prognosis,4,33583,LCD,04:00 PM - 04:50 PM,3,"He, D",On Campus,Spring,2016,Afternoon,50
+IE 594,Current Topics in Industrial Engineering,4,34907,LCD,03:30 PM - 04:45 PM,2,"Banerjee, P",On Campus,Spring,2016,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,32489,LCD,06:00 PM - 08:30 PM,1,"Pan, Y",On Campus,Spring,2016,Evening,150
+IE 201,Financial Engineering,3,19819,LCD,01:00 PM - 03:55 PM,4,"Darabi, H",On Campus,Summer,2016,Afternoon,175
+IE 342,Probability and Statistics for Engineers,3,17226,LCD,10:00 AM - 12:30 PM,2,"He, D",On Campus,Summer,2016,Morning,150
+IE 201,Financial Engineering,3,12747,LCD,11:00 AM - 11:50 AM,3,"Banerjee, P",On Campus,Fall,2016,Morning,50
+IE 312,Dynamic Systems and Control,3,22491,LCD,03:00 PM - 03:50 PM,3,"Berniker, M",On Campus,Fall,2016,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,03:00 PM - 03:50 PM,3,"Manafzadeh, S",On Campus,Fall,2016,Afternoon,50
+IE 365,Work Productivity Analysis,4,12769,LCD,04:00 PM - 04:50 PM,3,"Williams, Q",On Campus,Fall,2016,Afternoon,50
+IE 380,Manufacturing Process Principles,3,12770,LCD,09:00 AM - 09:50 AM,3,"Abiade, J",On Campus,Fall,2016,Morning,50
+IE 396,Senior Design I,0,12774,LCD,09:30 AM - 10:20 AM,2,"Brown, M",On Campus,Fall,2016,Morning,50
+IE 396,Senior Design I,0,37915,LCD,12:00 PM - 12:50 PM,2,"Komperda, J",On Campus,Fall,2016,Afternoon,50
+IE 396,Senior Design I,0,40061,LCD,03:00 PM - 03:50 PM,2,"Brown, M",On Campus,Fall,2016,Afternoon,50
+IE 411,Mechatronics I,0,32261,LEC,04:00 PM - 04:50 PM,2,"Cetinkunt, S",On Campus,Fall,2016,Afternoon,50
+IE 411,Mechatronics I,0,32262,LEC,04:00 PM - 04:50 PM,2,"Cetinkunt, S",On Campus,Fall,2016,Afternoon,50
+IE 412,Dynamic Systems Analysis I,3,39455,LCD,05:00 PM - 06:15 PM,2,"Cetinkunt, S",On Campus,Fall,2016,Evening,75
+IE 412,Dynamic Systems Analysis I,3,39456,LCD,05:00 PM - 06:15 PM,2,"Cetinkunt, S",On Campus,Fall,2016,Evening,75
+IE 441,Ergonomics and Human Factors,3,29570,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",On Campus,Fall,2016,Morning,50
+IE 441,Ergonomics and Human Factors,3,29571,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",On Campus,Fall,2016,Morning,50
+IE 442,Design and Analysis of Experiments in Engineering,0,34405,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",On Campus,Fall,2016,Afternoon,50
+IE 442,Design and Analysis of Experiments in Engineering,0,40274,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",On Campus,Fall,2016,Afternoon,50
+IE 444,Interdisciplinary Product Development I,3,28573,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2016,N/A,0
+IE 444,Interdisciplinary Product Development I,3,28574,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2016,N/A,0
+IE 461,Safety Engineering,3,12782,LCD,05:00 PM - 06:15 PM,2,"Cali, S",On Campus,Fall,2016,Evening,75
+IE 461,Safety Engineering,3,20377,LCD,05:00 PM - 06:15 PM,2,"Cali, S",On Campus,Fall,2016,Evening,75
+IE 467,Discrete Event Computer Simulation Application,3,12785,LCD,12:30 PM - 01:45 PM,2,"Pan, Y",On Campus,Fall,2016,Afternoon,75
+IE 467,Discrete Event Computer Simulation Application,3,20378,LCD,12:30 PM - 01:45 PM,2,"Pan, Y",On Campus,Fall,2016,Afternoon,75
+IE 471,Operations Research I,3,12787,LCD,01:00 PM - 01:50 PM,3,"Banerjee, P",On Campus,Fall,2016,Afternoon,50
+IE 471,Operations Research I,3,20379,LCD,01:00 PM - 01:50 PM,3,"Banerjee, P",On Campus,Fall,2016,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,3,35388,LCD,02:00 PM - 02:50 PM,3,"Scott, M",On Campus,Fall,2016,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,3,35475,LCD,02:00 PM - 02:50 PM,3,"Scott, M",On Campus,Fall,2016,Afternoon,50
+IE 494,Special Topics in Industrial Engineering,3,39098,LCD,02:00 PM - 02:50 PM,3,"Komperda, J",On Campus,Fall,2016,Afternoon,50
+IE 494,Special Topics in Industrial Engineering,3,39522,LCD,04:00 PM - 04:50 PM,3,"Darabi, H",On Campus,Fall,2016,Afternoon,50
+IE 494,Special Topics in Industrial Engineering,3,39523,LCD,04:00 PM - 04:50 PM,3,"Darabi, H",On Campus,Fall,2016,Afternoon,50
+IE 499,Professional Development Seminar,0,27839,LCD,05:00 PM - 05:50 PM,1,"Darabi, H",On Campus,Fall,2016,Evening,50
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,09:30 AM - 10:45 AM,2,"Hu, M",On Campus,Fall,2016,Morning,75
+IE 594,Current Topics in Industrial Engineering,4,33082,LCD,02:00 PM - 03:15 PM,2,"Li, L",On Campus,Fall,2016,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,37436,LCD,03:30 PM - 04:45 PM,2,"Darabi, H",On Campus,Fall,2016,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,40498,LCD,05:00 PM - 07:45 PM,1,"Sharabiani, A",On Campus,Fall,2016,Evening,165
+IE 594,Current Topics in Industrial Engineering,4,40659,LCD,05:00 PM - 07:45 PM,1,"Sharabiani, A",On Campus,Fall,2016,Evening,165
+IE 201,Financial Engineering,3,16559,LCD,11:00 AM - 11:50 AM,3,"Darabi, H",On Campus,Spring,2017,Morning,50
+IE 312,Dynamic Systems and Control,3,35720,LCD,05:00 PM - 06:15 PM,2,"Shabana, A",On Campus,Spring,2017,Evening,75
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,01:00 PM - 01:50 PM,3,"He, D",On Campus,Spring,2017,Afternoon,50
+IE 345,Regression Applications and Forecasting in Engineering,3,23213,LCD,10:00 AM - 10:50 AM,3,"Hu, M",On Campus,Spring,2017,Morning,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,09:00 AM - 09:50 AM,3,"Abiade, J",On Campus,Spring,2017,Morning,50
+IE 397,Senior Design Il,2,37340,LCD,ARRANGED,0,"Brown, M",On Campus,Spring,2017,N/A,0
+IE 397,Senior Design Il,2,38074,LCD,ARRANGED,0,"Brown, M",On Campus,Spring,2017,N/A,0
+IE 397,Senior Design Il,2,36816,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2017,N/A,0
+IE 397,Senior Design Il,2,38598,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2017,N/A,0
+IE 442,Design and Analysis of Experiments in Engineering,0,39404,LCD,09:00 AM - 09:50 AM,3,"Williams, Q",On Campus,Spring,2017,Morning,50
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,ARRANGED,0,"Scott, M",On Campus,Spring,2017,N/A,0
+IE 446,Quality Control and Reliability,3,16566,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Spring,2017,Morning,75
+IE 446,Quality Control and Reliability,3,19267,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Spring,2017,Morning,75
+IE 463,Plant Layout and Materials Handling,3,16568,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Spring,2017,Afternoon,50
+IE 463,Plant Layout and Materials Handling,3,19269,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Spring,2017,Afternoon,50
+IE 466,Production Planning and Inventory Control,3,37765,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2017,Morning,50
+IE 466,Production Planning and Inventory Control,3,37766,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2017,Morning,50
+IE 472,Operations Research II,3,16570,LCD,03:00 PM - 03:50 PM,3,"Williams, Q",On Campus,Spring,2017,Afternoon,50
+IE 472,Operations Research II,3,19538,LCD,03:00 PM - 03:50 PM,3,"Williams, Q",On Campus,Spring,2017,Afternoon,50
+IE 494,Special Topics in Industrial Engineering,3,31472,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2017,N/A,0
+IE 494,Special Topics in Industrial Engineering,3,31909,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2017,N/A,0
+IE 499,Professional Development Seminar,0,38366,LCD,05:00 PM - 05:50 PM,1,"Darabi, H",On Campus,Spring,2017,Evening,50
+IE 511,Mechatronics II,4,21798,LEC,04:00 PM - 04:50 PM,2,"Cetinkunt, S",On Campus,Spring,2017,Afternoon,50
+IE 567,Data Mining for Machine Health Diagnosis and Prognosis,4,33583,LCD,04:00 PM - 06:30 PM,1,"He, D",On Campus,Spring,2017,Afternoon,150
+IE 594,Current Topics in Industrial Engineering,4,39825,LCD,09:00 AM - 10:15 AM,2,"Diwekar, U",On Campus,Spring,2017,Morning,75
+IE 594,Current Topics in Industrial Engineering,4,34907,LCD,03:30 PM - 04:45 PM,2,"Banerjee, P",On Campus,Spring,2017,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,32489,LCD,05:00 PM - 07:30 PM,1,"Pan, Y",On Campus,Spring,2017,Evening,150
+IE 594,Current Topics in Industrial Engineering,4,39728,LCD,05:00 PM - 07:45 PM,1,"Sharabiani, A",On Campus,Spring,2017,Evening,165
+IE 342,Probability and Statistics for Engineers,3,17226,LCD,10:00 AM - 12:30 PM,2,"Manafzadeh, S",On Campus,Summer,2017,Morning,150
+IE 201,Financial Engineering,3,12747,LCD,11:00 AM - 11:50 AM,3,"Banerjee, P",On Campus,Fall,2017,Morning,50
+IE 312,Dynamic Systems and Control,3,22491,LCD,03:00 PM - 03:50 PM,3,"Berniker, M",On Campus,Fall,2017,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,03:00 PM - 03:50 PM,3,"He, D",On Campus,Fall,2017,Afternoon,50
+IE 365,Work Productivity Analysis,4,12769,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",On Campus,Fall,2017,Afternoon,50
+IE 380,Manufacturing Process Principles,3,12770,LCD,09:00 AM - 09:50 AM,3,"Subramanian, A",On Campus,Fall,2017,Morning,50
+IE 396,Senior Design I,0,41221,LCD,03:30 PM - 04:20 PM,2,"Brown, M",On Campus,Fall,2017,Afternoon,50
+IE 396,Senior Design I,0,12774,LCD,09:30 AM - 10:20 AM,2,"Brown, M",On Campus,Fall,2017,Morning,50
+IE 396,Senior Design I,0,37915,LCD,12:00 PM - 12:50 PM,2,"Komperda, J",On Campus,Fall,2017,Afternoon,50
+IE 396,Senior Design I,0,40061,LCD,10:00 AM - 10:50 AM,2,"Komperda, J",On Campus,Fall,2017,Morning,50
+IE 411,Mechatronics I,0,32261,LEC,04:00 PM - 04:50 PM,2,"Cetinkunt, S",On Campus,Fall,2017,Afternoon,50
+IE 411,Mechatronics I,0,32262,LEC,04:00 PM - 04:50 PM,2,"Cetinkunt, S",On Campus,Fall,2017,Afternoon,50
+IE 412,Dynamic Systems Analysis I,3,39455,LCD,05:00 PM - 06:15 PM,2,"Cetinkunt, S",On Campus,Fall,2017,Evening,75
+IE 412,Dynamic Systems Analysis I,3,39456,LCD,05:00 PM - 06:15 PM,2,"Cetinkunt, S",On Campus,Fall,2017,Evening,75
+IE 441,Ergonomics and Human Factors,3,29570,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",On Campus,Fall,2017,Morning,50
+IE 441,Ergonomics and Human Factors,3,29571,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",On Campus,Fall,2017,Morning,50
+IE 442,Design and Analysis of Experiments in Engineering,0,34405,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Fall,2017,Morning,75
+IE 442,Design and Analysis of Experiments in Engineering,0,40274,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Fall,2017,Morning,75
+IE 444,Interdisciplinary Product Development I,3,28573,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2017,N/A,0
+IE 444,Interdisciplinary Product Development I,3,28574,LCD,ARRANGED,0,"Scott, M",On Campus,Fall,2017,N/A,0
+IE 461,Safety Engineering,3,12782,LCD,05:00 PM - 06:15 PM,2,"Cali, S",On Campus,Fall,2017,Evening,75
+IE 461,Safety Engineering,3,20377,LCD,05:00 PM - 06:15 PM,2,"Cali, S",On Campus,Fall,2017,Evening,75
+IE 467,Discrete Event Computer Simulation Application,3,12785,LCD,12:30 PM - 01:45 PM,2,"Williams, Q",On Campus,Fall,2017,Afternoon,75
+IE 467,Discrete Event Computer Simulation Application,3,20378,LCD,12:30 PM - 01:45 PM,2,"Williams, Q",On Campus,Fall,2017,Afternoon,75
+IE 471,Operations Research I,3,12787,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",On Campus,Fall,2017,Afternoon,50
+IE 471,Operations Research I,3,20379,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",On Campus,Fall,2017,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,3,35388,LCD,02:00 PM - 03:15 PM,2,"Darabi, H",On Campus,Fall,2017,Afternoon,75
+IE 473,Stochastic Processes and Queuing Models,3,35475,LCD,02:00 PM - 03:15 PM,2,"Darabi, H",On Campus,Fall,2017,Afternoon,75
+IE 494,Special Topics in Industrial Engineering,3,39098,LCD,02:00 PM - 02:50 PM,3,"Komperda, J",On Campus,Fall,2017,Afternoon,50
+IE 496,Undergraduate Senior Design Thesis I,0,41955,LCD,ARRANGED,0,N/A,On Campus,Fall,2017,N/A,0
+IE 499,Professional Development Seminar,0,27839,LCD,05:00 PM - 05:50 PM,1,"Darabi, H",On Campus,Fall,2017,Evening,50
+IE 594,Current Topics in Industrial Engineering,4,33082,LCD,04:00 PM - 06:45 PM,1,"Sharabiani, A",On Campus,Fall,2017,Afternoon,165
+IE 594,Current Topics in Industrial Engineering,4,37436,LCD,05:00 PM - 07:45 PM,1,"Banerjee, P",On Campus,Fall,2017,Evening,165
+IE 594,Current Topics in Industrial Engineering,4,40498,LCD,05:00 PM - 07:45 PM,1,"He, D",On Campus,Fall,2017,Evening,165
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,05:00 PM - 07:45 PM,1,"Sharabiani, A",On Campus,Fall,2017,Evening,165
+IE 201,Financial Engineering,3,16559,LCD,11:00 AM - 11:50 AM,3,"Darabi, H",On Campus,Spring,2018,Morning,50
+IE 312,Dynamic Systems and Control,3,35720,LCD,01:00 PM - 01:50 PM,3,"Berniker, M",On Campus,Spring,2018,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Spring,2018,Afternoon,50
+IE 345,Regression Applications and Forecasting in Engineering,3,41316,LCD,08:00 AM - 09:15 AM,2,"He, D",On Campus,Spring,2018,Morning,75
+IE 345,Regression Applications and Forecasting in Engineering,3,23213,LCD,10:00 AM - 10:50 AM,3,N/A,On Campus,Spring,2018,Morning,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,08:00 AM - 08:50 AM,3,"Abiade, J",On Campus,Spring,2018,Morning,50
+IE 397,Senior Design Il,2,37340,LCD,ARRANGED,0,"Brown, M; Komperda, J",On Campus,Spring,2018,N/A,0
+IE 397,Senior Design Il,2,38074,LCD,ARRANGED,0,"Brown, M; Komperda, J",On Campus,Spring,2018,N/A,0
+IE 397,Senior Design Il,2,36816,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2018,N/A,0
+IE 397,Senior Design Il,2,38598,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2018,N/A,0
+IE 442,Design and Analysis of Experiments in Engineering,0,39404,LCD,12:30 PM - 01:45 PM,2,"Li, L; Scott, S",On Campus,Spring,2018,Afternoon,75
+IE 442,Design and Analysis of Experiments in Engineering,0,41284,LCD,12:30 PM - 01:45 PM,2,"Li, L",On Campus,Spring,2018,Afternoon,75
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,ARRANGED,0,"Scott, M",On Campus,Spring,2018,N/A,0
+IE 446,Quality Control and Reliability,3,16566,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Spring,2018,Morning,75
+IE 446,Quality Control and Reliability,3,19267,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Spring,2018,Morning,75
+IE 463,Plant Layout and Materials Handling,3,16568,LCD,04:00 PM - 04:50 PM,3,"Williams, Q",On Campus,Spring,2018,Afternoon,50
+IE 463,Plant Layout and Materials Handling,3,19269,LCD,04:00 PM - 04:50 PM,3,"Williams, Q",On Campus,Spring,2018,Afternoon,50
+IE 466,Production Planning and Inventory Control,3,37765,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2018,Morning,50
+IE 466,Production Planning and Inventory Control,3,37766,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2018,Morning,50
+IE 472,Operations Research II,3,16570,LCD,03:00 PM - 03:50 PM,3,"Banerjee, P",On Campus,Spring,2018,Afternoon,50
+IE 472,Operations Research II,3,19538,LCD,03:00 PM - 03:50 PM,3,"Banerjee, P",On Campus,Spring,2018,Afternoon,50
+IE 497,Undergraduate Senior Design Thesis II,0,40409,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2018,N/A,0
+IE 499,Professional Development Seminar,0,27062,LCD,05:00 PM - 05:50 PM,1,"Darabi, H",On Campus,Spring,2018,Evening,50
+IE 499,Professional Development Seminar,0,38366,LCD,05:00 PM - 05:50 PM,1,"Darabi, H",On Campus,Spring,2018,Evening,50
+IE 511,Mechatronics II,4,21798,LEC,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Spring,2018,Afternoon,50
+IE 594,Current Topics in Industrial Engineering,4,32489,LCD,04:30 PM - 07:00 PM,1,"Pan, Y",On Campus,Spring,2018,Afternoon,150
+IE 594,Current Topics in Industrial Engineering,4,39727,LCD,05:00 PM - 07:30 PM,1,"Hu, M",On Campus,Spring,2018,Evening,150
+IE 594,Current Topics in Industrial Engineering,4,39728,LCD,05:00 PM - 07:45 PM,1,"Sharabiani, A",On Campus,Spring,2018,Evening,165
+IE 201,Financial Engineering,3,12747,LCD,12:00 PM - 12:50 PM,3,"Hu, M",On Campus,Fall,2018,Afternoon,50
+IE 312,Dynamic Systems and Control,3,22491,LCD,04:00 PM - 04:50 PM,3,"Kim, M",On Campus,Fall,2018,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,03:00 PM - 03:50 PM,3,"Reckinger, S",On Campus,Fall,2018,Afternoon,50
+IE 345,Regression Applications and Forecasting in Engineering,3,42035,LCD,02:00 PM - 03:15 PM,2,"He, D",On Campus,Fall,2018,Afternoon,75
+IE 365,Work Productivity Analysis,4,12769,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",On Campus,Fall,2018,Afternoon,50
+IE 380,Manufacturing Process Principles,3,12770,LCD,08:00 AM - 08:50 AM,3,"Subramanian, A",On Campus,Fall,2018,Morning,50
+IE 396,Senior Design I,0,41221,LCD,03:30 PM - 04:20 PM,2,"Brown, M; Scott, S",On Campus,Fall,2018,Afternoon,50
+IE 396,Senior Design I,0,12774,LCD,09:30 AM - 10:20 AM,2,"Brown, M; Scott, S",On Campus,Fall,2018,Morning,50
+IE 396,Senior Design I,0,37915,LCD,02:00 PM - 02:50 PM,2,"Komperda, J; Scott, S",On Campus,Fall,2018,Afternoon,50
+IE 396,Senior Design I,0,40061,LCD,10:00 AM - 10:50 AM,2,"Komperda, J; Scott, S",On Campus,Fall,2018,Morning,50
+IE 411,Mechatronics I,0,32261,LEC,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Fall,2018,Afternoon,50
+IE 411,Mechatronics I,0,32262,LEC,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Fall,2018,Afternoon,50
+IE 412,Dynamic Systems Analysis I,3,39455,LCD,05:00 PM - 06:15 PM,2,"Berniker, M",On Campus,Fall,2018,Evening,75
+IE 412,Dynamic Systems Analysis I,3,39456,LCD,05:00 PM - 06:15 PM,2,"Berniker, M",On Campus,Fall,2018,Evening,75
+IE 441,Ergonomics and Human Factors,3,29570,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",On Campus,Fall,2018,Morning,50
+IE 441,Ergonomics and Human Factors,3,29571,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",On Campus,Fall,2018,Morning,50
+IE 444,Interdisciplinary Product Development I,3,28573,LCD,ARRANGED,1,"Scott, M",On Campus,Fall,2018,N/A,0
+IE 444,Interdisciplinary Product Development I,3,28574,LCD,ARRANGED,1,"Scott, M",On Campus,Fall,2018,N/A,0
+IE 444,Interdisciplinary Product Development I,3,39048,LCD,ARRANGED,1,"Scott, M",On Campus,Fall,2018,N/A,0
+IE 444,Interdisciplinary Product Development I,3,39049,LCD,ARRANGED,1,"Scott, M",On Campus,Fall,2018,N/A,0
+IE 461,Safety Engineering,3,12782,LCD,04:00 PM - 05:15 PM,2,"Williams, Q",On Campus,Fall,2018,Afternoon,75
+IE 461,Safety Engineering,3,20377,LCD,04:00 PM - 05:15 PM,2,"Williams, Q",On Campus,Fall,2018,Afternoon,75
+IE 467,Discrete Event Computer Simulation Application,3,12785,LCD,12:00 PM - 12:50 PM,3,"Pan, Y",On Campus,Fall,2018,Afternoon,50
+IE 467,Discrete Event Computer Simulation Application,3,20378,LCD,12:00 PM - 12:50 PM,3,"Pan, Y",On Campus,Fall,2018,Afternoon,50
+IE 471,Operations Research I,3,12787,LCD,03:00 PM - 03:50 PM,3,"Williams, Q",On Campus,Fall,2018,Afternoon,50
+IE 471,Operations Research I,3,20379,LCD,03:00 PM - 03:50 PM,3,"Williams, Q",On Campus,Fall,2018,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,3,35388,LCD,12:30 PM - 01:45 PM,2,"Darabi, H",On Campus,Fall,2018,Afternoon,75
+IE 473,Stochastic Processes and Queuing Models,3,35475,LCD,12:30 PM - 01:45 PM,2,"Darabi, H",On Campus,Fall,2018,Afternoon,75
+IE 496,Undergraduate Senior Design Thesis I,0,41955,LCD,11:00 AM - 11:50 AM,3,"Komperda, J",On Campus,Fall,2018,Morning,50
+IE 499,Professional Development Seminar,0,27839,LCD,05:00 PM - 05:50 PM,1,"Darabi, H",On Campus,Fall,2018,Evening,50
+IE 594,Current Topics in Industrial Engineering,4,40659,LCD,12:30 PM - 01:45 PM,2,"Diwekar, U",On Campus,Fall,2018,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,39126,LCD,02:00 PM - 03:15 PM,2,"Li, L",On Campus,Fall,2018,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,40498,LCD,05:00 PM - 07:45 PM,1,"He, D",On Campus,Fall,2018,Evening,165
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,05:00 PM - 07:45 PM,1,"Sharabiani, A",On Campus,Fall,2018,Evening,165
+IE 201,Financial Engineering,3,16559,LCD,12:00 PM - 12:50 PM,3,"Darabi, H",On Campus,Spring,2019,Afternoon,50
+IE 312,Dynamic Systems and Control,3,21976,LCD,10:00 AM - 10:50 AM,3,"Reckinger, S",On Campus,Spring,2019,Morning,50
+IE 312,Dynamic Systems and Control,3,35720,LCD,04:00 PM - 04:50 PM,3,"Kim, M",On Campus,Spring,2019,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,03:00 PM - 03:50 PM,3,"Reckinger, S",On Campus,Spring,2019,Afternoon,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,08:00 AM - 08:50 AM,3,"Abiade, J",On Campus,Spring,2019,Morning,50
+IE 397,Senior Design Il,2,37340,LCD,ARRANGED,0,"Brown, M",On Campus,Spring,2019,N/A,0
+IE 397,Senior Design Il,2,38074,LCD,ARRANGED,0,"Brown, M",On Campus,Spring,2019,N/A,0
+IE 397,Senior Design Il,2,36816,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2019,N/A,0
+IE 397,Senior Design Il,2,38598,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2019,N/A,0
+IE 442,Design and Analysis of Experiments in Engineering,0,39404,LCD,12:30 PM - 01:45 PM,2,"Pan, Y",On Campus,Spring,2019,Afternoon,75
+IE 442,Design and Analysis of Experiments in Engineering,0,41284,LCD,12:30 PM - 01:45 PM,2,"Pan, Y",On Campus,Spring,2019,Afternoon,75
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,ARRANGED,0,"Scott, M",On Campus,Spring,2019,N/A,0
+IE 446,Quality Control and Reliability,3,16566,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",On Campus,Spring,2019,Afternoon,50
+IE 446,Quality Control and Reliability,3,19267,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",On Campus,Spring,2019,Afternoon,50
+IE 463,Plant Layout and Materials Handling,3,16568,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2019,Morning,50
+IE 463,Plant Layout and Materials Handling,3,19269,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",On Campus,Spring,2019,Morning,50
+IE 466,Production Planning and Inventory Control,3,37765,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",On Campus,Spring,2019,Afternoon,50
+IE 466,Production Planning and Inventory Control,3,37766,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",On Campus,Spring,2019,Afternoon,50
+IE 472,Operations Research II,3,16570,LCD,03:00 PM - 03:50 PM,3,"Hu, M",On Campus,Spring,2019,Afternoon,50
+IE 472,Operations Research II,3,19538,LCD,03:00 PM - 03:50 PM,3,"Hu, M",On Campus,Spring,2019,Afternoon,50
+IE 497,Undergraduate Senior Design Thesis II,0,40409,LCD,ARRANGED,0,"Komperda, J",On Campus,Spring,2019,N/A,0
+IE 499,Professional Development Seminar,0,38366,LCD,05:00 PM - 05:50 PM,1,"Darabi, H",On Campus,Spring,2019,Evening,50
+IE 511,Mechatronics II,4,21798,LEC,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Spring,2019,Afternoon,50
+IE 594,Current Topics in Industrial Engineering,4,39727,LCD,09:30 AM - 10:45 AM,2,"Hu, M",On Campus,Spring,2019,Morning,75
+IE 594,Current Topics in Industrial Engineering,4,32489,LCD,02:00 PM - 04:30 PM,1,"Pan, Y",On Campus,Spring,2019,Afternoon,150
+IE 594,Current Topics in Industrial Engineering,4,39728,LCD,05:00 PM - 07:45 PM,1,"Sharabiani, A",On Campus,Spring,2019,Evening,165
+IE 342,Probability and Statistics for Engineers,3,17226,LCD,10:00 AM - 12:30 PM,2,"Manafzadeh, S",On Campus,Summer,2019,Morning,150
+IE 201,Financial Engineering,3,12747,LCD,12:00 PM - 12:50 PM,3,"Hu, M",On Campus,Fall,2019,Afternoon,50
+IE 312,Dynamic Systems and Control,3,43502,LCD,10:00 AM - 10:50 AM,3,"Reckinger, S",On Campus,Fall,2019,Morning,50
+IE 312,Dynamic Systems and Control,3,22491,LCD,04:00 PM - 04:50 PM,3,"Berniker, M",On Campus,Fall,2019,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,43531,LCD,09:30 AM - 10:45 AM,2,"He, D",On Campus,Fall,2019,Morning,75
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,03:00 PM - 03:50 PM,3,"Reckinger, S",On Campus,Fall,2019,Afternoon,50
+IE 345,Regression Applications and Forecasting in Engineering,3,42035,LCD,02:00 PM - 03:15 PM,2,"He, D",On Campus,Fall,2019,Afternoon,75
+IE 365,Work Productivity Analysis,4,12769,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",On Campus,Fall,2019,Afternoon,50
+IE 380,Manufacturing Process Principles,3,12770,LCD,08:00 AM - 08:50 AM,3,"Subramanian, A",On Campus,Fall,2019,Morning,50
+IE 396,Senior Design I,0,41221,LCD,12:30 PM - 01:20 PM,2,"Brown, M",On Campus,Fall,2019,Afternoon,50
+IE 396,Senior Design I,0,12774,LCD,09:30 AM - 10:20 AM,2,"Brown, M",On Campus,Fall,2019,Morning,50
+IE 396,Senior Design I,0,37915,LCD,02:00 PM - 02:50 PM,2,"Komperda, J",On Campus,Fall,2019,Afternoon,50
+IE 396,Senior Design I,0,40061,LCD,05:00 PM - 05:50 PM,2,"Komperda, J",On Campus,Fall,2019,Evening,50
+IE 411,Mechatronics I,0,32261,LEC,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Fall,2019,Afternoon,50
+IE 411,Mechatronics I,0,32262,LEC,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Fall,2019,Afternoon,50
+IE 412,Dynamic Systems Analysis I,3,39455,LCD,05:00 PM - 06:15 PM,2,"Cetin, S",On Campus,Fall,2019,Evening,75
+IE 412,Dynamic Systems Analysis I,3,39456,LCD,05:00 PM - 06:15 PM,2,"Cetin, S",On Campus,Fall,2019,Evening,75
+IE 461,Safety Engineering,3,12782,LCD,05:00 PM - 05:50 PM,3,"Williams, Q",On Campus,Fall,2019,Evening,50
+IE 461,Safety Engineering,3,20377,LCD,05:00 PM - 05:50 PM,3,"Williams, Q",On Campus,Fall,2019,Evening,50
+IE 467,Discrete Event Computer Simulation Application,3,12785,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Fall,2019,Morning,75
+IE 467,Discrete Event Computer Simulation Application,3,20378,LCD,09:30 AM - 10:45 AM,2,"Li, L",On Campus,Fall,2019,Morning,75
+IE 471,Operations Research I,3,12787,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",On Campus,Fall,2019,Afternoon,50
+IE 471,Operations Research I,3,20379,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",On Campus,Fall,2019,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,3,35388,LCD,03:30 PM - 04:45 PM,2,"Darabi, H",On Campus,Fall,2019,Afternoon,75
+IE 473,Stochastic Processes and Queuing Models,3,35475,LCD,03:30 PM - 04:45 PM,2,"Darabi, H",On Campus,Fall,2019,Afternoon,75
+IE 496,Undergraduate Senior Design Thesis I,0,41955,LCD,11:00 AM - 11:50 AM,3,"Komperda, J",On Campus,Fall,2019,Morning,50
+IE 594,Current Topics in Industrial Engineering,4,39126,LCD,02:00 PM - 03:15 PM,2,"Li, L",On Campus,Fall,2019,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,37436,LCD,05:00 PM - 07:45 PM,1,"Pan, Y",On Campus,Fall,2019,Evening,165
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,05:00 PM - 07:45 PM,1,"Sharabiani, A",On Campus,Fall,2019,Evening,165
+IE 201,Financial Engineering,3,44771,LCD,02:00 PM - 03:15 PM,2,"Hu, M",On Campus,Spring,2020,Afternoon,75
+IE 312,Dynamic Systems and Control,3,22491,LCD,02:00 PM - 02:50 PM,3,"Kim, M",On Campus,Spring,2020,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,03:00 PM - 03:50 PM,3,"Haghighi, A",On Campus,Spring,2020,Afternoon,50
+IE 365,Work Productivity Analysis,4,12769,LCD - AS1,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Spring,2020,Afternoon,50
+IE 396,Senior Design I,3,41221,LCD - AS,12:30 PM - 01:20 PM,2,"Brown, M; Scott, S",On Campus,Spring,2020,Afternoon,50
+IE 396,Senior Design I,3,12774,LCD - AS1,09:30 AM - 10:20 AM,2,"Brown, M; Scott, S",On Campus,Spring,2020,Morning,50
+IE 396,Senior Design I,3,37915,LCD - AS2,11:00 AM - 11:50 AM,2,"Komperda, J; Scott, S",On Campus,Spring,2020,Morning,50
+IE 396,Senior Design I,3,40061,LCD - AS3,04:00 PM - 04:50 PM,2,"Komperda, J; Scott, S",On Campus,Spring,2020,Afternoon,50
+IE 396,Senior Design I,3,40904,LCD - AS4,ARRANGED,0,"Alonso, M",On Campus,Spring,2020,N/A,0
+IE 411,Mechatronics I,4,32261,LEC - AL1,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Spring,2020,Afternoon,50
+IE 411,Mechatronics I,4,32262,LEC - AL2,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Spring,2020,Afternoon,50
+IE 412,Dynamic Systems Analysis I,4,39456,LCD,05:00 PM - 06:15 PM,2,"Cetin, S",On Campus,Spring,2020,Evening,75
+IE 444,Interdisciplinary Product Development I,4,39049,LCD,02:00 PM - 04:50 PM,1,"Scott, M",On Campus,Spring,2020,Afternoon,170
+IE 461,Safety Engineering,4,20377,LCD,09:30 AM - 10:50 AM,2,"Williams, Q",On Campus,Spring,2020,Morning,80
+IE 465,Manufacturing Information Systems,4,44773,LCD,09:30 AM - 10:45 AM,2,"Hu, M",On Campus,Spring,2020,Morning,75
+IE 467,Discrete Event Computer Simulation Application,4,20378,LCD,02:00 PM - 03:15 PM,2,"Pan, Y",On Campus,Spring,2020,Afternoon,75
+IE 471,Operations Research I,4,20379,LCD,12:00 PM - 12:50 PM,3,"He, D",On Campus,Spring,2020,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,4,35475,LCD,02:00 PM - 02:50 PM,3,"He, D",On Campus,Spring,2020,Afternoon,50
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,05:00 PM - 06:15 PM,2,"Anahideh, H",On Campus,Spring,2020,Evening,75
+IE 201,Financial Engineering,3,44771,LCD,02:00 PM - 03:15 PM,2,"Hu, M",On Campus,Fall,2020,Afternoon,75
+IE 312,Dynamic Systems and Control,3,22491,LCD,02:00 PM - 02:50 PM,3,"Kim, M",On Campus,Fall,2020,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,03:00 PM - 03:50 PM,3,"Haghighi, A",On Campus,Fall,2020,Afternoon,50
+IE 365,Work Productivity Analysis,4,12769,LCD - AS1,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Fall,2020,Afternoon,50
+IE 396,Senior Design I,3,41221,LCD - AS,12:30 PM - 01:20 PM,2,"Brown, M; Scott, S",On Campus,Fall,2020,Afternoon,50
+IE 396,Senior Design I,3,12774,LCD - AS1,09:30 AM - 10:20 AM,2,"Brown, M; Scott, S",On Campus,Fall,2020,Morning,50
+IE 396,Senior Design I,3,37915,LCD - AS2,11:00 AM - 11:50 AM,2,"Komperda, J; Scott, S",On Campus,Fall,2020,Morning,50
+IE 396,Senior Design I,3,40061,LCD - AS3,04:00 PM - 04:50 PM,2,"Komperda, J; Scott, S",On Campus,Fall,2020,Afternoon,50
+IE 396,Senior Design I,3,40904,LCD - AS4,ARRANGED,0,"Alonso, M",On Campus,Fall,2020,N/A,0
+IE 411,Mechatronics I,4,32261,LEC - AL1,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Fall,2020,Afternoon,50
+IE 411,Mechatronics I,4,32262,LEC - AL2,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Fall,2020,Afternoon,50
+IE 412,Dynamic Systems Analysis I,4,39456,LCD,05:00 PM - 06:15 PM,2,"Cetin, S",On Campus,Fall,2020,Evening,75
+IE 444,Interdisciplinary Product Development I,4,39049,LCD,02:00 PM - 04:50 PM,1,"Scott, M",On Campus,Fall,2020,Afternoon,170
+IE 461,Safety Engineering,4,20377,LCD,09:30 AM - 10:50 AM,2,"Williams, Q",On Campus,Fall,2020,Morning,80
+IE 465,Manufacturing Information Systems,4,44773,LCD,09:30 AM - 10:45 AM,2,"Hu, M",On Campus,Fall,2020,Morning,75
+IE 467,Discrete Event Computer Simulation Application,4,20378,LCD,02:00 PM - 03:15 PM,2,"Pan, Y",On Campus,Fall,2020,Afternoon,75
+IE 471,Operations Research I,4,20379,LCD,12:00 PM - 12:50 PM,3,"He, D",On Campus,Fall,2020,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,4,35475,LCD,02:00 PM - 02:50 PM,3,"He, D",On Campus,Fall,2020,Afternoon,50
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,05:00 PM - 06:15 PM,2,"Anahideh, H",On Campus,Fall,2020,Evening,75
+IE 201,Financial Engineering,3,38135,LCD,02:00 PM - 03:15 PM,2,"Darabi, H",Online Synchronous,Spring,2021,Afternoon,75
+IE 312,Dynamic Systems and Control,3,21976,LCD,10:00 AM - 10:50 AM,3,"Reckinger, S",Online Asynchronous,Spring,2021,Morning,50
+IE 312,Dynamic Systems and Control,3,35720,LCD,04:00 PM - 04:50 PM,3,"Kim, M",Online Synchronous,Spring,2021,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,42133,LCD,01:00 PM - 01:50 PM,3,"Haghighi, A",Online Asynchronous,Spring,2021,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,03:00 PM - 03:50 PM,3,"Reckinger, S",Online Asynchronous,Spring,2021,Afternoon,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,08:00 AM - 08:50 AM,3,"Shahbazian-Yassar, R",Online Asynchronous,Spring,2021,Morning,50
+IE 380,Manufacturing Process Principles,3,42670,LCD,09:00 AM - 09:50 AM,3,"Abiade, J",Online Asynchronous,Spring,2021,Morning,50
+IE 397,Senior Design Il,2,43743,LCD,ARRANGED,0,"Alonso, M",Online Synchronous,Spring,2021,N/A,0
+IE 397,Senior Design Il,2,37340,LCD,ARRANGED,0,"Brown, M",Online Synchronous,Spring,2021,N/A,0
+IE 397,Senior Design Il,2,38074,LCD,ARRANGED,0,"Brown, M",Online Synchronous,Spring,2021,N/A,0
+IE 397,Senior Design Il,2,36816,LCD,ARRANGED,0,"Komperda, J",Online Synchronous,Spring,2021,N/A,0
+IE 397,Senior Design Il,2,38598,LCD,ARRANGED,0,"Komperda, J",Online Synchronous,Spring,2021,N/A,0
+IE 441,Ergonomics and Human Factors,4,42671,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",Online Asynchronous,Spring,2021,Afternoon,50
+IE 441,Ergonomics and Human Factors,4,42689,LCD,12:00 PM - 12:50 PM,3,"Williams, Q",Online Asynchronous,Spring,2021,Afternoon,50
+IE 442,Design and Analysis of Experiments in Engineering,4,39404,LCD - AS1,12:30 PM - 01:45 PM,2,"Pan, Y",Online Asynchronous,Spring,2021,Afternoon,75
+IE 442,Design and Analysis of Experiments in Engineering,4,41284,LCD - AS2,12:30 PM - 01:45 PM,2,"Pan, Y",Online Asynchronous,Spring,2021,Afternoon,75
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,02:00 PM - 04:50 PM,1,"Scott, M",Online Synchronous,Spring,2021,Afternoon,170
+IE 446,Quality Control and Reliability,4,16566,LCD,12:00 PM - 12:50 PM,3,"Huang, J",Online Asynchronous,Spring,2021,Afternoon,50
+IE 446,Quality Control and Reliability,4,19267,LCD,12:00 PM - 12:50 PM,3,"Huang, J",Online Asynchronous,Spring,2021,Afternoon,50
+IE 463,Plant Layout and Materials Handling,4,16568,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",Online Asynchronous,Spring,2021,Morning,50
+IE 463,Plant Layout and Materials Handling,4,19269,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",Online Asynchronous,Spring,2021,Morning,50
+IE 466,Production Planning and Inventory Control,4,37765,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",Online Asynchronous,Spring,2021,Afternoon,50
+IE 466,Production Planning and Inventory Control,4,37766,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",Online Asynchronous,Spring,2021,Afternoon,50
+IE 472,Operations Research II,4,16570,LCD,03:30 PM - 04:45 PM,2,"He, D",Online Synchronous,Spring,2021,Afternoon,75
+IE 472,Operations Research II,4,19538,LCD,03:30 PM - 04:45 PM,2,"He, D",Online Synchronous,Spring,2021,Afternoon,75
+IE 481,Additive Manufacturing Process,4,44618,LCD,03:30 PM - 04:45 PM,2,"Pan, Y",Online Synchronous,Spring,2021,Afternoon,75
+IE 481,Additive Manufacturing Process,4,44619,LCD,03:30 PM - 04:45 PM,2,"Pan, Y",Online Synchronous,Spring,2021,Afternoon,75
+IE 494,Special Topics in Industrial Engineering,4,31472,LCD,05:00 PM - 06:15 PM,2,"Anahideh, H",Online Synchronous,Spring,2021,Evening,75
+IE 494,Special Topics in Industrial Engineering,4,31909,LCD,05:00 PM - 06:15 PM,2,"Anahideh, H",Online Synchronous,Spring,2021,Evening,75
+IE 497,Undergraduate Senior Design Thesis II,8,40409,LCD,ARRANGED,0,"Komperda, J",Online Synchronous,Spring,2021,N/A,0
+IE 499,Professional Development Seminar,0,38366,LCD,05:00 PM - 05:50 PM,1,"Reckinger, S",Online Synchronous,Spring,2021,Evening,50
+IE 511,Mechatronics II,4,21798,LEC - AL,03:30 PM - 04:20 PM,2,"Cetin, S",Online Synchronous,Spring,2021,Afternoon,50
+IE 567,Data Mining for Machine Health Diagnosis and Prognosis,4,33583,LCD,02:00 PM - 03:15 PM,2,"He, D",Online Synchronous,Spring,2021,Afternoon,75
+IE 571,Statistical Quality Control and Assurance,4,37284,LCD,06:00 PM - 08:30 PM,1,"Liotine, M",Online Synchronous,Spring,2021,Evening,150
+IE 594,Current Topics in Industrial Engineering,4,39727,LCD,09:30 AM - 10:45 AM,2,"Jeong, H",Online Asynchronous,Spring,2021,Morning,75
+IE 594,Current Topics in Industrial Engineering,4,39728,LCD,11:00 AM - 12:15 PM,2,"Anahideh, H",Online Synchronous,Spring,2021,Morning,75
+IE 594,Current Topics in Industrial Engineering,4,34907,LCD,12:30 PM - 01:45 PM,2,"Li, L",Online Asynchronous,Spring,2021,Afternoon,75
+IE 342,Probability and Statistics for Engineers,3,17226,LCD,10:00 AM - 12:30 PM,2,"Williams, Q",Online with deadlines,Summer,2021,Morning,150
+IE 201,Financial Engineering,3,12747,LCD,03:30 PM - 04:45 PM,2,"Darabi, H",Online Synchronous,Fall,2021,Afternoon,75
+IE 312,Dynamic Systems and Control,3,43502,LCD,10:00 AM - 10:50 AM,3,"Reckinger, S",On Campus,Fall,2021,Morning,50
+IE 312,Dynamic Systems and Control,3,22491,LCD,02:00 PM - 02:50 PM,3,"Kim, M",On Campus,Fall,2021,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,ARRANGED,0,"Haghighi, A",Online Asynchronous,Fall,2021,N/A,0
+IE 342,Probability and Statistics for Engineers,3,43531,LCD,ARRANGED,0,"Li, L",Online Asynchronous,Fall,2021,N/A,0
+IE 345,Regression Applications and Forecasting in Engineering,3,42035,LCD,03:00 PM - 03:50 PM,3,"Williams, Q",On Campus,Fall,2021,Afternoon,50
+IE 365,Work Productivity Analysis,4,12769,LCD - AS1,01:00 PM - 01:50 PM,3,"Williams, Q",On Campus,Fall,2021,Afternoon,50
+IE 380,Manufacturing Process Principles,3,12770,LCD,ARRANGED,0,"Subramanian, A",Online Asynchronous,Fall,2021,N/A,0
+IE 396,Senior Design I,3,41221,LCD - AS,12:30 PM - 01:20 PM,2,"Alonso, M; Brown, M",On Campus,Fall,2021,Afternoon,50
+IE 396,Senior Design I,3,12774,LCD - AS1,09:30 AM - 10:20 AM,2,"Alonso, M; Brown, M",On Campus,Fall,2021,Morning,50
+IE 396,Senior Design I,3,37915,LCD - AS2,11:00 AM - 11:50 AM,2,"Alonso, M; Komperda, J",On Campus,Fall,2021,Morning,50
+IE 396,Senior Design I,3,40061,LCD - AS3,04:00 PM - 04:50 PM,2,"Alonso, M; Komperda, J",On Campus,Fall,2021,Afternoon,50
+IE 411,Mechatronics I,4,32261,LEC - AL1,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Fall,2021,Afternoon,50
+IE 411,Mechatronics I,4,32262,LEC - AL2,04:00 PM - 04:50 PM,2,"Cetin, S",On Campus,Fall,2021,Afternoon,50
+IE 412,Dynamic Systems Analysis I,4,39455,LCD,05:00 PM - 06:15 PM,2,"Cetin, S",On Campus,Fall,2021,Evening,75
+IE 412,Dynamic Systems Analysis I,4,39456,LCD,05:00 PM - 06:15 PM,2,"Cetin, S",On Campus,Fall,2021,Evening,75
+IE 441,Ergonomics and Human Factors,4,29570,LCD,12:30 PM - 01:45 PM,2,"Jeong, H",On Campus,Fall,2021,Afternoon,75
+IE 441,Ergonomics and Human Factors,4,29571,LCD,12:30 PM - 01:45 PM,2,"Jeong, H",On Campus,Fall,2021,Afternoon,75
+IE 444,Interdisciplinary Product Development I,4,39048,LCD,02:00 PM - 04:50 PM,1,"Scott, M",On Campus,Fall,2021,Afternoon,170
+IE 444,Interdisciplinary Product Development I,4,39049,LCD,02:00 PM - 04:50 PM,1,"Scott, M",On Campus,Fall,2021,Afternoon,170
+IE 461,Safety Engineering,4,12782,LCD,09:30 AM - 10:45 AM,2,"Williams, Q",On Campus,Fall,2021,Morning,75
+IE 461,Safety Engineering,4,20377,LCD,09:30 AM - 10:45 AM,2,"Williams, Q",On Campus,Fall,2021,Morning,75
+IE 467,Discrete Event Computer Simulation Application,4,12785,LCD,02:00 PM - 03:15 PM,2,"Pan, Y",On Campus,Fall,2021,Afternoon,75
+IE 467,Discrete Event Computer Simulation Application,4,20378,LCD,02:00 PM - 03:15 PM,2,"Pan, Y",On Campus,Fall,2021,Afternoon,75
+IE 471,Operations Research I,4,12787,LCD,12:00 PM - 12:50 PM,3,"He, D",On Campus,Fall,2021,Afternoon,50
+IE 471,Operations Research I,4,20379,LCD,12:00 PM - 12:50 PM,3,"He, D",On Campus,Fall,2021,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,4,35388,LCD,02:00 PM - 02:50 PM,3,"He, D",On Campus,Fall,2021,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,4,35475,LCD,02:00 PM - 02:50 PM,3,"He, D",On Campus,Fall,2021,Afternoon,50
+IE 496,Undergraduate Senior Design Thesis I,8,41955,LCD,11:00 AM - 11:50 AM,2,"Komperda, J",On Campus,Fall,2021,Morning,50
+IE 499,Professional Development Seminar,0,43938,LCD,05:00 PM - 05:50 PM,1,"Reckinger, S",On Campus,Fall,2021,Evening,50
+IE 542,Advanced Computational Methods for Product and Process Design,4,44828,LCD,03:30 PM - 04:45 PM,2,"Huang, J",On Campus,Fall,2021,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,05:00 PM - 06:15 PM,2,"Anahideh, H",On Campus,Fall,2021,Evening,75
+IE 201,Financial Engineering,3,16559,LCD,12:00 PM - 12:50 PM,3,"Haghighi, A",Meet on campus,Spring,2022,Afternoon,50
+IE 201,Financial Engineering,3,38135,LCD,02:00 PM - 03:15 PM,2,"Anahideh, H",Meet on campus,Spring,2022,Afternoon,75
+IE 312,Dynamic Systems and Control,3,21976,LCD,03:30 PM - 04:45 PM,2,"Cetin, S",Meet on campus,Spring,2022,Afternoon,75
+IE 312,Dynamic Systems and Control,3,35720,LCD,04:00 PM - 04:50 PM,3,"Kim, M",Meet on campus,Spring,2022,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,42133,LCD,01:00 PM - 01:50 PM,3,"Haghighi, A",Meet on campus,Spring,2022,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,03:00 PM - 03:50 PM,3,"He, D",Meet on campus,Spring,2022,Afternoon,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,08:00 AM - 08:50 AM,3,"Abiade, J",Meet on campus,Spring,2022,Morning,50
+IE 380,Manufacturing Process Principles,3,42670,LCD,02:00 PM - 03:15 PM,2,"Shahbazian-Yassar, R",Meet on campus,Spring,2022,Afternoon,75
+IE 397,Senior Design Il,2,43743,LCD,ARRANGED,0,"Alonso, M",Meet on campus,Spring,2022,N/A,0
+IE 397,Senior Design Il,2,37340,LCD,ARRANGED,0,"Brown, M",Meet on campus,Spring,2022,N/A,0
+IE 397,Senior Design Il,2,38074,LCD,ARRANGED,0,"Brown, M",Meet on campus,Spring,2022,N/A,0
+IE 397,Senior Design Il,2,36816,LCD,ARRANGED,0,"Komperda, J",Meet on campus,Spring,2022,N/A,0
+IE 397,Senior Design Il,2,38598,LCD,ARRANGED,0,"Komperda, J",Meet on campus,Spring,2022,N/A,0
+IE 441,Ergonomics and Human Factors,4,42671,LCD,11:00 AM - 11:50 AM,3,"Jeong, H",Meet on campus,Spring,2022,Morning,50
+IE 441,Ergonomics and Human Factors,4,42689,LCD,11:00 AM - 11:50 AM,3,"Jeong, H",Meet on campus,Spring,2022,Morning,50
+IE 442,Design and Analysis of Experiments in Engineering,4,39404,LCD - AS1,12:30 PM - 01:45 PM,2,"Pan, Y",Meet on campus,Spring,2022,Afternoon,75
+IE 442,Design and Analysis of Experiments in Engineering,4,41284,LCD - AS2,12:30 PM - 01:45 PM,2,"Pan, Y",Meet on campus,Spring,2022,Afternoon,75
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,02:00 PM - 04:50 PM,1,"Scott, M",Meet on campus,Spring,2022,Afternoon,170
+IE 446,Quality Control and Reliability,4,16566,LCD,04:00 PM - 04:50 PM,3,"Huang, J",Meet on campus,Spring,2022,Afternoon,50
+IE 446,Quality Control and Reliability,4,19267,LCD,04:00 PM - 04:50 PM,3,"Huang, J",Meet on campus,Spring,2022,Afternoon,50
+IE 463,Plant Layout and Materials Handling,4,16568,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",Meet on campus,Spring,2022,Morning,50
+IE 463,Plant Layout and Materials Handling,4,19269,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",Meet on campus,Spring,2022,Morning,50
+IE 466,Production Planning and Inventory Control,4,37765,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",Meet on campus,Spring,2022,Afternoon,50
+IE 466,Production Planning and Inventory Control,4,37766,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",Meet on campus,Spring,2022,Afternoon,50
+IE 472,Operations Research II,4,16570,LCD,11:00 AM - 11:50 AM,3,"He, D",Meet on campus,Spring,2022,Morning,50
+IE 472,Operations Research II,4,19538,LCD,11:00 AM - 11:50 AM,3,"He, D",Meet on campus,Spring,2022,Morning,50
+IE 481,Additive Manufacturing Process,4,44618,LCD,03:30 PM - 04:45 PM,2,"Pan, Y",Meet on campus,Spring,2022,Afternoon,75
+IE 481,Additive Manufacturing Process,4,44619,LCD,03:30 PM - 04:45 PM,2,"Pan, Y",Meet on campus,Spring,2022,Afternoon,75
+IE 494,Special Topics in Industrial Engineering,4,32349,LCD,05:00 PM - 06:15 PM,2,"Williams, Q",Meet on campus,Spring,2022,Evening,75
+IE 494,Special Topics in Industrial Engineering,4,32350,LCD,05:00 PM - 06:15 PM,2,"Williams, Q",Meet on campus,Spring,2022,Evening,75
+IE 497,Undergraduate Senior Design Thesis II,8,40409,LCD,ARRANGED,0,"Komperda, J",Meet on campus,Spring,2022,N/A,0
+IE 499,Professional Development Seminar,0,38366,LCD,05:00 PM - 05:50 PM,1,"Reckinger, S",Meet on campus,Spring,2022,Evening,50
+IE 571,Statistical Quality Control and Assurance,4,37284,LCD,06:30 PM - 09:00 PM,1,"Liotine, M",Meet on campus,Spring,2022,Evening,150
+IE 594,Current Topics in Industrial Engineering,4,46067,LCD,ARRANGED,0,"Stephens, J",On Campus,Spring,2022,N/A,0
+IE 594,Current Topics in Industrial Engineering,4,46068,LCD,ARRANGED,0,"Stephens, J",On Campus,Spring,2022,N/A,0
+IE 594,Current Topics in Industrial Engineering,4,39727,LCD,09:30 AM - 10:45 AM,2,"Darabi, H",Meet on campus,Spring,2022,Morning,75
+IE 594,Current Topics in Industrial Engineering,4,34907,LCD,12:30 PM - 01:45 PM,2,"Li, L",Meet on campus,Spring,2022,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,39728,LCD,05:00 PM - 06:15 PM,2,"Anahideh, H",Meet on campus,Spring,2022,Evening,75
+IE 342,Probability and Statistics for Engineers,3,17226,LCD,10:00 AM - 12:30 PM,2,"Williams, Q",Online with deadlines,Summer,2022,Morning,150
+IE 201,Financial Engineering,3,12747,LCD,12:00 PM - 12:50 PM,3,"Anahideh, H",Meet online at set times,Fall,2022,Afternoon,50
+IE 201,Financial Engineering,3,44771,LCD,02:00 PM - 03:15 PM,2,"Haghighi, A",Meet on campus,Fall,2022,Afternoon,75
+IE 312,Dynamic Systems and Control,3,43502,LCD,10:00 AM - 10:50 AM,3,"Kim, M",Meet on campus,Fall,2022,Morning,50
+IE 312,Dynamic Systems and Control,3,22491,LCD,02:00 PM - 02:50 PM,3,"Demir, M",Meet on campus,Fall,2022,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,09:30 AM - 10:45 AM,2,"Reckinger, S",Meet online at set times,Fall,2022,Morning,75
+IE 342,Probability and Statistics for Engineers,3,43531,LCD,02:00 PM - 02:50 PM,3,"Nicolsen, B",Meet on campus,Fall,2022,Afternoon,50
+IE 345,Regression Applications and Forecasting in Engineering,3,42035,LCD,03:00 PM - 03:50 PM,3,"Williams, Q",Meet on campus,Fall,2022,Afternoon,50
+IE 365,Work Productivity Analysis,4,12769,LCD - AS1,01:00 PM - 01:50 PM,3,"Williams, Q",Meet on campus,Fall,2022,Afternoon,50
+IE 380,Manufacturing Process Principles,3,12770,LCD,08:00 AM - 08:50 AM,3,"Subramanian, A",Meet on campus,Fall,2022,Morning,50
+IE 380,Manufacturing Process Principles,3,35406,LCD,09:00 AM - 09:50 AM,3,"Abiade, J",Meet on campus,Fall,2022,Morning,50
+IE 396,Senior Design I,3,41221,LCD - AS,12:30 PM - 01:20 PM,2,"Brown, M; Scott, S",Meet on campus,Fall,2022,Afternoon,50
+IE 396,Senior Design I,3,12774,LCD - AS1,09:30 AM - 10:20 AM,2,"Brown, M; Scott, S",Meet on campus,Fall,2022,Morning,50
+IE 396,Senior Design I,3,37915,LCD - AS2,11:00 AM - 11:50 AM,2,"Komperda, J; Scott, S",Meet on campus,Fall,2022,Morning,50
+IE 396,Senior Design I,3,40061,LCD - AS3,04:00 PM - 04:50 PM,2,"Komperda, J; Scott, S",Meet on campus,Fall,2022,Afternoon,50
+IE 396,Senior Design I,3,40904,LCD - AS4,02:00 PM - 02:50 PM,2,"Alonso, M; Scott, S",Meet on campus,Fall,2022,Afternoon,50
+IE 411,Mechatronics I,4,32261,LEC - AL1,12:00 PM - 12:50 PM,2,"Kim, M",Meet on campus,Fall,2022,Afternoon,50
+IE 411,Mechatronics I,4,32262,LEC - AL2,12:00 PM - 12:50 PM,2,"Kim, M",Meet on campus,Fall,2022,Afternoon,50
+IE 441,Ergonomics and Human Factors,4,29570,LCD,12:30 PM - 01:45 PM,2,"Williams, Q",On campus and online,Fall,2022,Afternoon,75
+IE 441,Ergonomics and Human Factors,4,29571,LCD,12:30 PM - 01:45 PM,2,"Williams, Q",On campus and online,Fall,2022,Afternoon,75
+IE 444,Interdisciplinary Product Development I,4,39048,LCD,02:00 PM - 04:50 PM,1,"Scott, M",Meet on campus,Fall,2022,Afternoon,170
+IE 444,Interdisciplinary Product Development I,4,39049,LCD,02:00 PM - 04:50 PM,1,"Scott, M",Meet on campus,Fall,2022,Afternoon,170
+IE 461,Safety Engineering,4,12782,LCD,09:30 AM - 10:45 AM,2,"Williams, Q",Meet on campus,Fall,2022,Morning,75
+IE 461,Safety Engineering,4,20377,LCD,09:30 AM - 10:45 AM,2,"Williams, Q",Meet on campus,Fall,2022,Morning,75
+IE 467,Discrete Event Computer Simulation Application,4,12785,LCD,02:00 PM - 03:15 PM,2,"Pan, Y",Meet on campus,Fall,2022,Afternoon,75
+IE 467,Discrete Event Computer Simulation Application,4,20378,LCD,02:00 PM - 03:15 PM,2,"Pan, Y",Meet on campus,Fall,2022,Afternoon,75
+IE 471,Operations Research I,4,12787,LCD,12:00 PM - 12:50 PM,3,"He, D",Meet on campus,Fall,2022,Afternoon,50
+IE 471,Operations Research I,4,20379,LCD,12:00 PM - 12:50 PM,3,"He, D",Meet on campus,Fall,2022,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,4,35388,LCD,02:00 PM - 02:50 PM,3,"He, D",Meet on campus,Fall,2022,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,4,35475,LCD,02:00 PM - 02:50 PM,3,"He, D",Meet on campus,Fall,2022,Afternoon,50
+IE 496,Undergraduate Senior Design Thesis I,8,41955,LCD,ARRANGED,0,"Komperda, J",Meet on campus,Fall,2022,N/A,0
+IE 499,Professional Development Seminar,0,43938,LCD,05:00 PM - 05:50 PM,1,"Reckinger, S",Meet on campus,Fall,2022,Evening,50
+IE 542,Advanced Computational Methods for Product and Process Design,4,44828,LCD,03:30 PM - 04:45 PM,2,"Huang, J",Meet on campus,Fall,2022,Afternoon,75
+IE 594,Current Topics in Industrial Engineering,4,39126,LCD,09:30 AM - 10:45 AM,2,"Li, L",Meet on campus,Fall,2022,Morning,75
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,05:00 PM - 06:15 PM,2,"Anahideh, H",Meet on campus,Fall,2022,Evening,75
+IE 201,Financial Engineering,3,38135,LCD,02:00 PM - 03:15 PM,2,"Darabi, H",Meet on campus,Spring,2023,Afternoon,75
+IE 201,Financial Engineering,3,16559,LCD,04:00 PM - 04:50 PM,3,"Haghighi, A",Meet on campus,Spring,2023,Afternoon,50
+IE 312,Dynamic Systems and Control,3,21976,LCD,12:30 PM - 01:45 PM,2,"Demir, M",Meet on campus,Spring,2023,Afternoon,75
+IE 312,Dynamic Systems and Control,3,35720,LCD,04:00 PM - 04:50 PM,3,"Reckinger, S",Meet on campus,Spring,2023,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,46455,LCD,10:00 AM - 10:50 AM,3,"Nicolsen, B",Meet on campus,Spring,2023,Morning,50
+IE 342,Probability and Statistics for Engineers,3,42133,LCD,01:00 PM - 01:50 PM,3,"Nicolsen, B",Meet on campus,Spring,2023,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,03:00 PM - 03:50 PM,3,"Reckinger, S",Meet on campus,Spring,2023,Afternoon,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,08:00 AM - 08:50 AM,3,"Abiade, J",Meet on campus,Spring,2023,Morning,50
+IE 380,Manufacturing Process Principles,3,42670,LCD,03:00 PM - 03:50 PM,3,"Shahbazian-Yassar, R",Meet on campus,Spring,2023,Afternoon,50
+IE 397,Senior Design Il,2,43743,LCD,ARRANGED,0,"Alonso, M",Meet on campus,Spring,2023,N/A,0
+IE 397,Senior Design Il,2,37340,LCD,ARRANGED,0,"Brown, M",Meet on campus,Spring,2023,N/A,0
+IE 397,Senior Design Il,2,38074,LCD,ARRANGED,0,"Brown, M",Meet on campus,Spring,2023,N/A,0
+IE 397,Senior Design Il,2,36816,LCD,ARRANGED,0,"Komperda, J",Meet on campus,Spring,2023,N/A,0
+IE 397,Senior Design Il,2,38598,LCD,ARRANGED,0,"Komperda, J",Meet on campus,Spring,2023,N/A,0
+IE 412,Dynamic Systems Analysis I,4,31906,LCD,04:00 PM - 04:50 PM,3,"Cetin, S",On Campus,Spring,2023,Afternoon,50
+IE 412,Dynamic Systems Analysis I,4,31907,LCD,04:00 PM - 04:50 PM,3,"Cetin, S",On Campus,Spring,2023,Afternoon,50
+IE 442,Design and Analysis of Experiments in Engineering,4,39404,LCD - AS1,03:00 PM - 03:50 PM,3,"Li, L",Meet on campus,Spring,2023,Afternoon,50
+IE 442,Design and Analysis of Experiments in Engineering,4,41284,LCD - AS2,03:00 PM - 03:50 PM,3,"Li, L",Meet on campus,Spring,2023,Afternoon,50
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,02:00 PM - 04:50 PM,1,"Scott, M",Meet on campus,Spring,2023,Afternoon,170
+IE 446,Quality Control and Reliability,4,16566,LCD,04:00 PM - 04:50 PM,3,"Huang, J",Meet on campus,Spring,2023,Afternoon,50
+IE 446,Quality Control and Reliability,4,19267,LCD,04:00 PM - 04:50 PM,3,"Huang, J",Meet on campus,Spring,2023,Afternoon,50
+IE 463,Plant Layout and Materials Handling,4,16568,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",Meet on campus,Spring,2023,Morning,50
+IE 463,Plant Layout and Materials Handling,4,19269,LCD,10:00 AM - 10:50 AM,3,"Williams, Q",Meet on campus,Spring,2023,Morning,50
+IE 466,Production Planning and Inventory Control,4,37765,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",Meet on campus,Spring,2023,Afternoon,50
+IE 466,Production Planning and Inventory Control,4,37766,LCD,02:00 PM - 02:50 PM,3,"Williams, Q",Meet on campus,Spring,2023,Afternoon,50
+IE 472,Operations Research II,4,16570,LCD,11:00 AM - 11:50 AM,3,"He, D",Meet on campus,Spring,2023,Morning,50
+IE 472,Operations Research II,4,19538,LCD,11:00 AM - 11:50 AM,3,"He, D",Meet on campus,Spring,2023,Morning,50
+IE 481,Additive Manufacturing Process,4,44618,LCD,03:30 PM - 04:45 PM,2,"Pan, Y",Meet on campus,Spring,2023,Afternoon,75
+IE 481,Additive Manufacturing Process,4,44619,LCD,03:30 PM - 04:45 PM,2,"Pan, Y",Meet on campus,Spring,2023,Afternoon,75
+IE 494,Special Topics in Industrial Engineering,4,32349,LCD,05:00 PM - 06:15 PM,2,"Williams, Q",Meet on campus,Spring,2023,Evening,75
+IE 494,Special Topics in Industrial Engineering,4,32350,LCD,05:00 PM - 06:15 PM,2,"Williams, Q",Meet on campus,Spring,2023,Evening,75
+IE 497,Undergraduate Senior Design Thesis II,8,40409,LCD,ARRANGED,0,"Komperda, J",Meet on campus,Spring,2023,N/A,0
+IE 499,Professional Development Seminar,0,38366,LCD,05:00 PM - 05:50 PM,1,"Nicolsen, B; Reckinger, S",Meet on campus,Spring,2023,Evening,50
+IE 511,Mechatronics II,4,21798,LEC - AL,02:00 PM - 03:15 PM,2,"Bhounsule, P; Scott, S",Meet on campus,Spring,2023,Afternoon,75
+IE 567,Data Mining for Machine Health Diagnosis and Prognosis,4,33583,LCD,12:30 PM - 01:45 PM,2,"He, D",Meet on campus,Spring,2023,Afternoon,75
+IE 571,Statistical Quality Control and Assurance,4,37284,LCD,06:30 PM - 09:00 PM,1,"Liotine, M",Meet on campus,Spring,2023,Evening,150
+IE 594,Current Topics in Industrial Engineering,4,39728,LCD,02:00 PM - 03:15 PM,2,"Haghighi, A",Meet on campus,Spring,2023,Afternoon,75
+IE 342,Probability and Statistics for Engineers,3,17226,LCD,10:00 AM - 12:30 PM,2,"Williams, Q",Online with deadlines,Summer,2023,Morning,150
+IE 118,Energy for Sustainable Society,3,48593,LCD,09:30 AM - 10:45 AM,2,"Alonso, M",Meet on campus,Fall,2023,Morning,75
+IE 201,Financial Engineering,3,12747,LCD,12:00 PM - 12:50 PM,3,"Haghighi, A",Meet on campus,Fall,2023,Afternoon,50
+IE 312,Dynamic Systems and Control,3,43502,LCD,10:00 AM - 10:50 AM,3,"Cetin, S",Meet on campus,Fall,2023,Morning,50
+IE 342,Probability and Statistics for Engineers,3,48428,LCD,02:00 PM - 03:15 PM,2,"Brezinsky, K",Meet on campus,Fall,2023,Afternoon,75
+IE 342,Probability and Statistics for Engineers,3,43531,LCD,02:00 PM - 02:50 PM,3,"Nicolsen, B",Meet on campus,Fall,2023,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,12762,LCD,03:00 PM - 03:50 PM,3,"Li, L",Meet on campus,Fall,2023,Afternoon,50
+IE 345,Regression Applications and Forecasting in Engineering,3,42035,LCD,03:00 PM - 03:50 PM,3,"Huang, J",Meet on campus,Fall,2023,Afternoon,50
+IE 365,Work Productivity Analysis,4,12769,LCD - AS1,01:00 PM - 01:50 PM,3,"Williams, Q",Meet on campus,Fall,2023,Afternoon,50
+IE 380,Manufacturing Process Principles,3,12770,LCD,08:00 AM - 08:50 AM,3,"Shahbazian-Yassar, R",Meet on campus,Fall,2023,Morning,50
+IE 380,Manufacturing Process Principles,3,35406,LCD,09:00 AM - 09:50 AM,3,"Abiade, J",Meet on campus,Fall,2023,Morning,50
+IE 396,Senior Design I,3,41221,LCD - AS,12:30 PM - 01:20 PM,2,"Brown, M; Scott, S",Meet on campus,Fall,2023,Afternoon,50
+IE 396,Senior Design I,3,12774,LCD - AS1,09:30 AM - 10:20 AM,2,"Brown, M; Scott, S",Meet on campus,Fall,2023,Morning,50
+IE 396,Senior Design I,3,37915,LCD - AS2,11:00 AM - 11:50 AM,2,"Komperda, J; Scott, S",Meet on campus,Fall,2023,Morning,50
+IE 396,Senior Design I,3,40061,LCD - AS3,04:00 PM - 04:50 PM,2,"Komperda, J; Scott, S",Meet on campus,Fall,2023,Afternoon,50
+IE 411,Mechatronics I,4,32261,LEC - AL1,03:00 PM - 03:50 PM,2,"Kim, M",Meet on campus,Fall,2023,Afternoon,50
+IE 411,Mechatronics I,4,32262,LEC - AL2,03:00 PM - 03:50 PM,2,"Kim, M",Meet on campus,Fall,2023,Afternoon,50
+IE 441,Ergonomics and Human Factors,4,29570,LCD,04:00 PM - 05:15 PM,2,"Williams, Q",Meet on campus,Fall,2023,Afternoon,75
+IE 441,Ergonomics and Human Factors,4,29571,LCD,04:00 PM - 05:15 PM,2,"Williams, Q",Meet on campus,Fall,2023,Afternoon,75
+IE 444,Interdisciplinary Product Development I,4,39048,LCD,02:00 PM - 04:50 PM,1,"Scott, M",Meet on campus,Fall,2023,Afternoon,170
+IE 444,Interdisciplinary Product Development I,4,39049,LCD,02:00 PM - 04:50 PM,1,"Scott, M",Meet on campus,Fall,2023,Afternoon,170
+IE 461,Safety Engineering,4,12782,LCD,09:30 AM - 10:45 AM,2,"Williams, Q",Meet on campus,Fall,2023,Morning,75
+IE 461,Safety Engineering,4,20377,LCD,09:30 AM - 10:45 AM,2,"Williams, Q",Meet on campus,Fall,2023,Morning,75
+IE 467,Discrete Event Computer Simulation Application,4,12785,LCD,11:00 AM - 11:50 AM,3,"Li, L",Meet on campus,Fall,2023,Morning,50
+IE 467,Discrete Event Computer Simulation Application,4,20378,LCD,11:00 AM - 11:50 AM,3,"Li, L",Meet on campus,Fall,2023,Morning,50
+IE 471,Operations Research I,4,12787,LCD,12:00 PM - 12:50 PM,3,"He, D",Meet on campus,Fall,2023,Afternoon,50
+IE 471,Operations Research I,4,20379,LCD,12:00 PM - 12:50 PM,3,"He, D",Meet on campus,Fall,2023,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,4,35388,LCD,02:00 PM - 02:50 PM,3,"He, D",Meet on campus,Fall,2023,Afternoon,50
+IE 473,Stochastic Processes and Queuing Models,4,35475,LCD,02:00 PM - 02:50 PM,3,"He, D",Meet on campus,Fall,2023,Afternoon,50
+IE 496,Undergraduate Senior Design Thesis I,8,41955,LCD,ARRANGED,0,N/A,Meet on campus,Fall,2023,N/A,0
+IE 499,Professional Development Seminar,0,43938,LCD,05:30 PM - 06:20 PM,1,"Nicolsen, B",Meet on campus,Fall,2023,Evening,50
+IE 594,Current Topics in Industrial Engineering,4,38914,LCD,05:00 PM - 06:15 PM,2,"Anahideh, H",Meet on campus,Fall,2023,Evening,75
+IE 201,Financial Engineering,3,16559,LCD,12:30 PM - 01:45 PM,2,"Darabi, H",Meet on campus,Spring,2024,Afternoon,75
+IE 312,Dynamic Systems and Control,3,21976,LCD,12:30 PM - 01:45 PM,2,"Kim, M",Meet on campus,Spring,2024,Afternoon,75
+IE 312,Dynamic Systems and Control,3,35720,LCD,04:00 PM - 04:50 PM,3,"Cetin, S",Meet on campus,Spring,2024,Afternoon,50
+IE 342,Probability and Statistics for Engineers,3,29781,LCD,09:30 AM - 10:45 AM,2,"Huang, J",Meet on campus,Spring,2024,Morning,75
+IE 342,Probability and Statistics for Engineers,3,42133,LCD,10:00 AM - 10:50 AM,3,"Nicolsen, B",Meet on campus,Spring,2024,Morning,50
+IE 342,Probability and Statistics for Engineers,3,46455,LCD,12:00 PM - 12:50 PM,3,"Nicolsen, B",Meet on campus,Spring,2024,Afternoon,50
+IE 380,Manufacturing Process Principles,3,16571,LCD,09:00 AM - 09:50 AM,3,"Shahbazian-Yassar, R",Meet on campus,Spring,2024,Morning,50
+IE 380,Manufacturing Process Principles,3,42670,LCD,10:00 AM - 10:50 AM,3,"Shahbazian-Yassar, R",Meet on campus,Spring,2024,Morning,50
+IE 397,Senior Design Il,2,37340,LCD,ARRANGED,0,"Brown, M",Meet on campus,Spring,2024,N/A,0
+IE 397,Senior Design Il,2,38074,LCD,ARRANGED,0,"Brown, M",Meet on campus,Spring,2024,N/A,0
+IE 397,Senior Design Il,2,43743,LCD,ARRANGED,0,"Brown, M",Meet on campus,Spring,2024,N/A,0
+IE 397,Senior Design Il,2,36816,LCD,ARRANGED,0,"Komperda, J",Meet on campus,Spring,2024,N/A,0
+IE 397,Senior Design Il,2,38598,LCD,ARRANGED,0,"Komperda, J",Meet on campus,Spring,2024,N/A,0
+IE 442,Design and Analysis of Experiments in Engineering,4,39404,LCD - AS1,02:00 PM - 03:15 PM,2,"Tejada Lopez, C",Meet on campus,Spring,2024,Afternoon,75
+IE 442,Design and Analysis of Experiments in Engineering,4,41284,LCD - AS2,02:00 PM - 03:15 PM,2,"Tejada Lopez, C",Meet on campus,Spring,2024,Afternoon,75
+IE 445,Interdisciplinary Product Development 2,4,31905,LCD,02:00 PM - 04:50 PM,1,"Scott, M",Meet on campus,Spring,2024,Afternoon,170
+IE 446,Quality Control and Reliability,4,16566,LCD,03:30 PM - 04:45 PM,2,"Huang, J",Meet on campus,Spring,2024,Afternoon,75
+IE 446,Quality Control and Reliability,4,19267,LCD,03:30 PM - 04:45 PM,2,"Huang, J",Meet on campus,Spring,2024,Afternoon,75
+IE 463,Plant Layout and Materials Handling,4,16568,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",Meet on campus,Spring,2024,Morning,50
+IE 463,Plant Layout and Materials Handling,4,19269,LCD,11:00 AM - 11:50 AM,3,"Williams, Q",Meet on campus,Spring,2024,Morning,50
+IE 466,Production Planning and Inventory Control,4,37765,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",Meet on campus,Spring,2024,Afternoon,50
+IE 466,Production Planning and Inventory Control,4,37766,LCD,01:00 PM - 01:50 PM,3,"Williams, Q",Meet on campus,Spring,2024,Afternoon,50
+IE 472,Operations Research II,4,16570,LCD,02:00 PM - 02:50 PM,3,"He, D",Meet on campus,Spring,2024,Afternoon,50
+IE 472,Operations Research II,4,19538,LCD,02:00 PM - 02:50 PM,3,"He, D",Meet on campus,Spring,2024,Afternoon,50
+IE 494,Special Topics in Industrial Engineering,4,32349,LCD,03:00 PM - 04:15 PM,2,"Williams, Q",Meet on campus,Spring,2024,Afternoon,75
+IE 494,Special Topics in Industrial Engineering,4,32350,LCD,03:00 PM - 04:15 PM,2,"Williams, Q",Meet on campus,Spring,2024,Afternoon,75
+IE 499,Professional Development Seminar,0,38366,LCD,05:00 PM - 05:50 PM,1,"Nicolsen, B",Meet on campus,Spring,2024,Evening,50
+IE 511,Mechatronics II,4,21798,LEC - AL,03:30 PM - 04:20 PM,2,"Kim, M",Meet on campus,Spring,2024,Afternoon,50
+IE 571,Statistical Quality Control and Assurance,4,37284,LCD,06:30 PM - 09:00 PM,1,"Liotine, M",Meet on campus,Spring,2024,Evening,150
+IE 594,Current Topics in Industrial Engineering,4,39825,LCD,09:30 AM - 10:45 AM,2,"He, D",Meet on campus,Spring,2024,Morning,75
+IE 594,Current Topics in Industrial Engineering,4,39728,LCD,05:00 PM - 06:15 PM,2,"Anahideh, H; Scott, S",Meet on campus,Spring,2024,Evening,75
+IE 342,Probability and Statistics for Engineers,3,17226,LCD,10:00 AM - 12:30 PM,2,"Nicolsen, B",Meet on campus,Summer,2024,Morning,150
+IE 342,Probability and Statistics for Engineers,3,24515,LCD,06:00 PM - 08:30 PM,2,"Williams, Q",Meet online at set times,Summer,2024,Evening,150
